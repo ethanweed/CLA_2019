@@ -1,0 +1,67 @@
+@UTF
+@Begin
+@Languages:	dan
+@Participants:	CHI Target_Child, INT Interviewer
+@Options:	IPA
+@ID:	dan|AarhusFrogStories|CHI||male|||TargetChild|||
+@ID:	dan|AarhusFrogStories|INT||female|||Interviewer|||
+@Date:	2017
+@Media:	audio
+@Comment	Age approximately 6 years
+
+*CHI:	jeg kan ihvertfald se (.) . 
+*INT:	&-mm . 
+*CHI:	+< at der er en frø neːl@u [: nede] [* p:n] i det der glas . 
+*INT:	xxx . 
+*CHI:	og så kigger han på den . 
+*INT:	&-mm (..) . 
+*CHI:	og imens han sover så hopper frøen ul@u [: ud] [* p:n] (...) . 
+*CHI:	og så når han ser (.) til frøen (.) så er den væk (...) . 
+*CHI:	og han kigger allevegne (..) . 
+*CHI:	og så er det at så kigger  (de)n os [: også] ul@u [: ud] [* p:n] af
+	vinduet og råber efter den (...) . 
+*CHI:	og så falder hans hund ul@u [: ud] [* p:n] me(d) et glas på hovedet
+	(..) . 
+*CHI:	og så &-øm blir [: bliver] han sur på hunden . 
+*INT:	&-mhm (..) . 
+*CHI:	og så &+le +//.
+*CHI:	går han udenfor og leːlʌ@u [: leder] [* p:n] . 
+*INT:	&-mm . 
+*CHI:	og så kommer han (.) hen til en skov . 
+*CHI:	og så går de hen til en biku:be (..) . 
+*CHI:	og hunden hopper op (.) ve(d) bi^kuben . 
+*CHI:	så flyver bierne ul@u [: ud] [* p:n] (..) . 
+*INT:	&-mm . 
+*CHI:	og så flyver bierne (.) efter hunden . 
+*CHI:	og så leːlʌ@u [: leder] [* p:n] han op(pe) i et træ (..) . 
+*INT:	&-mm . 
+*CHI:	og så dukker han sig nel@u [: ned] [* p:n] (.) fordi <at der> [//]
+	 at bierne er (.) der .  
+*CHI:	og så kommer der en ugle . 
+*CHI:	så løber den [//] de &+ef +//. 
+*CHI:	så &-øm flyver de efter hunden (..) . 
+*CHI:	og så (.) går han væk fra uglen (..) . 
+*INT:	&-mm . 
+*CHI:	og så råber han på den igen op på en sten . 
+*CHI:	og så er der no:l@u [: nogen] [* p:n] der løfter ham og det (.)
+	er en hjort . 
+*INT:	&-mm . 
+*CHI:	og så løber hjorten me(d) ham . 
+*CHI:	og hunden løber me(d) . 
+*CHI:	så falder han nel@u [: ned] [* p:n] i en vandet (..) . 
+*CHI:	og så er det at så er han ne:l@u [: nede] [* p:n] i vandet . 
+*INT:	&-mm (...) . 
+*CHI:	og så den (.) han stadig ne:l@u [: nede] [* p:n] i vandet og så (..)
+	. 
+*CHI:	&-øm (.) lytter han efter den (..) . 
+*CHI:	og så (.) sir [: siger] han ssshhh@o til hunden . 
+*CHI:	så (.) kravle:r de om og ser to frøer . 
+*INT:	&-mm . 
+*CHI:	og så ser de fler(e) frøer der kommer . 
+*INT:	&-mm . 
+*CHI:	og så er det at så tar [: tager] han en af frøerne (...) . 
+*CHI:	og så går han væk . 
+*INT:	&-mm (..) . 
+*CHI:	og det var det . 
+*INT:	ja . 
+@End

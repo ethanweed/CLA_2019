@@ -1,0 +1,157 @@
+@UTF
+@Begin
+@Languages:	dan
+@Participants:	CHI Target_Child, FAT Father
+@ID:	dan|AarhusFrogStories|CHI||female|||TargetChild|||
+@ID:	dan|AarhusFrogStories|FAT|||||Father|||
+@Date:	2017
+@Media:	audio
+@Comment	Age approximately 6 years
+
+*CHI:	jeg ser øhm en månen hvor det er nat . 
+*CHI:	og så er der en hund som der kigger ned til frøen . 
+*CHI:	og så er der en dreng som der sidder sådan her mmmh .
+*FAT:	mmm . 
+*CHI:	og så s(er) [//] kigger frøen på drengen .
+*CHI:	og så kan jeg også se en seng og en lampe og et vindue og noget
+	tøj som der ligger på gulvet . 
+*FAT:	mmm . 
+*CHI:	men jeg ved .
+*FAT:	hvad tror du der skal ske nu her på billedet . 
+*CHI:	at hunden kigger på frøen . 
+*CHI:	og det er aften . 
+*CHI:	og drengen sidder også og kigger på den . 
+*CHI:	og hunden sidder og snuser til den . 
+*FAT:	mm .
+*CHI:	tror jeg . 
+*FAT:	næste billede . 
+*CHI:	frøen hopper ud af glasset imens hunden og drengen sover og imens
+	natten er der . 
+*FAT:	mmm .
+*FAT:	næste billede . 
+*CHI:	næste morgen så ser de at frøen er pist væk . 
+*CHI:	både hunden og drengen bliver forbavsede . 
+*FAT:	mmm .
+*CHI:	og ja . 
+*CHI:	de leder overalt men de kan ikke finde den . 
+*CHI:	og .
+*CHI:	den der vi var nået til var det ikke .
+*CHI:	jo det var den der vi var nået til . 
+*FAT:	mmm .
+*CHI:	de leder udenfor og hunden har en krukke på hovedet .
+*FAT:	mmm . 
+*FAT:	og hvad gør drengen . 
+*CHI:	de [/] de .
+*CHI:	hu- [//] øhm han løfter vinduet op . 
+*CHI:	hvad tror du han råber .
+*FAT:	hvor er du henne frø . 
+*CHI:	nåår ja hvad .
+*FAT:	næste billede . 
+*CHI:	hunden går ned ad væggen .
+*CHI:	og . 
+*CHI:	drengen kigger forbavset på hunden . 
+*FAT:	ja .
+*CHI:	som der har en krukke på hovedet .
+*FAT:	mmm . 
+*FAT:	næste billede .
+*CHI:	drengen bliver sur på hunden som der slikker drengen .
+*FAT:	mmm . 
+*FAT:	hvad skete der med glaskrukken . 
+*CHI:	og glaskrukken den blev smadret . 
+*CHI:	de kalder og vuffer . 
+*FAT:	mmm .
+*CHI:	men der kommer ikke nogen kvækken f(ra) . 
+*FAT:	m-m .
+*CHI:	tilbage .
+*FAT:	nej der er ikke nogen der svarer vel . 
+*CHI:	måske har den hoppet ind i ind i øhm træet tænker drengen . 
+*CHI:	og hunden tænker at den er hoppet [/] i(nd) hoppet ind i bi^kuben . 
+*FAT:	tror du så det nå .
+*FAT:	næste billede . 
+*CHI:	hunden prøver at vuffe sig frem . 
+*CHI:	drengen prøver at sige frø kom op . 
+*FAT:	hvad laver drengen der . 
+*CHI:	det er også det jeg mente .
+*CHI:	drengen øh sagde frø kom op .
+*FAT:	mmm . 
+*FAT:	hvad kommer der op i stedet for . 
+*CHI:	puha .
+*CHI:	det lugter dårligt siger drengen . 
+*CHI:	vuf vuf siger hunden .
+*FAT:	mmm . 
+*FAT:	hov der kom et jordegern op der kan du se det . 
+*CHI:	mhm og jordegernet kommer op .
+*FAT:	mmm . 
+*CHI:	så kommer hunden til at skubbe til det . 
+*CHI:	og drengen er for længst gået . 
+*CHI:	så kravlede drengen op i træet <og kiggede> [/] og kiggede ind men
+	hov ups . 
+*CHI:	bierne kom efter hunden . 
+*CHI:	og drengen <blev skubbet ned> [/] nej blev forskrækket så den [//] .
+*CHI:	han faldt ned . 
+*CHI:	fordi der var en ugle i .
+*FAT:	i træet . 
+*CHI:	ja se .
+*FAT:	mmm . 
+*CHI:	hunden løber så hurtigt den kan . 
+*FAT:	mm .
+*CHI:	er der mere .
+*FAT:	mm . 
+*CHI:	drengen gemmer sig så meget han kan . 
+*FAT:	mm hvad kommer så der .
+*CHI:	uglen .
+*FAT:	mm . 
+*CHI:	<drengen hold(er)> [//] nej øh uglen sidder oppe i et træ og
+	kigger på . 
+*CHI:	hunden lis(ter) [//] lister helt over til drengen . 
+*FAT:	mmm .
+*FAT:	hvad laver drengen der . 
+*CHI:	men hov det var et skal jeg sige elsdyr eller rensdyr . 
+*FAT:	jeg tror det er et .
+*CHI:	elsdyr . 
+*FAT:	<noget med (x)> [//] det er noget med et stort gevir ikke også . 
+*FAT:	jo en kronhjort måske .
+*CHI:	tror du . 
+*CHI:	det skriver du bare når vi er kommet til det .
+*FAT:	m-hm . 
+*CHI:	men hov . 
+*CHI:	<den løber st(ærkt)> [/] den løber st(ærkt) . 
+*CHI:	den smed ikke ham af . 
+*FAT:	mmm .
+*CHI:	ej hvor sjovt . 
+*CHI:	og hunden løber efter og vuffer og vuffer og vuffer . 
+*CHI:	vuf vuf .
+*FAT:	mmm .
+*CHI:	siger hunden . 
+*FAT:	mmm .
+*CHI:	og så smider den øhm drengen ned . 
+*CHI:	og den sparker hunden ned . 
+*CHI:	og . 
+*CHI:	de faldt ned i søen . 
+*CHI:	uaaah hjælp . 
+*CHI:	siger drengen . 
+*CHI:	men elsdyret står . 
+*CHI:	det kan også være et krondyr .
+*FAT:	mmm . 
+*CHI:	heldigvis kom de over til en træstamme hunden og drengen . 
+*CHI:	drengen siger shh . 
+*CHI:	hunden kravler bare forsigtigt hen til ham .
+*FAT:	mmm . 
+*CHI:	drengen kravler sig over . 
+*CHI:	hunden hopper over træstammen . 
+*CHI:	men hov lige bagved sidder to frøer . 
+*CHI:	den ene er hans . 
+*CHI:	den anden er ikke hans . 
+*FAT:	mmm .
+*CHI:	og se der er små frøunger . 
+*CHI:	hunden kigger forbavset . 
+*FAT:	mmm .
+*CHI:	frøunger .
+*FAT:	mmm . 
+*CHI:	drengen siger se hvor smukt verden er . 
+*CHI:	til sin lille frø .
+*FAT:	mmm . 
+*CHI:	og hunden leger bare i vandet . 
+*CHI:	der er en fan(tastisk) dejlig frøfamilie men hov . 
+*CHI:	der er en lille frø som der som de har glemt . 
+@End

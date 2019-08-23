@@ -1,0 +1,52 @@
+@UTF
+@Begin
+@Languages:	dan
+@Participants:	CHI Target_Child, INT Interviewer
+@ID:	dan|AarhusFrogStories|CHI||male|||TargetChild|||
+@ID:	dan|AarhusFrogStories|INT||female|||Interviewer|||
+@Date:	2017
+@Media:	audio
+@Comment	Age approximately 6 years
+
+*CHI:	historien handlede om at der var en dreng og en hund der havde
+	fanget en frø. 
+*CHI:	men da de skulle til at s(ove) sove listede frøen ud af klassen . 
+*CHI:	så da de vågnede næste morgen. 
+*CHI:	de leder over det hele men de kunne ikke finde den.  
+*CHI:	og de kalder også på den ud af vinduet. 
+*CHI:	og går ud af vinduet og prøver at finde den. 
+*CHI:	og s(å) øhm og så prøver de at gå derude og prøve at gå ud i skoven
+	og se om de kan finde den. 
+*CHI:	og så kalder de på den igen. 
+*INT:	mhm. 
+*CHI:	stald. 
+*CHI:	finder de et træ med en bikube og så og et hul. 
+*CHI:	hunden hunden vuffer op til gør op til bien og pubben og og drengen
+	kalder ned i hullet. 
+*CHI:	men der kommer et dyr op ad hullet og og bisværmen kommer af af
+	bikuben. 
+*CHI:	og så bliver hunden bange den løber.
+*CHI:	så prøver de at kalde om den var inde i et træ i et hul men i
+	stedet kommer der en ugle og skræmmer d(rengen) drengen væk. 
+*CHI:	og så kommer bisværmen og flyver lige oven over dem efter hunden. 
+*CHI:	flyver bisværmen så lige efter hunden . 
+*CHI:	så prøver drengen at fi(nde) lede efter den bag bag en sten men
+	uglen ka(n) gider ikke at have det så den prøver at få ham væk . 
+*CHI:	så kalder han oven på stenen .
+*CHI:	men i stedet kommer der e(t) et dyr med dyr med horn . 
+*CHI:	der tager drengen med sit gevir og løber med ham imod hunden . 
+*CHI:	og går ud over og smider ham ud over . 
+*CHI:	en øhm en en kant ned i en å nej ned i en sø . 
+*CHI:	og der k(an) der bliver de smidt ned og ligger nede i søen . 
+*CHI:	så find(er) ned på hovedet så finder de en kant bare gik drengen op
+	på . 
+*CHI:	den går de op på . 
+*CHI:	og siger drengen siger hans hund skal være stille . 
+*CHI:	og de går op bag den . 
+*CHI:	og der finder de frøen der blev væk . 
+*CHI:	den har fundet en anden dame den vil gerne giftes med der havde
+	flere børn . 
+*CHI:	så sagde de farvel til den en af ungerne, fordi den skulle de have
+	med hjem . 
+*CHI:	og og så sagde de hej hej og så gik de hjem . 
+@End

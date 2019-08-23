@@ -1,0 +1,90 @@
+@UTF8
+@Begin
+@Languages:	dan
+@Participants:	CHI Target_Child, INT Interviewer
+@ID:	dan|AarhusFrogStories|CHI||female|||TargetChild|||
+@ID:	dan|AarhusFrogStories|INT||female|||Interviewer|||
+@Date:	2017
+@Media:	audio
+@Comment	Age approximately 6 years
+
+*CHI:	så her er drengen og han har kun én frø .
+*CHI:	og så tænker han at han går .
+*CHI:	at [?] og [x 3] så drømmer  [?]  han at om [/] om hvis han
+	kan få flere &-øhm frøer .
+*CHI:	<og så &-øhm> [/] og så kommer frøen ud af [/] af jeg kan ikke
+	lige huske hvad det der hedder i dansk ?
+*INT:	det er en krukke .
+*CHI:	og så kommer han ud af hans krukke .
+*INT:	&-mmh .
+*CHI:	<og så> [/] og så vågner de .
+*CHI:	og så finder de &-øhm krukken .
+*CHI:	og så frøen er ikke i krukken mere .
+*CHI:	og så lægger han sin jakke på .
+*CHI:	men så flyver de .
+*CHI:	og han prøver at få den .
+*CHI:	og [/] og så får han den og så kommer han ikke op .
+*INT:	&-mmh .
+*CHI:	og så kigger de ud og hundens hoved er gået i krukken .
+*CHI:	de kigger ud ad vinduet .
+*CHI:	og så klatrer ha(ns) [/] hans hund (.) ud ad vinduet og falder ned
+	[?] .
+*CHI:	og så hjælper drengen ham .
+*CHI:	<og så ky(sser)> [/] og så kysser hunden ham .
+*CHI:	og så er han meget vred at han kysser ham .
+*CHI:	men for os det er sådan at han slikker os .
+*INT:	&-mmh .
+*CHI:	og så [x 3] &-øh og så kalder de på frøen og [/] og jeg ved det ikke
+	hvad han laver .
+*CHI:	og så fandt de en stor skov .
+*CHI:	og før fandt de de her bier og så går de ind i deres &-øhm hule [?] .
+*CHI:	og så kalder de vist hvor [/] hvor h(an) [//] frøen er fordi [//] og
+	[/] så kalder hunden deroppe .
+*CHI:	og så kalder drengen dernede .
+*CHI:	og [/] og så holder han for næsen også .
+*CHI:	og så <kommer han derop> [//] eller hunden kommer derop .
+*INT:	&-mmh .
+*CHI:	<og [/] og så> [/] og så rystede hunden træet .
+*CHI:	<og så> [/] og så går ham der ind igen .
+*CHI:	og så hørte han et &-øhm stor(t) bang .
+*CHI:	<og så &-øhm> [/] og så faldt deres [//] biernes hule ned .
+*CHI:	og så &+l &+l løb hunden .
+*CHI:	<og s(å) og> [/] og så stoppede de .
+*CHI:	og så fandt hunden ham .
+*CHI:	<og så> [/] og så fandt ha(m) [//] han [/] han en kikkert dernede i .
+*INT:	&-mmh .
+*CHI:	og så falder han ned &-øhm [/] &-øhm før bierne kommer fordi der var
+	en ugle derinde .
+*INT:	&-mmh .
+*CHI:	og så løber bierne efter hunden .
+*CHI:	<og så> [/] og så <var d(et)> [//] er det at uglen løber efter ham .
+*CHI:	og så stopper han .
+*CHI:	og så han kunne ikke se rensdyret bag_ved stenen .
+*INT:	&-mmh .
+*CHI:	og så kunne han stadig ikke se ham .
+*CHI:	og så faldt han oven_på han(s) [/] hans hoved .
+*CHI:	og så løber han .
+*CHI:	<og så> [/] og så sto(pper) [/] stopper han og sådan .
+*CHI:	og så falder de ned .
+*CHI:	og [x 3] <de tro(r)> [/] de tror at der er langt ned cliffen [?] men
+	det er der ikke .
+*CHI:	<og så> [x 3] &-øhm gik rensdyret .
+*CHI:	men så kommer rensdyret igen .
+*CHI:	og så faldt de ned i en ø .
+*INT:	&-mmh .
+*CHI:	<og så> [x 3] fand(t) [//] hørte de noget .
+*CHI:	<og så var det at> [//] og så siger han shh <og s(å)> [//] til at
+	være stille .
+*INT:	&-mmh .
+*CHI:	og så fandt de deres frø .
+*CHI:	og så fandt de <at de har f(fået)> [//] at deres frø har fået en
+	[x 3] kone eller en mand jeg ved det ikke helt hvem er hvem .
+*CHI:	og så så de at de har fået babyer .
+*CHI:	<og så t(og)> [/] og så tog de dem med hjem og en k(om) [?] og så
+	men ikke alle af dem de tog kun én af babyfrøe(r)n(e) med hjem .
+*CHI:	og så &-øhm var det at [/] at han kan ikke komme op <i lin(e)> [/] i
+	[/] i køen <der og> [//] der hvor hans plads er .
+*INT:	&-mmh .
+*CHI:	<og så er> [/] og så er (hi)storien er slut .
+*INT:	&-mmh .
+@End

@@ -1,0 +1,60 @@
+@UTF8
+@Begin
+@Languages:	dan
+@Participants:	CHI Target_Child, INT Interviewer
+@ID:	dan|AarhusFrogStories|CHI||male|||TargetChild|||
+@ID:	dan|AarhusFrogStories|INT||female|||Interviewer|||
+@Date:	2017
+@Media:	audio
+@Comment	Age approximately 6 years
+
+*CHI:	der var en dreng der kiggede på en frø .
+*INT:	&-mhm .
+*CHI:	og og så skulle han til at sove .
+*INT:	&-mhm .
+*INT:	skal vi vil du have næste sider &-mhm .
+*CHI:	og så .
+*INT:	du kan bare bladre når du har lyst til .
+*CHI:	og så hopper frøen ud .
+*INT:	&-mhm .
+*CHI:	af af glasset .
+*CHI:	og så næste morgen &-øh så drengen at frøen var væk .
+*INT:	&-mhm .
+*CHI:	så ledte han over det hele og drengen .
+*CHI:	så så råber drengen efter frøen .
+*CHI:	så sprang hunden ud .
+*CHI:	og så blev drengen sur på hunden .
+*CHI:	så vuffede [?] drengen efter frøen igen .
+*INT:	&-mhm .
+*CHI:	så skulle de gå ind i en skov .
+*INT:	&-mhm .
+*CHI:	så kiggede drengen ned i et hul .
+*INT:	&-mhm .
+*CHI:	så kiggede drengen op .
+*CHI:	så så drengen at det er ikke var en frø der v(ar) [?].
+*CHI:	hunden den væltede bikuben ned .
+*CHI:	så ledte drengen i et træ .
+*INT:	&-mhm .
+*CHI:	men der var en ugle .
+*CHI:	hunden løb .
+*CHI:	og drengen og drengen ha(n) han han løb efter dem .
+*CHI:	han løb væk fra uglen .
+*INT:	&-mhm .
+*CHI:	og så råbte drengen igen .
+*CHI:	og så og så var der et rensdyr under .
+*CHI:	og så løb rensdyret med drengen .
+*CHI:	og så faldt hunden og drengen ned .
+*INT:	&-mhm .
+*CHI:	men så var de nede i en skov .
+*INT:	&-mhm .
+*CHI:	og så og så faldt de ned i vand(et) .
+*CHI:	så så de et træ .
+*CHI:	og så s(å) [?] sagde d(rengen) drengen til hunden at han skulle
+	være.
+*CHI:	stille .
+*CHI:	så kiggede drengen n(ed) n(ed) ned .
+*CHI:	og der var frøen [/] to frøer .
+*CHI:	der så drengen to frøer og og mange unger .
+*CHI:	så tog drengen en frø op på sin hånd .
+*CHI:	og så smilede han .
+@End

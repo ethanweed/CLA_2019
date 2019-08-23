@@ -1,0 +1,99 @@
+@UTF8
+@Begin
+@Languages:	dan
+@Participants:	CHI Target_Child, INT Interviewer
+@ID:	dan|AarhusFrogStories|CHI||female|||TargetChild|||
+@ID:	dan|AarhusFrogStories|INT||female|||Interviewer|||
+@Date:	2017
+@Media:	audio
+@Comment	Age approximately 6 years
+
+*CHI:	hunden kigger ned i en lille syltetøjsglas eller sådan noget .
+*INT:	mhm .
+*CHI:	hvor der sidder en frø i .
+*INT:	mhm .
+*CHI:	og det gør drengen også .
+*INT:	mhm .
+*CHI:	og de sidder inde på et værelse .
+*CHI:	og og det er aften .
+*INT:	mhm .
+*INT:	skal vi bladre til næste side ?
+*CHI:	ja .
+*INT:	mhm .
+*CHI:	der sover hunden og drengen inde på værelset
+	men hunden er ved at snuppe ud af glasset .
+*INT:	mhm .
+*CHI:	og det er nat .
+*INT:	mhm .
+*INT:	hvis det er så må du godt bladre selv .
+*INT:	hvis du synes du er klar til næste side .
+*CHI:	mhm .
+*INT:	ja .
+*CHI:	så vågner hunden og drengen øhm og ser at frøen er væk .
+*INT:	mhm .
+*CHI:	og det er morgen .
+*INT:	mhm .
+*CHI:	så tager drengen tøj på og hunden kigger inden i flasken
+	og tager hovedet ind i .
+*CHI:	og og drengen råber råber noget .
+*CHI:	og hunden den prøver også men den kan ikke
+	for den har et glas om hovedet .
+*INT:	mhm .
+*CHI:	og så falder hunden ned og drengen kigger derned .
+*INT:	mhm .
+*CHI:	og så går drengen ned og hunden slikker på ham .
+*CHI:	og han ser ikke ret glad ud .
+*CHI:	og så råber hunden og drengen efter sikkert den frø .
+*INT:	mhm .
+*CHI:	hm .
+*CHI:	øh hvad er det jeg skal fortælle her ?
+*INT:	du kan også bare bladre til næste side hvis du helst vil det .
+*CHI:	okay .
+*CHI:	så kigger drengen ned i et hul og hunden kigger op i bikuben .
+*CHI:	og drengen holder sig for næsen og der stikker et egern op af hullet
+	eller hvad det er .
+*CHI:	og hunden gøer op i bikuben .
+*CHI:	og hunden ryster til træet så falder bikuben ned .
+*CHI:	og det og den der muldvarp det der egern
+	hvad det er den kigger derhen .
+*CHI:	og så kravler drengen op i træet og kigger ind i hullet på træet .
+*CHI:	så flyver der en ugle ud og så falder han ned på ryggen .
+*CHI:	og hunden bliver jagtet af nogen bier .
+*CHI:	og den løber .
+*CHI:	og drengen løber efter nej fra en ugle .
+*CHI:	og så går han op på stenen og råber og han holder fast i et gevir .
+*INT:	mhm .
+*CHI:	og hunden går og kigger .
+*CHI:	og så bliver drengen løftet op øhm på en ryggen af en af et øh
+	rensdyr tror jeg nok det er .
+*INT:	mhm .
+*CHI:	og hunden kigger ind i stenene .
+*CHI:	og så løber rensdyret med drengen på ryggen
+	og med hunden løber foran .
+*INT:	mhm .
+*CHI:	og så falder drengen og hunden ned fra klippen .
+*INT:	mhm .
+*CHI:	mmm .
+*CHI:	hvad skal jeg fortælle her ?
+*INT:	det ved jeg ikke .
+*INT:	du kan også bare bladre til næste side
+	hvis du ikke synes der er noget .
+*CHI:	mhm .
+*CHI:	og så falder de ned i en sø .
+*INT:	mhm .
+*CHI:	og så rejser og så rejser de sig op .
+*CHI:	og så siger drengen shh og hunden går bare hen til drengen .
+*INT:	mhm .
+*CHI:	og så går de op af en træstamme .
+*INT:	mhm .
+*CHI:	og så finder de to frøer .
+*CHI:	og frøbørn .
+*INT:	mhm .
+*CHI:	og så kigger de på de søde frøer .
+*INT:	mhm .
+*CHI:	og så leger de med frøerne .
+*CHI:	sammen med hunden .
+*INT:	mhm .
+*CHI:	og her sidder frøerne og kigger ud i søen .
+*INT:	mhm .
+@End
