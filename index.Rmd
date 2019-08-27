@@ -92,6 +92,7 @@ Goals for this week:
 ## Notebooks
 
 [Notebook 1](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/IF statements-for-counting-words.html)
+
 [Data for Notebook 1](https://raw.githubusercontent.com/ethanweed/CLA_2019/master/Coding/Friday%20Exercises/Data/Adam_mot_words_list.txt)
 
 
