@@ -91,7 +91,7 @@ Goals for this week:
 
 ## Notebooks
 
-<a href="/CLA_2019/Coding/Friday Exercises/Notebooks/IF statements-for-counting-words.html">Counting Words with IF statements </a>
+<a href="https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/IF statements-for-counting-words.html">Counting Words with IF statements </a>
 
 
 ## Lecture Slides
