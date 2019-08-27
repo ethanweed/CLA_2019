@@ -1,0 +1,98 @@
+---
+title: "Child Language Acquisition"
+output: 
+  html_document:
+    df_print: default
+    number_sections: no
+    self_contained: no
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome to Child Language Acquisition!
+
+## Textbook
+Clark, Eve V. (2016). First Language Acquisition. Cambridge: Cambridge University Press
+NB: Any edition of this book should be fine.
+
+### Week 36
+Goals for this week:
+
+1. Learn about the course: goals, structure, exam
+1. Learn about stages in child language development
+1. Dip toes into programming
+
+### Week 37
+Goals for this week:
+
+1. Learn about different theoretical approaches to child language learning
+1. Learn about lexical diversity (TTR) and learn how to calculate it
+1. Learn about reproducible science
+1. Learn about variables
+1. Learn about flow control and IF statements
+
+### Week 38
+Goals for this week:
+
+
+### Week 39
+Goals for this week:
+
+
+### Week 40
+Goals for this week:
+
+
+### Week 41
+Goals for this week:
+
+
+### Week 42
+Goals for this week:
+
+
+### Week 43
+Goals for this week:
+
+
+### Week 44
+Goals for this week:
+
+
+### Week 45
+Goals for this week:
+
+
+### Week 46
+Goals for this week:
+
+
+### Week 47
+Goals for this week:
+
+
+
+### Week 48
+Goals for this week:
+
+
+
+### Week 49
+Goals for this week:
+
+
+
+
+## Notebooks
+
+[Week 1: Counting Words with IF statements](file:///Users/ethan/Documents/GitHub/CLA_2019/Coding/Friday%20Exercises/Notebooks/IF%20statements-for-counting-words.html)
+
+
+
+## Lecture Slides
