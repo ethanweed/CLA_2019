@@ -1,0 +1,59 @@
+@UTF
+@Begin
+@Languages:	dan
+@Participants:	CHI Target_Child, INT Interviewer
+@ID:	dan|AarhusFrogStories|CHI||male|||TargetChild|||
+@ID:	dan|AarhusFrogStories|INT||female|||Interviewer|||
+@Date:	2017
+@Media:	audio
+@Comment	Age approximately 6 years
+
+*CHI:	der var engang en lille frø der var i et glas . 
+*CHI:	så når det var nat hoppede den ud . 
+*CHI:	af flasken . 
+*CHI:	så når han vågnede var den væk . 
+*CHI:	og han sagde åh nej . 
+*CHI:	og så kiggede han overalt . 
+*CHI:	og den lille frø var der ikke . 
+*CHI:	så fik hunden glasset på hovedet . 
+*CHI:	og så faldt hunden ned . 
+*CHI:	så sagde . 
+*CHI:	så s . 
+*CHI:	så blev han lidt sur på den . 
+*CHI:	og så . 
+*CHI:	og så gik de en tur udenfor . 
+*CHI:	og så så de og så så de en bi . 
+*CHI:	kube . 
+*CHI:	og . 
+*CHI:	og hunden ville gerne have honning . 
+*CHI:	drengen han kiggede ned i et hul . 
+*CHI:	og så fandt hunden en frø . 
+*CHI:	og så hoppede hunden . 
+*CHI:	hunden ville stadigvæk bare have honningen . 
+*CHI:	og så faldt . 
+*CHI:	bikuben ned . 
+*CHI:	og frøen kiggede op . 
+*CHI:	og så kravlede drengen op i et træ . 
+*CHI:	og så kom der en ugle og så faldt han ned . 
+*CHI:	så løb hunden væk fra bierne . 
+*CHI:	og drengen gemte sig bag en sten . 
+*CHI:	så sagde han hvor er du hunden . 
+*CHI:	og så kom der en elg og løb væk med den . 
+*CHI:	og . 
+*CHI:	og så fandt han hunden . 
+*CHI:	og så faldt de ned i vandet . 
+*CHI:	og de fløj . 
+*CHI:	og det blæste meget . 
+*CHI:	og så faldt han på hovedet ned i vandet . 
+*CHI:	men øh så blev han okay og satte sig og hunden var oppe på hans
+	hoved . 
+*CHI:	så sagde han stille . 
+*CHI:	så kiggede de ned ad en træstamme . 
+*CHI:	så mødte de to frøer . 
+*CHI:	og så kom der nogen . 
+*CHI:	så kom der nogen af deres familie . 
+*CHI:	og så så sagde drengen . 
+*CHI:	her kan vi da godt blive og lege lidt . 
+*CHI:	og så . 
+*CHI:	øhm så var hele deres familie der og kiggede ud på vandet . 
+@End

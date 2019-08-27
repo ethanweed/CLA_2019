@@ -1,0 +1,56 @@
+@UTF8
+@Begin
+@Languages:	dan
+@Participants:	CHI Target_Child, INT Interviewer
+@ID:	dan|AarhusFrogStories|CHI||male|||TargetChild|||
+@ID:	dan|AarhusFrogStories|INT||female|||Interviewer|||
+@Date:	2017
+@Media:	audio
+@Comment	Age approximately 6 years
+
+*CHI:	det er sån at der er en dreng og .
+*CHI:	så havde de fanget en frø midt om aften .
+*CHI:	m og så var der osse en hund (...) .
+*CHI:	og seng (...) .
+*CHI:	og trøøøøje (...) .
+*CHI:	og så noget med frøen der var på vej ud .
+*CHI:	og drengen sov og hunden sov os (...) .
+*CHI:	og så vågnede de begge to og så så de frøen var væk .
+*CHI:	og så prøvede de at lede efter den (...) .
+*CHI:	og m e hunden havde så fået krukken på sig .
+*CHI:	og drengen råbte efter den .
+*CHI:	og hunden faldt så ned .
+*CHI:	og så var drengen sur på hunden og hunden slikkede .
+*CHI:	og så gik de ud for å og lede efter frøen .
+*CHI:	eh øøøhm sån kv så den (stop/stå) (...) .
+*CHI:	så prø så spurgt vi om det var <ned i jorden> [?] l.
+*CHI:	og hunden troed den var deroppe men .
+*CHI:	men (.) så (.) hva det der for et dyr .
+*INT:	ja det ved jeg faktisk ikke hvad det er .
+*INT:	et eller andet dyr .
+*CHI:	nå .
+*INT:	hm .
+*CHI:	jeg tror det er en mulvarp .
+*INT:	ja det kan godt ske .
+*CHI:	så faldt ehm tuben [?] ned og så tom [?] alle bierne .
+*CHI:	ehm ud .
+*CHI:	så ledet drengen oppe i et træ .
+*CHI:	men der var han ik det var en ugle .
+*CHI:	og så faldt drengen ned .
+*CHI:	og bierne var efter hunden .
+*CHI:	og uglen var e f fter drengen .
+*CHI:	og såå råbt han og så prøvet han igen .
+*CHI:	så faldt han bagom (.) på et dyr .
+*CHI:	så løbt hunden med .
+*CHI:	og så tasted hopped de begge to så faldt .
+*CHI:	den hunden ned og .
+*CHI:	<det blev gjorde drengen os en sø> [?] (...) .
+*CHI:	og så øhhmmmmmm var det en blindgyde .
+*CHI:	så tomp han ned i vand .
+*CHI:	så øhm var han på vej op .
+*CHI:	og så m prøvet de så troed de at det var dernede i .
+*CHI:	men har var der han gemt sig bare bagved .
+*CHI:	og så var der frøunger og en frø .
+*CHI:	og så fik drengen en og hunden var glad og de løb .
+*CHI:	så sagde de farvel .
+@End

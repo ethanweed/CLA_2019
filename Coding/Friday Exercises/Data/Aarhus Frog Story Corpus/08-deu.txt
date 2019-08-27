@@ -1,0 +1,63 @@
+@UTF
+@Begin
+@Languages:	deu
+@Participants:	CHI Target_Child, INT Interviewer
+@ID:	deu|AarhusFrogStories|CHI||female|||TargetChild|||
+@ID:	deu|AarhusFrogStories|INT||female|||Interviewer|||
+@Date:	2017
+@Media:	audio
+@Comment	Age approximately 6 years
+
+*INT:	so .
+*CHI:	das war einmal ein Junge und ein Frosch . 
+*INT:	mhm . 
+*CHI:	der F(rosch) . 
+*CHI:	die hatten den Frosch in der Gl(as) . 
+*CHI:	äh im Glas . 
+*CHI:	dann war es Nacht . 
+*CHI:	und dann als er aufgewacht war , dann war der Frosch weg . 
+*CHI:	und dann haben sie gesucht . 
+*INT:	also du kannst auch umblättern . 
+*INT:	wenn du vielleicht jedes Bild . 
+*INT:	ja ? 
+*CHI:	xxx . 
+*CHI:	und dann war es morgen . 
+*CHI:	und dann war er weg . 
+*CHI:	und dann haben sie überall in dem Zimmer geguckt . 
+*CHI:	haben für ihn gerufen . 
+*CHI:	und geguckt in Garten . 
+*CHI:	dann ist der Hund runter gefallen . 
+*CHI:	dann &hat jetzt ging er auch runter und &guckt . 
+*CHI:	dann suchte er draußen . 
+*CHI:	und dann noch im Wald . 
+*CHI:	wo die Bienen waren . 
+*CHI:	dann hat , dann hat er geguckt .
+*CHI:	und der Hund mit den Bienen so ein xxx . 
+*CHI:	dann kam da ein Hamster raus von Loch . 
+*CHI:	und dann . 
+*CHI:	ist das Bienennetz runter xxx . 
+*CHI:	den Bienenbau runter gefallen . 
+*CHI:	und der Hund hat geguckt . 
+*CHI:	dann hat er in so geguckt wo (ei)ne Eule wohnt , beim Baum . 
+*CHI:	die Bienen waren da auch . 
+*CHI:	dann wurde die Eule . 
+*CHI:	dann ist der Hund vor den Bienen weg gelaufen . 
+*CHI:	und er von der Eule . 
+*CHI:	(u)n(d) im Gebüsch war ein Hirsch . 
+*CHI:	und dann hat er den Hirschgeweih berührt . 
+*CHI:	und dann hat er i(hn) den Hirsch auf (de)n Hals genomm(en) . 
+*CHI:	und mit ihn zum (ei)ner Klippe wo unten ein See war . 
+*CHI:	dann hat er sie da rein geschmissen . 
+*CHI:	den Hund auch . 
+*CHI:	in diesen klein(en) . 
+*CHI:	xxx dann macht es platsch . 
+*CHI:	dann war da sie in d(e)n See . 
+*CHI:	und dann war xxx . 
+*CHI:	und die die gehört . 
+*CHI:	unter diesen Baumstamm . 
+*CHI:	dann haben sie geguckt . 
+*CHI:	und dann war er mit ein Anderen xxx , und die . 
+*CHI:	haben dann Babys gemacht . 
+*CHI:	dann haben sie mit den Babys gespielt . 
+*CHI:	dann sind sie zurück nach Hause gegangen . 
+@End
