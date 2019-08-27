@@ -91,7 +91,9 @@ Goals for this week:
 
 ## Notebooks
 
-[Week 1: Counting Words with IF statements](file:///Users/ethan/Documents/GitHub/CLA_2019/Coding/Friday%20Exercises/Notebooks/IF%20statements-for-counting-words.html)
+[Week 1: Counting Words with IF statements]("/CLA_2019/Coding/Friday Exercises/Notebooks/IF statements-for-counting-words.html
+Find file Copy path
+")
 
 
 
