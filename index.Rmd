@@ -18,13 +18,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Welcome 
 Welcome to Child Language Acquisition!
 
+----------------------------------------
+
 ## Textbooks
 1. Clark, Eve V. (2016). First Language Acquisition. Cambridge: Cambridge University Press NB: Any edition of this book should be fine.
 1. [Heinhold (2012) A Practical Introduction to Python Programming](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 
+----------------------------------------
 
 ### Week 36
-Goals for this week:
+
+
+#### Goals for this week:
 
 1. Learn about the course: goals, structure, exam
 1. Learn about stages in child language development
@@ -34,11 +39,12 @@ Goals for this week:
 
 1. [Video on creating a new Jupyter Notebook](https://www.youtube.com/watch?v=-MyjG00la2k)
 
+----------------------------------------
+
 ### Week 37
-Goals for this week:
+#### Goals for this week:
 
 1. Learn about different theoretical approaches to child language learning
-1. Learn about lexical diversity (TTR) and learn how to calculate it
 1. Learn about reproducible science
 1. Learn about variables
 1. Learn about *for*-statements (Repetitive tasks on sentence-, text- and corpus level)
@@ -47,13 +53,15 @@ Goals for this week:
 
 1. Heinhold Ch. 1 & 2 (skip 1.1-2)
 
+----------------------------------------
 
 ### Week 38
-Goals for this week:
+#### Goals for this week:
 
-1. Learn about Child-directed speech
+1. Learn about child-directed speech
 1. Learn about speech stream segmentation
 1. Learn about early words
+1. Learn about lexical diversity (TTR) and learn how to calculate it
 1. Learn about doing arithmetic with Python (Getting metrics out of linguistic data)
 1. Learn about flow control and *if*-statements (Test certain conditions in data)
 
@@ -61,8 +69,10 @@ Goals for this week:
 
 1. Heinhold Ch. 3 & 4
 
+----------------------------------------
+
 ### Week 39
-Goals for this week:
+#### Goals for this week:
 
 1. Learn more about early words, and the production of early speech sounds
 1. Learn about effective and readable code (Write code that is human-readable)
@@ -72,8 +82,10 @@ Goals for this week:
 
 1. Heinhold Ch. 5 & 6
 
+----------------------------------------
+
 ### Week 40
-Goals for this week:
+#### Goals for this week:
 
 1. Learn about acquisition of semantics
 1. Learn about lists (Store data in a structured way)
@@ -83,8 +95,10 @@ Goals for this week:
 
 1. Heinhold Ch. 7 & 12
 
+----------------------------------------
+
 ### Week 41
-Goals for this week:
+#### Goals for this week:
 
 1. Learn about acquisition of syntax
 1. Learn more about lists
@@ -94,8 +108,10 @@ Goals for this week:
 
 1. Heinhold Ch. 8 & 11
 
+----------------------------------------
+
 ### Week 42 (Autumn break)
-Goals for this week:
+#### Goals for this week:
 
 1. Relax
 
@@ -105,9 +121,10 @@ Goals for this week:
 1. Or nothing at all
 
 
+----------------------------------------
 
 ### Week 43
-Goals for this week:
+#### Goals for this week:
 
 1. Learn about acquisition of morphology
 1. Learn about *while*-loops and data types (Process data the way you want – ask the questions that you find interesting)
@@ -116,8 +133,10 @@ Goals for this week:
 
 1. Heinhold Ch. 9 & 10
 
+----------------------------------------
+
 ### Week 44
-Goals for this week:
+#### Goals for this week:
 
 1. Learn about children’s conversation
 1. Learn about functions, scope, and reusable code (Consecutive steps of data processing)
@@ -126,8 +145,10 @@ Goals for this week:
 
 #### Reading
 
+----------------------------------------
+
 ### Week 45
-Goals for this week:
+#### Goals for this week:
 
 1. Learn about development of contextual language
 1. Learn about classes and objects (Working with data in a smart way)
@@ -136,31 +157,41 @@ Goals for this week:
 
 1. Heinhold Ch. 14
 
+----------------------------------------
+
 ### Week 46
-Goals for this week:
+#### Goals for this week:
 
 1. Learn about bilingual language acquisition 
 
 #### Reading
 
+----------------------------------------
+
 ### Week 47
-Goals for this week:
+#### Goals for this week:
 
 1. Learn about DLD and developmental dyslexia
 
 #### Reading
 
+----------------------------------------
+
 ### Week 48
-Goals for this week:
+#### Goals for this week:
 
 
 #### Reading
+
+----------------------------------------
 
 ### Week 49
-Goals for this week:
+#### Goals for this week:
 
 
 #### Reading
+
+----------------------------------------
 
 ## Notebooks
 
