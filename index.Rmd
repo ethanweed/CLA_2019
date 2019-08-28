@@ -104,7 +104,7 @@ Goals for this week:
 1. Whatever you like
 1. Or nothing at all
 
-1. Heinhold Ch. 9 & 10
+
 
 ### Week 43
 Goals for this week:
@@ -112,9 +112,9 @@ Goals for this week:
 1. Learn about acquisition of morphology
 1. Learn about *while*-loops and data types (Process data the way you want – ask the questions that you find interesting)
 
-1. Heinhold Ch. 13
-
 #### Reading
+
+1. Heinhold Ch. 9 & 10
 
 ### Week 44
 Goals for this week:
@@ -122,7 +122,7 @@ Goals for this week:
 1. Learn about children’s conversation
 1. Learn about functions, scope, and reusable code (Consecutive steps of data processing)
 
-1. Heinhold Ch. 14
+1. Heinhold Ch. 13
 
 #### Reading
 
@@ -133,6 +133,8 @@ Goals for this week:
 1. Learn about classes and objects (Working with data in a smart way)
 
 #### Reading
+
+1. Heinhold Ch. 14
 
 ### Week 46
 Goals for this week:
