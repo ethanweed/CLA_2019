@@ -1,0 +1,553 @@
+@UTF8
+@PID:	11312/c-00043923-1
+@Begin
+@Languages:	eng
+@Participants:	MOT 7814NB18mosadult Mother, EXP Clinician Investigator
+@Options:	bullets, notarget
+@ID:	eng|NewmanRatner|MOT||female|||Mother|||
+@ID:	eng|NewmanRatner|EXP|||||Investigator|||
+@Media:	7814NB, audio
+@Transcriber:	Cecile_Caron
+*EXP:	so what [/] what types of things were +//.
+%mor:	adv|so pro:int|what n|type-PL prep|of n|thing-PL cop|be&PAST +//.
+%gra:	1|6|JCT 2|3|MOD 3|6|CSUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|PUNCT
+*EXP:	I wasn't really paying attention .
+%mor:	pro:sub|I aux|be&PAST&13S~neg|not adv|really part|pay-PRESP
+	n|attention .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*EXP:	what types of things was she interested in playing with . 0_5766
+%mor:	pro:int|what n|type-PL prep|of n|thing-PL cop|be&PAST&13S
+	pro:sub|she v|interest-PAST prep|in part|play-PRESP prep|with .
+%gra:	1|2|MOD 2|5|CSUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|SUBJ 7|5|PRED 8|7|JCT
+	9|8|POBJ 10|7|JCT 11|5|PUNCT
+*MOT:	oh &-um the various pieces of fruit and vegetables and +... 5766_11392
+%mor:	co|oh det:art|the adj|various n|piece-PL prep|of n|fruit coord|and
+	n|vegetable-PL coord|and +...
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|6|CONJ
+	8|7|COORD 9|4|CONJ 10|4|PUNCT
+*MOT:	stuff like that . 11392_12366
+%mor:	n|stuff prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*MOT:	in particular the juice cup . 12366_14979
+%mor:	prep|in adj|particular det:art|the n|juice n|cup .
+%gra:	1|0|INCROOT 2|5|MOD 3|5|DET 4|5|MOD 5|1|POBJ 6|1|PUNCT
+*EXP:	the juice cup . 14979_17428
+%mor:	det:art|the n|juice n|cup .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*EXP:	and &-um what other food items I thought I heard some things that
+	she was +... 17428_25762
+%mor:	coord|and pro:int|what qn|other n|food n|item-PL pro:sub|I
+	v|think&PAST pro:sub|I v|hear&PAST qn|some n|thing-PL pro:rel|that
+	pro:sub|she cop|be&PAST&13S +...
+%gra:	1|7|LINK 2|5|MOD 3|4|QUANT 4|5|MOD 5|7|PRED 6|7|SUBJ 7|0|ROOT 8|9|SUBJ
+	9|7|COMP 10|11|QUANT 11|9|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD
+	15|7|PUNCT
+*MOT:	oh &-um well she repeat but she saw that sushi . 25762_29147
+%mor:	co|oh adv|well pro:sub|she n|repeat conj|but pro:sub|she v|see&PAST
+	comp|that n|sushi .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|9|MOD
+	9|7|OBJ 10|4|PUNCT
+*MOT:	and then the &-um hot dogs .
+%mor:	coord|and adv:tem|then det:art|the adj|hot n|dog-PL .
+%gra:	1|5|LINK 2|5|JCT 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*MOT:	it was really just everything she was kinda grabbing and just
+	putting all the articles into the &-uh pot . 29147_38237
+%mor:	pro:per|it cop|be&PAST&13S adv|really adv|just pro:indef|everything
+	pro:sub|she aux|be&PAST&13S adv|kinda part|grab-PRESP coord|and
+	adv|just part|put-PRESP qn|all det:art|the n|article-PL prep|into
+	det:art|the n|pot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|JCT 5|2|PRED 6|9|SUBJ 7|9|AUX 8|9|JCT
+	9|5|CMOD 10|9|CONJ 11|12|JCT 12|10|COORD 13|15|QUANT 14|15|DET 15|12|OBJ
+	16|12|JCT 17|18|DET 18|16|POBJ 19|2|PUNCT
+*EXP:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and stirrin(g) it up a little bit . 39447_40860
+%mor:	coord|and part|stir-PRESP pro:per|it prep|up det:art|a adj|little
+	n|bit .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|2|PUNCT
+*EXP:	okay do you guys have play food at home ? 40860_44575
+%mor:	co|okay v|do pro:per|you n|guy-PL v|have n|play n|food prep|at
+	n|home ?
+%gra:	1|2|COM 2|0|ROOT 3|5|SUBJ 4|5|SUBJ 5|2|COMP 6|7|MOD 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|2|PUNCT
+*MOT:	no we don't I should get some . 45559_47857
+%mor:	co|no pro:sub|we mod|do~neg|not pro:sub|I mod|should v|get qn|some
+	.
+%gra:	1|7|COM 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|PRED
+	9|7|PUNCT
+*EXP:	yeah she I don't kids love play food . 47857_50729
+%mor:	co|yeah pro:sub|she pro:sub|I mod|do~neg|not v|kid-3S n|love n|play
+	n|food .
+%gra:	1|6|COM 2|6|SUBJ 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|9|MOD 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*MOT:	yeah . 50729_52275
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	I heard &-um she's never had ice cream before . 52275_56794
+%mor:	pro:sub|I v|hear&PAST pro:sub|she~aux|be&3S adv|never
+	part|have&PASTP n|ice n|cream adv|before .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|2|COMP 7|8|MOD 8|6|OBJ
+	9|6|JCT 10|2|PUNCT
+*EXP:	but she knows +...
+%mor:	conj|but pro:sub|she v|know-3S +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	yogurt .
+%mor:	n|yogurt .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	she thought it was yogurt . 56794_59344
+%mor:	pro:sub|she v|think&PAST pro:per|it cop|be&PAST&13S n|yogurt .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+*EXP:	okay . 59344_66114
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	&-um and <I like> [/] I like that she I heard mashed potatoes she
+	likes big words . 66114_73112
+%mor:	coord|and pro:sub|I v|like adv|that pro:sub|she pro:sub|I
+	v|hear&PAST v|mash-PAST n|potato-PL pro:sub|she v|like-3S adj|big
+	n|word-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|SUBJ 6|7|SUBJ 7|5|CMOD 8|3|COMP
+	9|8|OBJ 10|11|SUBJ 11|3|CJCT 12|13|MOD 13|11|OBJ 14|3|PUNCT
+*MOT:	yeah that's true yeah yeah .
+%mor:	co|yeah pro:dem|that~cop|be&3S adj|true co|yeah co|yeah .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|COM 6|3|PRED 7|3|PUNCT
+*EXP:	that's great . 73112_75736
+%mor:	pro:dem|that~cop|be&3S adj|great .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*EXP:	0 [=! laughs] &-um what other things was she looking at ? 75736_80048
+%mor:	pro:int|what qn|other n|thing-PL cop|be&PAST&13S pro:sub|she
+	part|look-PRESP prep|at ?
+%gra:	1|4|LINK 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|XMOD 7|6|JCT
+	8|4|PUNCT
+*MOT:	&-um so she looked at the &-um cupcakes of course . 80048_87466
+%mor:	co|so pro:sub|she v|look-PAST prep|at det:art|the n|cupcake-PL
+	prep|of n|course .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*EXP:	xxx .
+*MOT:	yeah . 87466_88949
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	the cupcakes I tried to get her to move her over here with the
+	animals but she didn't seem to be as interested at the animals . 88949_94142
+%mor:	det:art|the n|cupcake-PL pro:sub|I v|try-PAST inf|to v|get
+	pro:obj|her inf|to v|move pro:obj|her prep|over n|here prep|with
+	det:art|the n|animal-PL conj|but pro:sub|she mod|do&PAST~neg|not
+	cop|seem inf|to cop|be adv|as part|interest-PASTP prep|at
+	det:art|the n|animal-PL .
+%gra:	1|2|DET 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|9|INF
+	9|6|COMP 10|9|OBJ 11|9|JCT 12|11|POBJ 13|9|JCT 14|15|DET 15|13|POBJ
+	16|20|LINK 17|20|SUBJ 18|20|AUX 19|18|NEG 20|4|CJCT 21|22|INF 22|20|COMP
+	23|24|JCT 24|22|PRED 25|24|JCT 26|27|DET 27|25|POBJ 28|4|PUNCT
+*EXP:	okay . 97085_99345
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and so like yeah so like the banana . 99345_102787
+%mor:	coord|and co|so co|like co|yeah adv|so prep|like det:art|the
+	n|banana .
+%gra:	1|4|LINK 2|4|COM 3|4|COM 4|0|INCROOT 5|6|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*MOT:	but I think she's more like how many things she can get into the
+	pot regardless of what it was . 102787_108213
+%mor:	conj|but pro:sub|I v|think pro:sub|she~cop|be&3S adv|more prep|like
+	pro:int|how qn|many n|thing-PL pro:sub|she mod|can v|get prep|into
+	det:art|the n|pot adv|regardless prep|of pro:int|what pro:per|it
+	cop|be&PAST&13S .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|13|LINK
+	9|10|QUANT 10|13|JCT 11|13|SUBJ 12|13|AUX 13|7|CPOBJ 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|JCT 18|17|JCT 19|21|LINK 20|21|SUBJ 21|18|CPOBJ
+	22|5|PUNCT
+*EXP:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and then when she maximized the pot she went back over to the bowl
+	. 108213_112880
+%mor:	coord|and adv:tem|then conj|when pro:sub|she v|maximize-PAST
+	det:art|the n|pot pro:sub|she v|go&PAST adv|back adv|over prep|to
+	det:art|the n|bowl .
+%gra:	1|9|LINK 2|9|JCT 3|5|LINK 4|5|SUBJ 5|9|CJCT 6|7|DET 7|5|OBJ 8|9|SUBJ
+	9|0|ROOT 10|9|JCT 11|9|JCT 12|9|JCT 13|14|DET 14|12|POBJ 15|9|PUNCT
+*MOT:	and put everything over into the bowl . 112880_114697
+%mor:	coord|and v|put&ZERO pro:indef|everything adv|over prep|into
+	det:art|the n|bowl .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*EXP:	oh and did you guys have that book at home ? 114697_121191
+%mor:	co|oh coord|and mod|do&PAST pro:per|you n|guy-PL v|have
+	det:dem|that n|book prep|at n|home ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|6|AUX 4|6|SUBJ 5|6|SUBJ 6|2|COORD 7|8|DET
+	8|6|OBJ 9|8|NJCT 10|9|POBJ 11|1|PUNCT
+*MOT:	yeah . 121191_122100
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	so she's really familiar with it . 122100_124179
+%mor:	adv|so pro:sub|she~cop|be&3S adv|really adj|familiar prep|with
+	pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*MOT:	mhm yeah it seemed to calm her down a little bit .
+%mor:	co|mhm=yes co|yeah pro:per|it cop|seem-PAST inf|to v|calm
+	det:poss|her adv|down det:art|a adj|little n|bit .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|4|PUNCT
+*MOT:	<I think she thought it was> [/] I think she thought it was like oh
+	its time to go sleep good . 124179_130123
+%mor:	pro:sub|I v|think pro:sub|she v|think&PAST pro:per|it
+	cop|be&PAST&13S co|like co|oh det:poss|its n|time inf|to v|go
+	n|sleep adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|10|COM 8|10|COM
+	9|10|DET 10|6|PRED 11|12|INF 12|10|XMOD 13|12|OBJ 14|12|JCT 15|2|PUNCT
+*EXP:	yeah yeah yeah ready for that . 130123_132427
+%mor:	co|yeah co|yeah co|yeah v|ready prep|for pro:dem|that .
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*EXP:	which the other one as well were you reading that +... 132427_136984
+%mor:	pro:rel|which det:art|the qn|other pro:indef|one prep|as n|well
+	cop|be&PAST pro:per|you part|read-PRESP comp|that +...
+%gra:	1|4|LINK 2|4|DET 3|4|QUANT 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT 8|7|PRED
+	9|8|XMOD 10|9|OM 11|7|PUNCT
+*MOT:	nope we don't I was reading that one but we don't have that [/]
+	that particular book . 136984_138799
+%mor:	co|nope pro:sub|we mod|do~neg|not pro:sub|I aux|be&PAST&13S
+	part|read-PRESP comp|that pro:indef|one conj|but pro:sub|we
+	mod|do~neg|not v|have det:dem|that adj|particular n|book .
+%gra:	1|7|COM 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|8|OBJ 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG 14|9|CMOD 15|17|DET
+	16|17|MOD 17|14|OBJ 18|7|PUNCT
+*MOT:	the one two three good night moon . 138799_141532
+%mor:	det:art|the det:num|one det:num|two det:num|three adj|good n|night
+	n|moon .
+%gra:	1|2|DET 2|7|QUANT 3|4|DATE 4|7|QUANT 5|7|MOD 6|7|MOD 7|0|INCROOT
+	8|7|PUNCT
+*EXP:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	so at one point I was reading the moon [//] the good_night moon and
+	then she was reading the other book . 141532_146740
+%mor:	adv|so prep|at det:num|one n|point pro:sub|I aux|be&PAST&13S
+	part|read-PRESP det:art|the det:art|the co|good_night n|moon
+	coord|and adv:tem|then pro:sub|she aux|be&PAST&13S part|read-PRESP
+	det:art|the qn|other n|book .
+%gra:	1|7|JCT 2|7|JCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|11|DET
+	9|11|DET 10|11|COM 11|7|OBJ 12|16|LINK 13|16|JCT 14|16|SUBJ 15|16|AUX
+	16|11|CMOD 17|19|DET 18|19|QUANT 19|16|OBJ 20|7|PUNCT
+*MOT:	and I was reading out loud and she was saying some words out loud .
+	146740_149822
+%mor:	coord|and pro:sub|I aux|be&PAST&13S part|read-PRESP adv|out
+	adj|loud coord|and pro:sub|she aux|be&PAST&13S part|say-PRESP
+	qn|some n|word-PL adv|out adj|loud .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|CMOD 11|12|QUANT 12|10|OBJ 13|14|JCT 14|12|POSTMOD
+	15|4|PUNCT
+*EXP:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	alright and and compared to I don't did you come in for an eighteen
+	month session ? 149822_163655
+%mor:	co|alright coord|and coord|and v|compare-PAST prep|to pro:sub|I
+	mod|do~neg|not mod|do&PAST pro:per|you v|come adv|in prep|for
+	det:art|a det:num|eighteen n|month n|session ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|COORD 5|11|JCT 6|9|SUBJ 7|9|AUX
+	8|7|NEG 9|11|AUX 10|11|SUBJ 11|4|COMP 12|11|JCT 13|11|JCT 14|17|DET
+	15|16|QUANT 16|17|MOD 17|13|POBJ 18|1|PUNCT
+*MOT:	mhm . 163655_164664
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	compared to eighteen months do you +...
+%mor:	v|compare-PAST prep|to det:num|eighteen n|month-PL v|do pro:per|you
+	+...
+%gra:	1|0|ROOT 2|1|JCT 3|4|QUANT 4|2|POBJ 5|1|XJCT 6|5|OBJ 7|1|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	I mean can you can you tell me the differences that you've noticed
+	? 164664_170441
+%mor:	pro:sub|I v|mean mod|can pro:per|you mod|can pro:per|you v|tell
+	pro:obj|me det:art|the n|difference-PL pro:rel|that
+	pro:per|you~aux|have part|notice-PASTP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|AUX 4|7|SUBJ 5|7|AUX 6|7|SUBJ 7|2|COMP 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|CMOD 15|2|PUNCT
+*MOT:	well I [/] I guess it wasn't you but at eighteen month I was really
+	concerned that she was not meeting the mark because I was comparing
+	her to all the other babies that we had like play group with . 170441_180128
+%mor:	co|well pro:sub|I v|guess pro:per|it cop|be&PAST&13S~neg|not
+	pro:per|you conj|but prep|at det:num|eighteen n|month pro:sub|I
+	aux|be&PAST&13S adv|really part|concern-PASTP comp|that pro:sub|she
+	aux|be&PAST&13S neg|not part|meet-PRESP det:art|the n|mark
+	conj|because pro:sub|I aux|be&PAST&13S part|compare-PRESP
+	pro:obj|her prep|to qn|all det:art|the qn|other n|baby-PL
+	pro:rel|that pro:sub|we v|have&PAST co|like n|play n|group prep|with
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PRED 8|7|CONJ
+	9|15|JCT 10|11|QUANT 11|9|POBJ 12|15|SUBJ 13|15|AUX 14|15|JCT 15|8|COORD
+	16|20|LINK 17|20|SUBJ 18|20|AUX 19|18|NEG 20|15|COMP 21|22|DET 22|20|OBJ
+	23|26|LINK 24|26|SUBJ 25|26|AUX 26|5|CJCT 27|26|OBJ 28|26|JCT
+	29|32|QUANT 30|32|DET 31|32|QUANT 32|28|POBJ 33|35|LINK 34|35|SUBJ 35|32|CMOD
+	36|38|COM 37|38|MOD 38|35|OBJ 39|38|JCT 40|5|PUNCT
+*MOT:	and they were well all the other [//] so the two other babies that
+	are in her play group they were talkative and and tried to say
+	different things and Nyla was just kinda like not doing a whole lot
+	. 180128_192553
+%mor:	coord|and pro:sub|they cop|be&PAST adv|well qn|all det:art|the
+	conj|so det:art|the det:num|two qn|other n|baby-PL pro:rel|that
+	cop|be&PRES prep|in det:poss|her n|play n|group pro:sub|they
+	cop|be&PAST adj|talkative coord|and coord|and v|try-PAST inf|to
+	v|say adj|different n|thing-PL coord|and n:prop|Nyla cop|be&PAST&13S
+	adv|just adv|kinda co|like neg|not part|do-PRESP det:art|a adj|whole
+	n|lot .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|11|DET 7|11|LINK 8|9|DET
+	9|11|QUANT 10|11|QUANT 11|4|POBJ 12|13|LINK 13|11|CMOD 14|13|JCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|19|SUBJ 19|17|CMOD 20|19|PRED 21|17|CONJ
+	22|21|COORD 23|22|COORD 24|25|INF 25|23|COMP 26|27|MOD 27|30|SUBJ
+	28|27|CONJ 29|28|COORD 30|25|COMP 31|32|JCT 32|35|JCT 33|35|COM 34|33|NEG
+	35|30|PRED 36|38|DET 37|38|MOD 38|35|OBJ 39|3|PUNCT
+*MOT:	and &-um that same two months so I was kinda concerned that she
+	wasn't on track . 192553_197149
+%mor:	coord|and pro:dem|that adj|same det:num|two n|month-PL conj|so
+	pro:sub|I aux|be&PAST&13S adv|kinda part|concern-PASTP comp|that
+	pro:sub|she cop|be&PAST&13S~neg|not adv|on n|track .
+%gra:	1|5|LINK 2|5|DET 3|5|MOD 4|5|QUANT 5|0|INCROOT 6|10|LINK 7|10|SUBJ
+	8|10|AUX 9|10|JCT 10|5|CJCT 11|13|LINK 12|13|SUBJ 13|10|COMP 14|13|NEG
+	15|16|JCT 16|13|PRED 17|5|PUNCT
+*MOT:	and then just in the last few months you know she's kind of &-um
+	started saying a lot of words and doing she's just much more &-um
+	social and outgoing . 197149_210335
+%mor:	coord|and adv:tem|then adv|just prep|in det:art|the n|last qn|few
+	n|month-PL pro:per|you v|know pro:sub|she~aux|be&3S n|kind prep|of
+	part|start-PASTP part|say-PRESP det:art|a n|lot prep|of n|word-PL
+	coord|and part|do-PRESP pro:sub|she~cop|be&3S adv|just adv|much
+	qn|more n|social coord|and adj|+adj|out+part|going .
+%gra:	1|10|LINK 2|10|JCT 3|4|JCT 4|10|JCT 5|6|DET 6|4|POBJ 7|8|QUANT 8|10|JCT
+	9|10|SUBJ 10|0|ROOT 11|16|SUBJ 12|16|AUX 13|16|SUBJ 14|13|NJCT
+	15|14|POBJ 16|10|COMP 17|18|DET 18|16|OBJ 19|18|NJCT 20|19|POBJ 21|10|CONJ
+	22|21|COORD 23|24|SUBJ 24|22|COMP 25|26|JCT 26|24|JCT 27|28|QUANT 28|26|OBJ
+	29|28|CONJ 30|29|COORD 31|10|PUNCT
+*MOT:	well she's always been pretty social but <I think I was just> [/] I
+	think I just seen she's much more curious and +... 210335_216365
+%mor:	co|well pro:sub|she~cop|be&3S adv|always cop|be&PASTP adj|pretty
+	adj|social conj|but pro:sub|I v|think pro:sub|I adv|just
+	part|see&PASTP pro:sub|she~cop|be&3S adv|much adv|more adj|curious
+	coord|and +...
+%gra:	1|3|COM 2|3|SUBJ 3|15|SUBJ 4|3|JCT 5|15|AUX 6|7|MOD 7|5|PRED 8|10|LINK
+	9|10|SUBJ 10|15|CJCT 11|13|SUBJ 12|13|JCT 13|10|COMP 14|15|SUBJ
+	15|0|ROOT 16|15|JCT 17|18|JCT 18|15|PRED 19|15|CONJ 20|15|PUNCT
+*MOT:	yeah does that make sense ?
+%mor:	co|yeah mod|do&3S adv|that v|make n|sense ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*EXP:	yeah . 216365_218658
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	sure . 218658_219520
+%mor:	adj|sure .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	seems weird that's a little bit of time but +... 219520_222199
+%mor:	cop|seem-3S adj|weird pro:dem|that~cop|be&3S det:art|a adj|little
+	n|bit prep|of n|time conj|but +...
+%gra:	1|4|LINK 2|1|PRED 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|7|NJCT
+	9|8|POBJ 10|4|OM 11|4|PUNCT
+*EXP:	no not at all .
+%mor:	co|no neg|not prep|at pro:indef|all .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	oh okay . 222199_223040
+%mor:	co|oh co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*EXP:	not at all no I mean every [/] every kid is different there's so
+	much variability at this age .
+%mor:	neg|not prep|at qn|all co|no pro:sub|I v|mean qn|every n|kid
+	cop|be&3S adj|different pro:exist|there~cop|be&3S adv|so qn|much
+	n|variability prep|at det:dem|this n|age .
+%gra:	1|2|NEG 2|6|JCT 3|4|QUANT 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|9|SUBJ
+	9|12|CJCT 10|9|PRED 11|12|SUBJ 12|6|COMP 13|14|JCT 14|15|QUANT
+	15|12|PRED 16|12|JCT 17|18|DET 18|16|POBJ 19|6|PUNCT
+*EXP:	so &-um she just figured it out huh everything started to click ? 223040_231574
+%mor:	co|so pro:sub|she adv|just v|figure-PAST pro:per|it adv|out co|huh
+	pro:indef|everything v|start-PAST prep|to n|click ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|COM 8|9|SUBJ
+	9|4|COMP 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*MOT:	I guess so . 231574_232500
+%mor:	pro:sub|I n|guess adv|so .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+*MOT:	maybe she was sizin(g) us up . 232500_233896
+%mor:	adv|maybe pro:sub|she aux|be&PAST&13S part|size-PRESP pro:obj|us
+	adv|up .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*MOT:	0 [=! laughs] . 233896_235398
+*EXP:	0 [=! laughs] &-um so [/] so that play session what types of things
+	was she playing with in comparison ? 235398_242958
+%mor:	adv|so det:dem|that n|play n|session pro:int|what n|type-PL prep|of
+	n|thing-PL cop|be&PAST&13S pro:sub|she part|play-PRESP prep|with
+	prep|in n|comparison ?
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|0|INCROOT 5|6|MOD 6|9|CSUBJ 7|6|NJCT 8|7|POBJ
+	9|4|CMOD 10|9|PRED 11|10|XMOD 12|11|JCT 13|12|JCT 14|13|POBJ 15|4|PUNCT
+*MOT:	oh sorry I'm sorry I thought you meant like a overall .
+%mor:	co|oh co|sorry pro:sub|I~cop|be&1S adj|sorry pro:sub|I v|think&PAST
+	pro:per|you v|mean&PAST prep|like det:art|a adj|overall .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|7|CJCT 5|4|PRED 6|7|SUBJ 7|0|ROOT 8|9|SUBJ
+	9|7|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|7|PUNCT
+*EXP:	no no no that's yeah no no both . 242958_246817
+%mor:	co|no co|no co|no pro:dem|that~cop|be&3S co|yeah co|no co|no
+	post|both .
+%gra:	1|3|COM 2|3|COM 3|5|COM 4|5|SUBJ 5|0|ROOT 6|9|COM 7|9|COM 8|9|COM
+	9|5|PRED 10|5|PUNCT
+*MOT:	well no she's always she's been interested in the things . 246817_253571
+%mor:	co|well co|no pro:sub|she~cop|be&3S adv|always
+	pro:sub|she~aux|be&3S aux|be&PASTP part|interest-PASTP prep|in
+	det:art|the n|thing-PL .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|4|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*MOT:	last time she was stacking the food more so than anything else . 253571_255302
+%mor:	adj|last n|time pro:sub|she aux|be&PAST&13S part|stack-PRESP
+	det:art|the n|food adv|more adv|so prep|than pro:indef|anything
+	post|else .
+%gra:	1|2|MOD 2|0|INCROOT 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|JCT 10|5|JCT 11|10|POBJ 12|11|PQ 13|2|PUNCT
+*MOT:	it could be (be)cause I was doing it too so she started stacking
+	the food . 255302_259024
+%mor:	pro:per|it mod|could cop|be conj|because pro:sub|I aux|be&PAST&13S
+	part|do-PRESP pro:per|it adv|too conj|so pro:sub|she v|start-PAST
+	part|stack-PRESP det:art|the n|food .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|7|OBJ
+	9|7|JCT 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|12|COMP 14|15|DET 15|13|OBJ
+	16|3|PUNCT
+*MOT:	&-uh now she's like I think she's trying to imitate me with the
+	cooking with the pots and the stirring . 259024_266101
+%mor:	adv|now pro:sub|she~cop|be&3S conj|like pro:sub|I v|think
+	pro:sub|she~aux|be&3S part|try-PRESP inf|to v|imitate pro:obj|me
+	prep|with det:art|the n:gerund|cook-PRESP prep|with det:art|the
+	n|pot-PL coord|and det:art|the n:gerund|stir-PRESP .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|9|SUBJ 8|9|AUX
+	9|6|COMP 10|11|INF 11|9|COMP 12|11|OBJ 13|11|JCT 14|15|DET 15|13|POBJ
+	16|15|JCT 17|18|DET 18|16|POBJ 19|18|CONJ 20|21|DET 21|19|COORD 22|3|PUNCT
+*MOT:	&-um and then she was [//] she never really put anything in her
+	mouth before +... 266101_273576
+%mor:	coord|and adv:tem|then pro:sub|she pro:sub|she adv|never adv|really
+	v|put&ZERO pro:indef|anything prep|in det:poss|her n|mouth
+	adv|before +...
+%gra:	1|7|LINK 2|7|JCT 3|7|SUBJ 4|7|SUBJ 5|7|JCT 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|JCT 13|7|PUNCT
+*MOT:	I think at the end she started to wander around the room at the
+	eighteen months like she wanted to just give up and not stay remain
+	situated . 273576_281113
+%mor:	pro:sub|I v|think prep|at det:art|the n|end pro:sub|she
+	v|start-PAST inf|to v|wander prep|around det:art|the n|room prep|at
+	det:art|the det:num|eighteen n|month-PL co|like pro:sub|she
+	v|want-PAST inf|to adj|just v|give adv|up coord|and neg|not v|stay
+	v|remain part|situate-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|2|CJCT 8|9|INF
+	9|7|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|16|DET 15|16|QUANT
+	16|13|POBJ 17|9|COM 18|19|SUBJ 19|7|CJCT 20|22|INF 21|22|JCT 22|19|COMP
+	23|22|JCT 24|22|CONJ 25|24|COORD 26|22|ENUM 27|26|COMP 28|27|COMP 29|2|PUNCT
+*MOT:	&-um she [/] she played with the doll a little bit more I think she
+	called it baby you know at least now that I +... 281113_283158
+%mor:	pro:sub|she v|play-PAST prep|with det:art|the n|doll det:art|a
+	adj|little n|bit adv|more pro:sub|I v|think pro:sub|she v|call-PAST
+	pro:per|it v|baby pro:per|you v|know prep|at n|least adv|now
+	pro:rel|that pro:sub|I +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|8|DET 7|8|MOD 8|11|JCT
+	9|8|NJCT 10|11|SUBJ 11|2|PUNCT 12|13|SUBJ 13|11|COMP 14|15|SUBJ 15|11|ROOT
+	16|17|SUBJ 17|15|ROOT 18|17|JCT 19|18|POBJ 20|23|JCT 21|22|LINK
+	22|23|SUBJ 23|17|PUNCT
+*MOT:	this time around she's not interested at in at all in the dolls . 283158_290448
+%mor:	det:dem|this n|time prep|around pro:sub|she~aux|be&3S neg|not
+	part|interest-PASTP prep|at adv|in prep|at pro:indef|all prep|in
+	det:art|the n|doll-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|CPOBJ 8|7|JCT
+	9|8|POBJ 10|9|JCT 11|10|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|2|PUNCT
+*EXP:	interesting yeah yeah does the food do her too much ? 290448_295244
+%mor:	adj|interesting co|yeah co|yeah v|do&3S det:art|the n|food v|do
+	det:poss|her adv|too adv|much ?
+%gra:	1|2|MOD 2|4|COM 3|4|COM 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|10|DET
+	9|10|JCT 10|7|JCT 11|4|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	for the eighteen months they did [//] you guys didn't play with
+	food did you ? 295244_299007
+%mor:	prep|for det:art|the det:num|eighteen n|month-PL pro:sub|they
+	pro:per|you n|guy-PL mod|do&PAST~neg|not v|play prep|with n|food
+	mod|do&PAST pro:per|you ?
+%gra:	1|10|JCT 2|4|DET 3|4|QUANT 4|1|POBJ 5|10|SUBJ 6|10|SUBJ 7|10|SUBJ
+	8|10|AUX 9|8|NEG 10|0|ROOT 11|10|JCT 12|14|SUBJ 13|14|AUX 14|11|POBJ
+	15|10|PUNCT
+*MOT:	no they had some well not this amount .
+%mor:	co|no pro:sub|they v|have&PAST qn|some n|well neg|not det:dem|this
+	n|amount .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NEG 7|8|DET 8|5|APP
+	9|3|PUNCT
+*EXP:	did they +...
+%mor:	mod|do&PAST pro:sub|they +...
+%gra:	1|0|INCROOT 2|1|OM 3|1|PUNCT
+*MOT:	they had some &-uh they had like the hamburger was there there was
+	like the cheese to make a sandwich there was like bread like a
+	little +...
+%mor:	pro:sub|they v|have&PAST pro:indef|some pro:sub|they v|have&PAST
+	co|like det:art|the n|hamburger cop|be&PAST&13S adv|there adv|there
+	cop|be&PAST&13S prep|like det:art|the n|cheese inf|to v|make
+	det:art|a n|sandwich adv|there cop|be&PAST&13S co|like n|bread
+	prep|like det:art|a adj|little +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|CJCT 6|9|COM 7|8|DET 8|9|SUBJ
+	9|5|COMP 10|9|JCT 11|12|JCT 12|9|PRED 13|12|JCT 14|15|DET 15|13|POBJ
+	16|17|INF 17|12|XJCT 18|19|DET 19|17|OBJ 20|17|JCT 21|17|OM 22|23|COM
+	23|21|PRED 24|23|NJCT 25|26|DET 26|24|POBJ 27|2|PUNCT
+*EXP:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	remember us doing that . 299007_313211
+%mor:	v|remember pro:obj|us part|do-PRESP comp|that .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	so they didn't have this to this extent but +... 313211_315640
+%mor:	co|so pro:sub|they mod|do&PAST~neg|not v|have det:dem|this prep|to
+	det:dem|this n|extent conj|but +...
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|10|DET 7|6|JCT 8|9|DET
+	9|7|POBJ 10|5|OM 11|5|PUNCT
+*EXP:	yeah yeah .
+%mor:	co|yeah co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	and I don't remember the animals last time but +... 315640_318927
+%mor:	coord|and pro:sub|I mod|do~neg|not v|remember det:art|the
+	n|animal-PL adj|last n|time conj|but +...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|9|MOD 8|9|MOD
+	9|5|OBJ 10|9|OM 11|5|PUNCT
+*EXP:	mhm yeah okay . 318927_322722
+%mor:	co|mhm=yes co|yeah co|okay .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*EXP:	well I think [/] I think she's doing good she's a great kid . 322722_326328
+%mor:	co|well pro:sub|I pro:sub|I v|think pro:sub|she~aux|be&3S
+	part|do-PRESP adj|good pro:sub|she~cop|be&3S det:art|a adj|great
+	n|kid .
+%gra:	1|4|COM 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|10|JCT
+	9|10|SUBJ 10|7|COMP 11|13|DET 12|13|MOD 13|10|PRED 14|4|PUNCT
+*MOT:	yeah she's fun . 326328_327545
+%mor:	co|yeah pro:sub|she~cop|be&3S n|fun .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*EXP:	and she persevered . 327545_331005
+%mor:	coord|and pro:sub|she v|persevere-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	yeah she did . 331005_331920
+%mor:	co|yeah pro:sub|she v|do&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*EXP:	0 [=! laughs] so +... 331920_333440
+%mor:	co|so +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	one session I came in and &-um you know we were in the room and
+	with the television it was dark . 333440_338361
+%mor:	det:num|one n|session pro:sub|I v|come&PAST adv|in coord|and
+	pro:per|you v|know pro:sub|we cop|be&PAST prep|in det:art|the n|room
+	coord|and prep|with det:art|the n|television pro:per|it
+	cop|be&PAST&13S adj|dark .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|8|SUBJ 8|6|COORD
+	9|10|SUBJ 10|8|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|10|CONJ 15|19|JCT
+	16|17|DET 17|15|POBJ 18|19|SUBJ 19|14|COORD 20|19|PRED 21|4|PUNCT
+*MOT:	and the woman came and cut it off early and I was like oh what
+	happened she was like oh she's asleep . 338361_342505
+%mor:	coord|and det:art|the n|woman v|come&PAST coord|and v|cut&ZERO
+	pro:per|it adv|off adv|early coord|and pro:sub|I cop|be&PAST&13S
+	co|like co|oh pro:int|what v|happen-PAST pro:sub|she cop|be&PAST&13S
+	co|like co|oh pro:sub|she~cop|be&3S adv|asleep .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|12|LINK 11|12|SUBJ 12|6|CJCT 13|16|COM 14|16|COM 15|16|SUBJ
+	16|12|CPRED 17|18|SUBJ 18|16|COMP 19|22|COM 20|22|COM 21|22|SUBJ
+	22|18|PRED 23|22|JCT 24|4|PUNCT
+*MOT:	(be)cause she was sitting there and then she just +... 342505_344024
+%mor:	conj|because pro:sub|she aux|be&PAST&13S part|sit-PRESP adv|there
+	coord|and adv:tem|then pro:sub|she adv|just +...
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|CONJ 7|9|JCT 8|9|SUBJ
+	9|6|COORD 10|4|PUNCT
+@End

@@ -1,0 +1,289 @@
+@UTF8
+@PID:	11312/c-00043624-1
+@Begin
+@Languages:	eng
+@Participants:	MOT NH7 Mother, EXP Clinician Investigator
+@Options:	bullets, notarget
+@ID:	eng|NewmanRatner|MOT||female|||Mother|||
+@ID:	eng|NewmanRatner|EXP|||||Investigator|||
+@Media:	4687NH, audio
+@Transcriber:	Kerry_McColgan
+*MOT:	Check it out and see how +..? 1_8403
+%mor:	n:prop|Check pro:per|it adv|out coord|and co|see pro:rel|how +..?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|2|CONJ 5|6|COM 6|4|COORD 7|1|PUNCT
+*MOT:	pizza ? 17236_23604
+%mor:	n|pizza ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	pizza ? 23604_26259
+%mor:	n|pizza ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yummy yummy . 26259_29586
+%mor:	adj|yum&dn-Y adj|yum&dn-Y .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	there's cheese . 38833_41170
+%mor:	pro:exist|there~cop|be&3S n|cheese .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*EXP:	that's good and then what we're gonna do is come sit here . 41170_47800
+%mor:	pro:dem|that~cop|be&3S adj|good coord|and adv:tem|then pro:int|what
+	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|do cop|be&3S v|come
+	v|sit adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|9|LINK 5|9|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|2|CJCT 10|11|INF 11|9|COMP 12|11|OBJ 13|12|CPRED 14|13|OBJ 15|13|JCT
+	16|2|PUNCT
+*EXP:	and I'm going to ask you a couple questions . 47800_49480
+%mor:	coord|and pro:sub|I~aux|be&1S part|go-PRESP inf|to v|ask
+	pro:per|you det:art|a qn|couple n|question-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ2 8|10|DET
+	9|10|QUANT 10|6|OBJ 11|4|PUNCT
+*MOT:	great . 49480_52473
+%mor:	adj|great .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	sorry I tried to keep the ones he &-uh +..? 52473_60009
+%mor:	co|sorry pro:sub|I v|try-PAST inf|to v|keep det:art|the n|one-PL
+	pro:sub|he +..?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|OM
+	9|3|PUNCT
+*MOT:	alright . 67777_69906
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	okay so which of the toys seemed to interest your child the most ?
+	69906_74510
+%mor:	co|okay adv|so pro:rel|which prep|of det:art|the n|toy-PL
+	cop|seem-PAST inf|to v|interest det:poss|your n|child det:art|the
+	qn|most ?
+%gra:	1|7|COM 2|3|JCT 3|7|LINK 4|7|JCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|9|INF
+	9|7|COMP 10|11|DET 11|9|OBJ 12|13|DET 13|11|APP 14|7|PUNCT
+*MOT:	&-um tags . 74510_76830
+%mor:	n|tag-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EXP:	tags okay . 76830_77949
+%mor:	n|tag-PL adj|okay .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|1|PUNCT
+*EXP:	&-um which is a good toy for <his or her> [//] for <his> [/] his
+	personality ? 77949_82633
+%mor:	pro:rel|which cop|be&3S det:art|a adj|good n|toy prep|for prep|for
+	det:poss|his n|personality ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*MOT:	ah he really likes to chew stuff . 82633_85109
+%mor:	co|ah pro:sub|he adv|really v|like-3S inf|to v|chew n|stuff .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*MOT:	so stuff that has like little things sticking out he likes to like
+	eat it . 85109_90405
+%mor:	adv|so v|stuff pro:dem|that aux|have&3S prep|like adj|little
+	n|thing-PL part|stick-PRESP adv|out pro:sub|he v|like-3S inf|to
+	v|like v|eat pro:per|it .
+%gra:	1|2|JCT 2|8|SUBJ 3|2|OBJ 4|8|AUX 5|8|JCT 6|7|MOD 7|5|POBJ 8|11|XJCT
+	9|8|JCT 10|11|SUBJ 11|0|ROOT 12|13|INF 13|11|COMP 14|13|COMP 15|14|OBJ
+	16|11|PUNCT
+*EXP:	okay why do you think he's interested in those ? 90405_94006
+%mor:	co|okay pro:int|why mod|do pro:per|you v|think pro:sub|he~aux|be&3S
+	part|interest-PASTP adv|in det:dem|those ?
+%gra:	1|5|COM 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|8|SUBJ 7|8|AUX 8|5|COMP
+	9|10|JCT 10|8|INCROOT 11|10|PUNCT
+*MOT:	&-um just from experience that's what he likes to do . 94006_100386
+%mor:	adv|just prep|from n|experience pro:rel|that~cop|be&3S pro:int|what
+	pro:sub|he v|like-3S inf|to v|do .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POBJ 4|5|LINK 5|3|CMOD 6|8|LINK 7|8|SUBJ
+	8|5|CPRED 9|10|INF 10|8|COMP 11|2|PUNCT
+*EXP:	okay which of the toys seemed to interest your child the least ? 100386_104625
+%mor:	co|okay pro:int|which prep|of det:art|the n|toy-PL cop|seem-PAST
+	inf|to v|interest det:poss|your n|child det:art|the n|least ?
+%gra:	1|6|COM 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|12|DET 12|10|APP 13|6|PUNCT
+*MOT:	&-um books although at home he likes books . 104625_109484
+%mor:	n|book-PL conj|although prep|at n|home pro:sub|he v|like-3S
+	n|book-PL .
+%gra:	1|0|INCROOT 2|6|LINK 3|6|JCT 4|3|POBJ 5|6|SUBJ 6|1|CMOD 7|6|OBJ
+	8|1|PUNCT
+*EXP:	okay why do you think maybe these books +..? 109484_112893
+%mor:	co|okay pro:int|why mod|do pro:per|you v|think adv|maybe
+	det:dem|these n|book-PL +..?
+%gra:	1|5|COM 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|5|JCT
+	9|5|PUNCT
+*MOT:	I think that there's just <other> [/] other interesting stuff . 112893_115581
+%mor:	pro:sub|I v|think adv|that pro:exist|there~cop|be&3S adj|just
+	qn|other adj|interesting n|stuff .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|2|COMP 6|9|MOD 7|9|QUANT 8|9|MOD
+	9|5|PRED 10|2|PUNCT
+*EXP:	okay which book did your child prefer to look at or read with you ?
+	115581_123165
+%mor:	co|okay pro:int|which n|book v|do&PAST det:poss|your n|child
+	v|prefer inf|to v|look prep|at coord|or v|read&ZERO prep|with
+	pro:per|you ?
+%gra:	1|4|COM 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|9|INF
+	9|7|COMP 10|9|JCT 11|10|CONJ 12|11|COORD 13|12|JCT 14|13|POBJ 15|4|PUNCT
+*MOT:	ah none . 123165_125165
+%mor:	co|ah pro:indef|none .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*EXP:	okay what about at home ? 125165_129085
+%mor:	co|okay pro:int|what adv|about prep|at n|home ?
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*MOT:	&-um he loves we have an animal book at home he loves . 129085_134039
+%mor:	pro:sub|he v|love-3S pro:sub|we v|have det:art|a n|animal n|book
+	prep|at n|home pro:sub|he v|love-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|DET 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|11|SUBJ 11|2|CJCT 12|2|PUNCT
+*MOT:	&-um we have a Teletubby book at home he loves . 134039_137239
+%mor:	pro:sub|we v|have det:art|a n:prop|Teletubby n|book prep|at n|home
+	pro:sub|he v|love-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|JCT 7|6|POBJ 8|9|SUBJ
+	9|2|CJCT 10|2|PUNCT
+*MOT:	whatever I sit and read to him he loves . 137239_139767
+%mor:	pro:int|whatever pro:sub|I v|sit coord|and v|read&ZERO prep|to
+	pro:obj|him pro:sub|he v|love-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|JCT 7|6|POBJ 8|9|SUBJ
+	9|5|CJCT 10|3|PUNCT
+*EXP:	ah were there any items you think your child didn't know the name
+	of ? 139767_144231
+%mor:	co|ah aux|be&PAST adv|there qn|any n|item-PL pro:per|you v|think
+	det:poss|your n|child mod|do&PAST~neg|not v|know det:art|the n|name
+	prep|of ?
+%gra:	1|7|SUBJ 2|7|AUX 3|7|SUBJ 4|5|QUANT 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|7|COMP 13|14|DET 14|12|OBJ 15|14|NJCT
+	16|7|PUNCT
+*MOT:	well like a lot of those animals he didn't know the name of a lot
+	of animals . 144231_151092
+%mor:	co|well prep|like det:art|a n|lot prep|of det:dem|those n|animal-PL
+	pro:sub|he mod|do&PAST~neg|not v|know det:art|the n|name prep|of
+	det:art|a n|lot prep|of n|animal-PL .
+%gra:	1|11|COM 2|11|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|0|ROOT 12|13|DET 13|11|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|16|NJCT 18|17|POBJ 19|11|PUNCT
+*MOT:	a lot of your food I mean he can make up his own . 151092_154619
+%mor:	det:art|a n|lot prep|of det:poss|your n|food pro:sub|I v|mean
+	pro:sub|he mod|can v|make adv|up det:poss|his adj|own .
+%gra:	1|2|DET 2|7|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|10|SUBJ
+	9|10|AUX 10|7|COMP 11|10|JCT 12|13|DET 13|10|JCT 14|7|PUNCT
+*MOT:	well he doesn't talk . 154619_156459
+%mor:	co|well pro:sub|he mod|do&3S~neg|not v|talk .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*EXP:	what about understanding ? 156459_158202
+%mor:	pro:int|what adv|about part|understand-PRESP ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	ah I mean he doesn't really know what ice cream is . 158202_161771
+%mor:	co|ah pro:sub|I adj|mean pro:sub|he mod|do&3S~neg|not adv|really
+	v|know pro:int|what n|ice n|cream cop|be&3S .
+%gra:	1|8|COM 2|8|SUBJ 3|8|JCT 4|8|SUBJ 5|8|AUX 6|5|NEG 7|8|JCT 8|0|ROOT
+	9|11|MOD 10|11|MOD 11|12|SUBJ 12|8|COMP 13|8|PUNCT
+*MOT:	meat cheese but we can pretend . 161771_164427
+%mor:	n|meat n|cheese conj|but pro:sub|we mod|can v|pretend .
+%gra:	1|2|MOD 2|0|INCROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CJCT 7|2|PUNCT
+*MOT:	or like peanut butter . 164755_167535
+%mor:	coord|or co|like n|peanut n|butter .
+%gra:	1|4|LINK 2|4|COM 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	but I pretended it's baby food . 167535_169279
+%mor:	conj|but pro:sub|I v|pretend-PAST pro:per|it~cop|be&3S n|baby
+	n|food .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|PRED 8|5|PUNCT
+*MOT:	that works just as good right ? 169279_171215
+%mor:	adv|that n|work-PL adj|just adv|as adj|good adj|right ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PRED 4|5|JCT 5|6|MOD 6|3|JCT 7|2|PUNCT
+*EXP:	right . 171215_173486
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	he doesn't drink a bottle but . 173486_175326
+%mor:	pro:sub|he mod|do&3S~neg|not v|drink det:art|a n|bottle conj|but .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*MOT:	I'm sure he could figure out what to do with it . 175326_177358
+%mor:	pro:sub|I~cop|be&1S adv|sure pro:sub|he mod|could v|figure adv|out
+	pro:int|what inf|to v|do prep|with pro:per|it .
+%gra:	1|2|SUBJ 2|6|CJCT 3|2|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|10|LINK
+	9|10|INF 10|6|COMP 11|10|JCT 12|11|POBJ 13|6|PUNCT
+*EXP:	okay right (be)cause we just have the juice and he +..? 177358_181770
+%mor:	co|okay n|right conj|because pro:sub|we adv|just v|have det:art|the
+	n|juice coord|and pro:sub|he +..?
+%gra:	1|2|COM 2|0|INCROOT 3|6|LINK 4|6|SUBJ 5|6|JCT 6|2|CMOD 7|8|DET 8|6|OBJ
+	9|6|CONJ 10|9|COORD 11|2|PUNCT
+*MOT:	the cup he does drink from a cup . 181567_183503
+%mor:	det:art|the n|cup pro:sub|he mod|do&3S n|drink prep|from det:art|a
+	n|cup .
+%gra:	1|2|DET 2|0|INCROOT 3|5|SUBJ 4|5|AUX 5|2|CMOD 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*MOT:	but he doesn't drink from a bottle period . 183503_186719
+%mor:	conj|but pro:sub|he mod|do&3S~neg|not v|drink prep|from det:art|a
+	n|bottle n|period .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*MOT:	so &-um but I'm sure he could figure it out if ah +..? 186719_190065
+%mor:	adv|so conj|but pro:sub|I~cop|be&1S adv|sure pro:sub|he mod|could
+	v|figure pro:per|it adv|out conj|if co|ah +..?
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|8|CJCT 5|4|JCT 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|8|JCT 11|12|LINK 12|8|CJCT 13|8|PUNCT
+*MOT:	look see he puts it right in his mouth . 190065_192400
+%mor:	co|look v|see pro:sub|he v|put-3S pro:per|it adv|right prep|in
+	det:poss|his n|mouth .
+%gra:	1|2|COM 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|7|JCT 7|2|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*EXP:	&-um and you already answered this do you think he prefers books or
+	toys ? 192400_197456
+%mor:	coord|and pro:per|you adv|already v|answer-PAST det:dem|this v|do
+	pro:per|you v|think pro:sub|he v|prefer-3S n|book-PL coord|or
+	n|toy-PL ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|10|SUBJ 10|8|COMP 11|10|OBJ 12|11|CONJ 13|12|COORD 14|4|PUNCT
+*MOT:	&-um toys here . 197456_200096
+%mor:	v|toy-3S adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*EXP:	&-um do you ever play with pretend food or pretend to feed dolls at
+	home ? 200096_205088
+%mor:	mod|do pro:per|you adv|ever n|play prep|with adj|pretend n|food
+	coord|or adj|pretend inf|to v|feed n|doll-PL prep|at n|home ?
+%gra:	1|11|AUX 2|11|SUBJ 3|2|NJCT 4|3|POBJ 5|4|NJCT 6|7|MOD 7|5|POBJ 8|7|CONJ
+	9|8|COORD 10|11|INF 11|0|ROOT 12|11|OBJ 13|12|NJCT 14|13|POBJ
+	15|11|PUNCT
+*EXP:	and what do you do if you +..? 205088_208329
+%mor:	coord|and pro:int|what mod|do pro:per|you v|do conj|if pro:per|you
+	+..?
+%gra:	1|5|LINK 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*MOT:	&-um no with him I have not . 208329_211233
+%mor:	co|no prep|with pro:obj|him pro:sub|I v|have neg|not .
+%gra:	1|5|COM 2|1|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PUNCT
+*EXP:	&-um so he doesn't play with dolls at all at home ? 211233_216080
+%mor:	co|so pro:sub|he mod|do&3S~neg|not v|play prep|with n|doll-PL
+	prep|at pro:indef|all prep|at n|home ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|8|POBJ 10|9|NJCT 11|10|POBJ 12|5|PUNCT
+*MOT:	well he has a two year old sister who's playing with dolls all day
+	. 216080_220672
+%mor:	co|well pro:sub|he v|have&3S det:art|a det:num|two n|year adj|old
+	n|sister pro:rel|who~aux|be&3S part|play-PRESP prep|with n|doll-PL
+	adv|all n|day .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|8|DET 5|6|QUANT 6|8|MOD 7|8|MOD 8|3|OBJ
+	9|11|LINK 10|11|AUX 11|8|CMOD 12|11|JCT 13|12|POBJ 14|15|JCT 15|11|JCT
+	16|3|PUNCT
+*MOT:	so like she'll like line him up with the dolls and feed all the
+	dolls and pretend to feed him . 220672_226108
+%mor:	adv|so prep|like pro:sub|she~mod|will co|like v|line pro:obj|him
+	adv|up prep|with det:art|the n|doll-PL coord|and v|feed qn|all
+	det:art|the n|doll-PL coord|and adj|pretend inf|to v|feed
+	pro:obj|him .
+%gra:	1|6|JCT 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|COM 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|11|DET 11|9|POBJ 12|6|CONJ 13|12|COORD 14|16|QUANT 15|16|DET
+	16|13|OBJ 17|16|CONJ 18|17|COORD 19|20|INF 20|18|XMOD 21|20|OBJ 22|6|PUNCT
+*MOT:	like I guess he kind of plays with dolls but . 226108_229020
+%mor:	conj|like pro:sub|I v|guess pro:sub|he n|kind prep|of n|play-PL
+	prep|with n|doll-PL conj|but .
+%gra:	1|3|LINK 2|3|SUBJ 3|10|CJCT 4|10|SUBJ 5|4|POBJ 6|5|NJCT 7|6|POBJ
+	8|5|NJCT 9|8|POBJ 10|0|ROOT 11|10|PUNCT
+*MOT:	<he's n> [//] he doesn't really play with dolls on his own . 229020_234044
+%mor:	pro:sub|he mod|do&3S~neg|not adv|real&dadj-LY v|play prep|with
+	n|doll-PL prep|on det:poss|his adj|own .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*EXP:	and that is all we have for you . 234044_236243
+%mor:	coord|and pro:dem|that cop|be&3S pro:indef|all pro:sub|we v|have
+	prep|for pro:per|you .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|SUBJ 6|4|CMOD 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*MOT:	besides like suck their fingers and stuff like that . 236243_239506
+%mor:	adv|besides co|like v|suck det:poss|their n|finger-PL coord|and
+	n|stuff prep|like pro:dem|that .
+%gra:	1|3|JCT 2|3|COM 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|6|COORD 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+*MOT:	or if they have tags then he really likes them . 239506_242258
+%mor:	coord|or conj|if pro:sub|they v|have n|tag-PL adv:tem|then
+	pro:sub|he adv|really v|like-3S pro:obj|them .
+%gra:	1|9|LINK 2|4|LINK 3|4|SUBJ 4|9|CJCT 5|9|SUBJ 6|9|JCT 7|9|SUBJ 8|9|JCT
+	9|0|ROOT 10|9|OBJ 11|9|PUNCT
+@End
