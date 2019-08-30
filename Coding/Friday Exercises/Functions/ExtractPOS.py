@@ -27,20 +27,26 @@ def POS (pathin, file):
             v2 = v1.replace('\n', '')
             p1.append(v2[0:3])
         people = p1
+        
 
-    with open(file,'r') as f:
-        text = f.read()
-        for item in removelist:
-            text = text.replace(item, '')
-        text = text.split('\n')
+    #with open(file,'r') as f:
+     #   text = f.read()
+      #  for item in removelist:
+       #     text = text.replace(item, '')
+        #text = text.split('\n')
 
         trans = []
         for line, val in enumerate(text):
-            label = val[1:4]
-            if label in people and text[line+1].startswith('%mor'):
-                trans.append(val)
-            elif label == 'mor':
-                trans.append(val)
+        	if val.startswith('%mor') and text[line-1][1:4] in people:
+              trans.append(text[line-1])
+              trans.append(val)
+
+            #label = val[1:4]
+            #if label in people and text[line+1].startswith('%mor'):
+             #   trans.append(val)
+              #  trans.append(text[line+1])
+            #elif label == 'mor':
+                #trans.append(val)
 
 
     grouped = [trans[n:n+2] for n in range(0, len(trans), 2)]
