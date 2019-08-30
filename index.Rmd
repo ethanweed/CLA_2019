@@ -37,7 +37,9 @@ Welcome to Child Language Acquisition!
 
 #### Reading
 
-1. [Video on creating a new Jupyter Notebook](https://www.youtube.com/watch?v=-MyjG00la2k)
+1. [Video on creating a new Jupyter Notebook](https://www.youtube.com/watch?v=-MyjG00la2k)  
+1. [Brown, 1973: Excerpt from Introduction](https://drive.google.com/file/d/0B4lOOWBOiL9jeHBXV0NvMy1KeFk/view)  
+1. [Ingram, 1989, Chapter 3](https://drive.google.com/open?id=0B4lOOWBOiL9jVjUwSXpQamFCcGs)
 
 ----------------------------------------
 
@@ -51,7 +53,7 @@ Welcome to Child Language Acquisition!
 
 #### Reading
 
-
+1. [Behrens (2008)](https://drive.google.com/open?id=0B4lOOWBOiL9jYmFtZi15V0JKSGs)
 1. Heinhold Ch. 1 & 2 (skip 1.1-2)
 
 ----------------------------------------
@@ -68,6 +70,7 @@ Welcome to Child Language Acquisition!
 
 #### Reading
 
+1. 
 1. Heinhold Ch. 3 & 4
 
 ----------------------------------------
@@ -196,9 +199,10 @@ Welcome to Child Language Acquisition!
 
 ## Notebooks
 
-[Notebook 1](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/IF statements-for-counting-words.html)  
+[Notebook 1](https://ethanweed.github.io/CLA_2019/CLA_2018/Notebooks/01_Getting started with Python.html)  
+[Notebook 2](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/IF statements-for-counting-words.html)  
 
-[Data for Notebook 1](https://raw.githubusercontent.com/ethanweed/CLA_2019/master/Coding/Friday%20Exercises/Data/Adam_mot_words_list.txt) (Right-click and choose "Download linked..")
+[Data for Notebook 2](https://raw.githubusercontent.com/ethanweed/CLA_2019/master/Coding/Friday%20Exercises/Data/Adam_mot_words_list.txt) (Right-click and choose "Download linked..")
 
 
 
