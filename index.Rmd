@@ -16,7 +16,33 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Welcome 
-Welcome to Child Language Acquisition!
+Welcome to **Child Language Acquisition**!
+
+In this course, we will use transcripts and corpora to help us understand child language acquisition. To do this we will be using the programming language Python and the program CLAN. Please install these before the first class (see details below).
+
+### Getting set up with Python.
+
+In this course, we will learn about the acquisition of language in early childhood. An important part of the course will be to learn to write scripts in the Python programming language to automate aspects of corpus analysis. To make this easier, I would like everybody to install a package called “Anaconda”. I have chosen Anaconda because:
+
+- It is widely respected in the data-science community
+- It includes the basic functions that we will need
+- It is cross-platform, so no matter whether you have a Mac, a Windows, or a Linux machine, you should be able to have the same programming environment as everyone else. If you have a Chromebook, it isn’t so easy. It is [apparently possible to install Anaconda on a Chromebook](https://wsvincent.com/install-python3-chromebook/). If you decide to do this, I salute you, but you are on your own. Another option for Chromebook users is to use [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb). Otherwise, you may just have to work with someone else, which isn’t so bad anyway.
+- It supports something called jupyter notebooks, which are a relatively user-friendly way to learn coding and to present your results
+
+So, please go [here](https://www.anaconda.com/distribution/) and download Anaconda. Choose the right version for your operating system (OSX, Windows, Linux). 
+
+- If you have Windows, figure out whether your computer has a 64-bit or a 32-bit processor. 
+- If you have a Mac, your only choice is 64-bit.  Choose the graphical installer, and not the command line installer. 
+- If you have Linux, you probably already know more than I do about computers, and I can’t help you (but I’ll try anyway, if you run into trouble)
+
+You will also need to choose between a version of Python 2 or Python 3 (currently version 3.7). You should choose Python 3.
+
+Please try to get Anaconda installed before the first class, so we can get started right away. If you have problems, let me know as soon as you can.
+
+### Getting set up with CLAN
+
+We will use the program CLAN to transcribe our own child data. Please [download and install CLAN](http://dali.talkbank.org/clan/). If you already have CLAN, make sure you have the most recent version - things may have changed since the version you downloaded.
+
 
 ----------------------------------------
 
