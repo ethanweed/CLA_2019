@@ -120,8 +120,6 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 ### Week 40
 #### Goals for this week:
 
-1. 
-
 1. Learn about acquisition of semantics
 1. Learn about lists (Store data in a structured way)
 1. Learn about reading and writing files (Process real data – text mining)
@@ -212,30 +210,43 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
+1. [Bishop (2008)](https://drive.google.com/file/d/1ugJLcmLnf4A5HrEoKkkWBU2mBpu5uuSi/view)
+1. TBA
+
+
 ----------------------------------------
 
 ### Week 47
 #### Goals for this week:
 
-1. 
+1. Learn about using a CHILDES transcript parser ([PyLangAcq](http://pylangacq.org/toc.html))
 
 #### Reading
+
+1. [Lee et al., 2016](http://jacksonllee.com/papers/lee-etal-2016-pylangacq.pdf)
+
 
 ----------------------------------------
 
 ### Week 48
 #### Goals for this week:
 
+1. Share project ideas:
+- introduce the transcript(s) you will be working with
+- sketch the analysis pipeline you will (tentatively) use
 
-#### Reading
 
 ----------------------------------------
 
 ### Week 49
 #### Goals for this week:
 
+1. Share project process:
+- how is your project going?
+- what problems have you run into?
 
-#### Reading
+
+
 
 ----------------------------------------
 
@@ -244,7 +255,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 [Notebook 1](https://ethanweed.github.io/CLA_2019/CLA_2018/Notebooks/01_Getting started with Python.html)  
 [Notebook 3: IF-statements](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/IF statements-for-counting-words.html)  
 
-[Data for Notebook 2](https://raw.githubusercontent.com/ethanweed/CLA_2019/master/Coding/Friday%20Exercises/Data/Adam_mot_words_list.txt) (Right-click and choose "Download linked..")
+[Data for Notebook 3](https://raw.githubusercontent.com/ethanweed/CLA_2019/master/Coding/Friday%20Exercises/Data/Adam_mot_words_list.txt) (Right-click and choose "Download linked..")
 
 
 
