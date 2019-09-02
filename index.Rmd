@@ -26,7 +26,7 @@ In this course, we will learn about the acquisition of language in early childho
 
 - It is widely respected in the data-science community
 - It includes the basic functions that we will need
-- It is cross-platform, so no matter whether you have a Mac, a Windows, or a Linux machine, you should be able to have the same programming environment as everyone else. If you have a Chromebook, it isn’t so easy. It is [apparently possible to install Anaconda on a Chromebook](https://wsvincent.com/install-python3-chromebook/). If you decide to do this, I salute you, but you are on your own. Another option for Chromebook users is to use [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb). Otherwise, you may just have to work with someone else, which isn’t so bad anyway.
+- It is cross-platform, so no matter whether you have a Mac, a Windows, or a Linux machine, you should be able to have the same programming environment as everyone else. If you have a Chromebook, it isn’t so easy. It is [apparently possible to install Anaconda on a Chromebook](https://wsvincent.com/install-python3-chromebook/). If you decide to do this, I salute you, but you are on your own. A simpler option for Chromebook users is to use [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb). Otherwise, you may just have to work with someone else, which isn’t so bad anyway.
 - It supports something called jupyter notebooks, which are a relatively user-friendly way to learn coding and to present your results
 
 So, please go [here](https://www.anaconda.com/distribution/) and download Anaconda. Choose the right version for your operating system (OSX, Windows, Linux). 
@@ -79,8 +79,10 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
-1. [Behrens (2008)](https://drive.google.com/open?id=0B4lOOWBOiL9jYmFtZi15V0JKSGs)
 1. Heinhold Ch. 1 & 2 (skip 1.1-2)
+1. Clark Chapter 1
+1. [Behrens (2008)](https://drive.google.com/open?id=0B4lOOWBOiL9jYmFtZi15V0JKSGs)
+
 
 ----------------------------------------
 
@@ -88,34 +90,37 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Goals for this week:
 
 1. Learn about child-directed speech
-1. Learn about speech stream segmentation
-1. Learn about early words
 1. Learn about lexical diversity (TTR) and learn how to calculate it
 1. Learn about doing arithmetic with Python (Getting metrics out of linguistic data)
 1. Learn about flow control and *if*-statements (Test certain conditions in data)
 
 #### Reading
 
-1. 
 1. Heinhold Ch. 3 & 4
+1. Clark Chapter 2
+1. [Hoff (2003)](https://drive.google.com/open?id=0B4lOOWBOiL9jeUpQY3pjV29jMGc) Right-click to open
 
 ----------------------------------------
 
 ### Week 39
 #### Goals for this week:
 
-1. Learn more about early words, and the production of early speech sounds
+1. Learn about speech stream segmentation
+1. Learn about early words
 1. Learn about effective and readable code (Write code that is human-readable)
 1. Learn about strings (Strings are one of the backbones of computational linguistics)
 
 #### Reading
 
 1. Heinhold Ch. 5 & 6
+1. Clark Chapters 3 & 4
 
 ----------------------------------------
 
 ### Week 40
 #### Goals for this week:
+
+1. 
 
 1. Learn about acquisition of semantics
 1. Learn about lists (Store data in a structured way)
@@ -124,6 +129,9 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Reading
 
 1. Heinhold Ch. 7 & 12
+1. Clark Chapter 6
+1. [Hoff and Naigles (2002)](https://drive.google.com/file/d/0B4lOOWBOiL9jOXhtUlVNRmsxUVU/view) Right-click to open  
+1. [Huttenlocker (1998)](https://drive.google.com/file/d/0B4lOOWBOiL9jZHJXWnd2QklsODQ/view)  
 
 ----------------------------------------
 
@@ -137,6 +145,8 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Reading
 
 1. Heinhold Ch. 8 & 11
+1. Clark Chapter 7
+
 
 ----------------------------------------
 
@@ -156,12 +166,13 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 ### Week 43
 #### Goals for this week:
 
-1. Learn about acquisition of morphology
+1. Learn about Bayesian models of language acquisition
 1. Learn about *while*-loops and data types (Process data the way you want – ask the questions that you find interesting)
 
 #### Reading
 
 1. Heinhold Ch. 9 & 10
+1. [Perfors et al (2010)](https://drive.google.com/file/d/0B4lOOWBOiL9jb0hhQk5vLWpMTVE/view) Right-click to open
 
 ----------------------------------------
 
@@ -171,28 +182,33 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 1. Learn about children’s conversation
 1. Learn about functions, scope, and reusable code (Consecutive steps of data processing)
 
-1. Heinhold Ch. 13
-
 #### Reading
+1. Heinhold Ch. 13
+1. Clark Chapter 12  
+1. [Yurovskey et al (2016)](https://drive.google.com/file/d/0B4lOOWBOiL9jVlQ5VVVYZEFadFU/view)  
+
+
 
 ----------------------------------------
 
 ### Week 45
 #### Goals for this week:
 
-1. Learn about development of contextual language
+1. Learn about bilingual language acquisition
 1. Learn about classes and objects (Working with data in a smart way)
 
 #### Reading
 
 1. Heinhold Ch. 14
+1. Clark Chapter 14  
+1. [Suppelementary articles](https://drive.google.com/drive/folders/0B4lOOWBOiL9jdlZRNUl4YXFhMms)
 
 ----------------------------------------
 
 ### Week 46
 #### Goals for this week:
 
-1. Learn about bilingual language acquisition 
+1. Learn about developmental language disorders
 
 #### Reading
 
@@ -201,7 +217,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 ### Week 47
 #### Goals for this week:
 
-1. Learn about DLD and developmental dyslexia
+1. 
 
 #### Reading
 
