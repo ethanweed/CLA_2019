@@ -261,3 +261,7 @@ FOR-loops
 
 
 ## Lecture Slides
+### Friday lectures
+### Wednesday instruction
+[Lesson 1: Introduction, variables and for-loops](https://github.com/ethanweed/CLA_2019/blob/master/Coding/Wednesday%20Instruction/Lesson1.slides.html) - [Jupyter notebook for Lesson 1](https://github.com/ethanweed/CLA_2019/blob/master/Coding/Wednesday%20Instruction/Lesson1.ipynb)
+
