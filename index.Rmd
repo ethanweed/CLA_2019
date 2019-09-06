@@ -264,6 +264,8 @@ FOR-loops
 
 ### Friday lectures
 
+Slides from Friday lectures will appear [here](https://drive.google.com/open?id=1ykMPh9z4xeugF4VvfOXScyPoSralq225)
+
 ### Wednesday instruction
 [Lesson 1: Introduction, variables and for-loops](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson1.slides.html)  
 
