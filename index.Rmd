@@ -93,6 +93,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 1. Learn about lexical diversity (TTR) and learn how to calculate it
 1. Learn about doing arithmetic with Python (Getting metrics out of linguistic data)
 1. Learn about flow control and *if*-statements (Test certain conditions in data)
+1. Learn about types of errors and how to handle these
 
 #### Reading
 
