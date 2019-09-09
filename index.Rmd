@@ -254,7 +254,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 ## Exercises
 
 [Variables, strings, and lists](https://ethanweed.github.io/CLA_2019/CLA_2018/Notebooks/01_Getting started with Python.html)  
-FOR-loops  
+[FOR-loops](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/for-loops_01.html)  
 [IF-statements](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/IF statements-for-counting-words.html)  
 
 [Data for IF-statements notebook](https://raw.githubusercontent.com/ethanweed/CLA_2019/master/Coding/Friday%20Exercises/Data/Adam_mot_words_list.txt) (Right-click and choose "Download linked..")
