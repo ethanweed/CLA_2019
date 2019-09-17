@@ -12774,7 +12774,7 @@ a.anchor-link {
 <ul>
 <li>The general concept</li>
 <li>How it works in Python</li>
-<li>Style conventions</li>
+<li>(Style conventions)</li>
 <li>(Potential problems and how to handle them)</li>
 </ul>
 
@@ -12788,11 +12788,19 @@ a.anchor-link {
 <h2 id="Coding-style---why?">Coding style - why?<a class="anchor-link" href="#Coding-style---why?">&#182;</a></h2><p>Imagine that you are reading an article and come across something like this:</p>
 <blockquote><p>"Several studies have suggested that aliens would most likely speak a language that we would not be able to produce [11, 13]. In experiments with Martians and Earthling toddlers, we saw that this was not the case (Blargon 2077, pp. 14-17), but the point may still be valid when we talk about aliens from other solar systems due to their different life forms (Johnson 2079: 43).</p>
 </blockquote>
+
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <p>Sure, it may work, but it would be much nicer for both the writer and the readers if it had followed a consistent style. The same goes for code!</p>
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
@@ -12812,7 +12820,7 @@ a^2 + b^2 = c^2
 <p>With variables, we can make generalized rules and later fill in actual values for specific cases.</p>
 <p>\begin{equation}
 a = 3, b = 4 \\
-c^2 = 3^2 + 4^2 = 25^2 \\
+c^2 = 3^2 + 4^2 = 25 \\
 c = \sqrt{25} = 5
 \end{equation}</p>
 
@@ -12832,7 +12840,7 @@ c = \sqrt{25} = 5
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="prompt input_prompt">In&nbsp;[17]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">math</span>
@@ -12867,7 +12875,7 @@ c = \sqrt{25} = 5
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="prompt input_prompt">In&nbsp;[18]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">c_squared</span> <span class="o">=</span> <span class="n">a</span><span class="o">**</span><span class="mi">2</span> <span class="o">+</span> <span class="n">b</span><span class="o">**</span><span class="mi">2</span>
@@ -12920,7 +12928,7 @@ c = \sqrt{25} = 5
 </div><div class="fragment">
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[5]:</div>
+<div class="prompt input_prompt">In&nbsp;[19]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="mi">3</span>
@@ -12935,23 +12943,72 @@ c = \sqrt{25} = 5
 </div>
 </div>
 
+</div></div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[20]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">z</span>
+</pre></div>
+
 </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt output_prompt">Out[20]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>(4, 5, 8)</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="The-things-we-put-in-the-variables:-basic-data-types">The things we put in the variables: basic data types<a class="anchor-link" href="#The-things-we-put-in-the-variables:-basic-data-types">&#182;</a></h2><p>Numbers are written simply as numbers, e.g. <code>12</code> (integers) or <code>5.67</code> (floating point numbers).</p>
+<h2 id="The-things-we-put-in-the-variables:-basic-data-types">The things we put in the variables: basic data types<a class="anchor-link" href="#The-things-we-put-in-the-variables:-basic-data-types">&#182;</a></h2>
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Numbers">Numbers<a class="anchor-link" href="#Numbers">&#182;</a></h3><p>Numbers are written simply as numbers, e.g. <code>12</code> (integers) or <code>5.67</code> (floating point numbers).</p>
 <p>We can do arithmetic with numbers:</p>
 <ul>
 <li>addition <code>3 + 4</code> -&gt; 7</li>
 <li>subtraction <code>5 - 2</code> -&gt; 3</li>
 <li>multiplication <code>3 * 5</code> -&gt; 15</li>
 <li>division <code>7 / 3</code> -&gt; 2.333... </li>
-<li>integer division <code>7 // 3</code> -&gt; 2 (the remainder of 1 is thrown away)</li>
 <li>exponentiation <code>3**3</code> -&gt; 27</li>
+<li>integer division <code>7 // 3</code> -&gt; 2 (the remainder of 1 is thrown away)</li>
 <li>modulo <code>7 % 3</code> -&gt; 1 (the remainder of integer division)</li>
 </ul>
-<p>Characters and strings of characters - <em>strings</em> more generally - are written with single or double quotes around them, e.g. <code>'c'</code>, <code>'a string'</code>, <code>"a long string with several characters"</code> or <code>"23"</code>.</p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Strings">Strings<a class="anchor-link" href="#Strings">&#182;</a></h3><p>Characters and strings of characters - <em>strings</em> more generally - are written with single or double quotes around them, e.g. <code>'c'</code>, <code>'a string'</code>, <code>"a long string with several characters"</code> or <code>"23"</code>.</p>
 <p>We cannot do arithmetic with strings, but we can concatenate them:</p>
 <ul>
 <li><code>"Monty" + " " + "Python"</code> -&gt; <code>"Monty Python"</code></li>
@@ -12960,7 +13017,7 @@ c = \sqrt{25} = 5
 
 </div>
 </div>
-</div></div></section></section><section><section>
+</div></section></section><section><section>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div>
 <div class="inner_cell">
@@ -12975,7 +13032,7 @@ c = \sqrt{25} = 5
 <p>The PEP-8 coding style guide says to stick to lowercase for regular variable names.</p>
 <p>For multiword variables, e.g. <code>a_pretty_long_name</code>, the words should be separated by underscores.</p>
 <p><code>CamelCase</code> and <code>CAPITALS</code> are reserved for other things.</p>
-<p>Variable names can mean an important difference between transparent code and something incomprehensible. We can call variables for what they contain, what they are for or anything, e.g. <code>cleaned_transcripts</code> or <code>longest_utterance</code>.</p>
+<p>Variable names can mean an important difference between transparent code and something incomprehensible, e.g. <code>cleaned_transcripts</code> vs <code>var37</code>.</p>
 
 </div>
 </div>
@@ -12995,8 +13052,7 @@ c = \sqrt{25} = 5
 <h2 id="The-concept-of-for-loops">The concept of <em>for</em>-loops<a class="anchor-link" href="#The-concept-of-for-loops">&#182;</a></h2><p>Once we have repetitive tasks and/or things that we should do the same things to, computers are extremely helpful.</p>
 <p>Imagine that you want to get the number of speakers in each of your 1000 transcripts. You probably have manual work for several days. A computer does it in seconds.</p>
 <p>The <em>for</em>-loop is also called <em>for each</em> in other programming languages. The core idea is to do the same task <strong>for each object in a row of objects</strong>.</p>
-<p>That is, you tell the computer: for each transcripts in this pile of transcripts, figure out the number of speakers and note it down.</p>
-<p>Or you can say, for each number from 1 to 100, give me some calculation with that number.</p>
+<p>That is, you tell the computer: for each transcript in this pile of transcripts, figure out the number of speakers and note it down.</p>
 
 </div>
 </div>
@@ -13007,20 +13063,22 @@ c = \sqrt{25} = 5
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="How-it-works-in-Python">How it works in Python<a class="anchor-link" href="#How-it-works-in-Python">&#182;</a></h2><p>There are two important elements in a <em>for</em>-loop:</p>
 <ul>
-<li>The row/list/... that the computer <strong>iterates</strong> over.</li>
+<li>The list/range/iterator/... that the computer <strong>iterates</strong> over.</li>
 <li>The <strong>loop variable</strong> which changes to the next object in the list for each iteration.</li>
 </ul>
 <p>The <strong>list</strong> is central here. You will learn more about these in detail later, but let's have an early look at them now and what we can do with them.</p>
+<p>Style and functionality: The block of code that should be repeated must be indented!</p>
 
 </div>
 </div>
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="prompt input_prompt">In&nbsp;[27]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">)))</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">)))</span>
 </pre></div>
 
 </div>
@@ -13037,7 +13095,8 @@ c = \sqrt{25} = 5
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+<pre>range(0, 10)
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 </pre>
 </div>
 </div>
@@ -13048,7 +13107,7 @@ c = \sqrt{25} = 5
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="prompt input_prompt">In&nbsp;[28]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">list_of_integers</span> <span class="o">=</span> <span class="p">[</span><span class="mi">3</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">24</span><span class="p">,</span> <span class="mi">56</span><span class="p">,</span> <span class="mi">72</span><span class="p">]</span>
@@ -13080,7 +13139,7 @@ c = \sqrt{25} = 5
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[8]:</div>
+<div class="prompt input_prompt">In&nbsp;[29]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">):</span>
@@ -13121,7 +13180,7 @@ c = \sqrt{25} = 5
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[9]:</div>
+<div class="prompt input_prompt">In&nbsp;[30]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">number</span> <span class="ow">in</span> <span class="n">list_of_integers</span><span class="p">:</span>
@@ -13167,7 +13226,7 @@ c = \sqrt{25} = 5
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[10]:</div>
+<div class="prompt input_prompt">In&nbsp;[35]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">22</span><span class="p">,</span> <span class="mi">2</span><span class="p">):</span>
@@ -13179,7 +13238,7 @@ c = \sqrt{25} = 5
     <span class="n">i_squared</span> <span class="o">=</span> <span class="n">i</span><span class="o">**</span><span class="mi">2</span>
     <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;i to the power of 2 is&#39;</span><span class="p">,</span> <span class="n">i_squared</span><span class="p">)</span>
     <span class="nb">input</span><span class="p">()</span>
-    
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Moving on to next iteration ...</span><span class="se">\n</span><span class="s1">-----------------------------</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
 </pre></div>
 
 </div>
@@ -13200,41 +13259,71 @@ c = \sqrt{25} = 5
 
 i to the power of 2 is 9
 
+Moving on to next iteration ...
+-----------------------------
+
 i is now 5
 
 i to the power of 2 is 25
+
+Moving on to next iteration ...
+-----------------------------
 
 i is now 7
 
 i to the power of 2 is 49
 
+Moving on to next iteration ...
+-----------------------------
+
 i is now 9
 
 i to the power of 2 is 81
+
+Moving on to next iteration ...
+-----------------------------
 
 i is now 11
 
 i to the power of 2 is 121
 
+Moving on to next iteration ...
+-----------------------------
+
 i is now 13
 
 i to the power of 2 is 169
+
+Moving on to next iteration ...
+-----------------------------
 
 i is now 15
 
 i to the power of 2 is 225
 
+Moving on to next iteration ...
+-----------------------------
+
 i is now 17
 
 i to the power of 2 is 289
+
+Moving on to next iteration ...
+-----------------------------
 
 i is now 19
 
 i to the power of 2 is 361
 
+Moving on to next iteration ...
+-----------------------------
+
 i is now 21
 
 i to the power of 2 is 441
+
+Moving on to next iteration ...
+-----------------------------
 
 </pre>
 </div>
@@ -13256,19 +13345,18 @@ i to the power of 2 is 441
 </div></section><section>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
+<div class="prompt input_prompt">In&nbsp;[37]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># lotst of different triangles</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># lots of different triangles</span>
 
 <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">11</span><span class="p">):</span>
     <span class="k">for</span> <span class="n">j</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">11</span><span class="p">):</span>
         <span class="n">a</span> <span class="o">=</span> <span class="n">i</span>
         <span class="n">b</span> <span class="o">=</span> <span class="n">j</span>
-        <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;a =&#39;</span><span class="p">,</span> <span class="n">a</span><span class="p">,</span> <span class="s1">&#39;, b =&#39;</span><span class="p">,</span> <span class="n">b</span><span class="p">)</span>
         <span class="n">c_squared</span> <span class="o">=</span> <span class="n">a</span><span class="o">**</span><span class="mi">2</span> <span class="o">+</span> <span class="n">b</span><span class="o">**</span><span class="mi">2</span>
         <span class="n">c</span> <span class="o">=</span> <span class="n">math</span><span class="o">.</span><span class="n">sqrt</span><span class="p">(</span><span class="n">c_squared</span><span class="p">)</span>
-        <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;c² =&#39;</span><span class="p">,</span> <span class="n">c_squared</span><span class="p">,</span> <span class="s1">&#39;, c =&#39;</span><span class="p">,</span> <span class="n">c</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;a =&#39;</span><span class="p">,</span> <span class="n">a</span><span class="p">,</span> <span class="s1">&#39;, b =&#39;</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span><span class="s1">&#39;, c =&#39;</span><span class="p">,</span> <span class="nb">round</span><span class="p">(</span><span class="n">c</span><span class="p">,</span> <span class="mi">2</span><span class="p">))</span>
         <span class="nb">print</span><span class="p">()</span>
 </pre></div>
 
@@ -13286,305 +13374,205 @@ i to the power of 2 is 441
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>a = 1 , b = 1
-c² = 2 , c = 1.4142135623730951
+<pre>a = 1 , b = 1 , c = 1.41
 
-a = 1 , b = 2
-c² = 5 , c = 2.23606797749979
+a = 1 , b = 2 , c = 2.24
 
-a = 1 , b = 3
-c² = 10 , c = 3.1622776601683795
+a = 1 , b = 3 , c = 3.16
 
-a = 1 , b = 4
-c² = 17 , c = 4.123105625617661
+a = 1 , b = 4 , c = 4.12
 
-a = 1 , b = 5
-c² = 26 , c = 5.0990195135927845
+a = 1 , b = 5 , c = 5.1
 
-a = 1 , b = 6
-c² = 37 , c = 6.082762530298219
+a = 1 , b = 6 , c = 6.08
 
-a = 1 , b = 7
-c² = 50 , c = 7.0710678118654755
+a = 1 , b = 7 , c = 7.07
 
-a = 1 , b = 8
-c² = 65 , c = 8.06225774829855
+a = 1 , b = 8 , c = 8.06
 
-a = 1 , b = 9
-c² = 82 , c = 9.055385138137417
+a = 1 , b = 9 , c = 9.06
 
-a = 1 , b = 10
-c² = 101 , c = 10.04987562112089
+a = 1 , b = 10 , c = 10.05
 
-a = 2 , b = 1
-c² = 5 , c = 2.23606797749979
+a = 2 , b = 1 , c = 2.24
 
-a = 2 , b = 2
-c² = 8 , c = 2.8284271247461903
+a = 2 , b = 2 , c = 2.83
 
-a = 2 , b = 3
-c² = 13 , c = 3.605551275463989
+a = 2 , b = 3 , c = 3.61
 
-a = 2 , b = 4
-c² = 20 , c = 4.47213595499958
+a = 2 , b = 4 , c = 4.47
 
-a = 2 , b = 5
-c² = 29 , c = 5.385164807134504
+a = 2 , b = 5 , c = 5.39
 
-a = 2 , b = 6
-c² = 40 , c = 6.324555320336759
+a = 2 , b = 6 , c = 6.32
 
-a = 2 , b = 7
-c² = 53 , c = 7.280109889280518
+a = 2 , b = 7 , c = 7.28
 
-a = 2 , b = 8
-c² = 68 , c = 8.246211251235321
+a = 2 , b = 8 , c = 8.25
 
-a = 2 , b = 9
-c² = 85 , c = 9.219544457292887
+a = 2 , b = 9 , c = 9.22
 
-a = 2 , b = 10
-c² = 104 , c = 10.198039027185569
+a = 2 , b = 10 , c = 10.2
 
-a = 3 , b = 1
-c² = 10 , c = 3.1622776601683795
+a = 3 , b = 1 , c = 3.16
 
-a = 3 , b = 2
-c² = 13 , c = 3.605551275463989
+a = 3 , b = 2 , c = 3.61
 
-a = 3 , b = 3
-c² = 18 , c = 4.242640687119285
+a = 3 , b = 3 , c = 4.24
 
-a = 3 , b = 4
-c² = 25 , c = 5.0
+a = 3 , b = 4 , c = 5.0
 
-a = 3 , b = 5
-c² = 34 , c = 5.830951894845301
+a = 3 , b = 5 , c = 5.83
 
-a = 3 , b = 6
-c² = 45 , c = 6.708203932499369
+a = 3 , b = 6 , c = 6.71
 
-a = 3 , b = 7
-c² = 58 , c = 7.615773105863909
+a = 3 , b = 7 , c = 7.62
 
-a = 3 , b = 8
-c² = 73 , c = 8.54400374531753
+a = 3 , b = 8 , c = 8.54
 
-a = 3 , b = 9
-c² = 90 , c = 9.486832980505138
+a = 3 , b = 9 , c = 9.49
 
-a = 3 , b = 10
-c² = 109 , c = 10.44030650891055
+a = 3 , b = 10 , c = 10.44
 
-a = 4 , b = 1
-c² = 17 , c = 4.123105625617661
+a = 4 , b = 1 , c = 4.12
 
-a = 4 , b = 2
-c² = 20 , c = 4.47213595499958
+a = 4 , b = 2 , c = 4.47
 
-a = 4 , b = 3
-c² = 25 , c = 5.0
+a = 4 , b = 3 , c = 5.0
 
-a = 4 , b = 4
-c² = 32 , c = 5.656854249492381
+a = 4 , b = 4 , c = 5.66
 
-a = 4 , b = 5
-c² = 41 , c = 6.4031242374328485
+a = 4 , b = 5 , c = 6.4
 
-a = 4 , b = 6
-c² = 52 , c = 7.211102550927978
+a = 4 , b = 6 , c = 7.21
 
-a = 4 , b = 7
-c² = 65 , c = 8.06225774829855
+a = 4 , b = 7 , c = 8.06
 
-a = 4 , b = 8
-c² = 80 , c = 8.94427190999916
+a = 4 , b = 8 , c = 8.94
 
-a = 4 , b = 9
-c² = 97 , c = 9.848857801796104
+a = 4 , b = 9 , c = 9.85
 
-a = 4 , b = 10
-c² = 116 , c = 10.770329614269007
+a = 4 , b = 10 , c = 10.77
 
-a = 5 , b = 1
-c² = 26 , c = 5.0990195135927845
+a = 5 , b = 1 , c = 5.1
 
-a = 5 , b = 2
-c² = 29 , c = 5.385164807134504
+a = 5 , b = 2 , c = 5.39
 
-a = 5 , b = 3
-c² = 34 , c = 5.830951894845301
+a = 5 , b = 3 , c = 5.83
 
-a = 5 , b = 4
-c² = 41 , c = 6.4031242374328485
+a = 5 , b = 4 , c = 6.4
 
-a = 5 , b = 5
-c² = 50 , c = 7.0710678118654755
+a = 5 , b = 5 , c = 7.07
 
-a = 5 , b = 6
-c² = 61 , c = 7.810249675906654
+a = 5 , b = 6 , c = 7.81
 
-a = 5 , b = 7
-c² = 74 , c = 8.602325267042627
+a = 5 , b = 7 , c = 8.6
 
-a = 5 , b = 8
-c² = 89 , c = 9.433981132056603
+a = 5 , b = 8 , c = 9.43
 
-a = 5 , b = 9
-c² = 106 , c = 10.295630140987
+a = 5 , b = 9 , c = 10.3
 
-a = 5 , b = 10
-c² = 125 , c = 11.180339887498949
+a = 5 , b = 10 , c = 11.18
 
-a = 6 , b = 1
-c² = 37 , c = 6.082762530298219
+a = 6 , b = 1 , c = 6.08
 
-a = 6 , b = 2
-c² = 40 , c = 6.324555320336759
+a = 6 , b = 2 , c = 6.32
 
-a = 6 , b = 3
-c² = 45 , c = 6.708203932499369
+a = 6 , b = 3 , c = 6.71
 
-a = 6 , b = 4
-c² = 52 , c = 7.211102550927978
+a = 6 , b = 4 , c = 7.21
 
-a = 6 , b = 5
-c² = 61 , c = 7.810249675906654
+a = 6 , b = 5 , c = 7.81
 
-a = 6 , b = 6
-c² = 72 , c = 8.48528137423857
+a = 6 , b = 6 , c = 8.49
 
-a = 6 , b = 7
-c² = 85 , c = 9.219544457292887
+a = 6 , b = 7 , c = 9.22
 
-a = 6 , b = 8
-c² = 100 , c = 10.0
+a = 6 , b = 8 , c = 10.0
 
-a = 6 , b = 9
-c² = 117 , c = 10.816653826391969
+a = 6 , b = 9 , c = 10.82
 
-a = 6 , b = 10
-c² = 136 , c = 11.661903789690601
+a = 6 , b = 10 , c = 11.66
 
-a = 7 , b = 1
-c² = 50 , c = 7.0710678118654755
+a = 7 , b = 1 , c = 7.07
 
-a = 7 , b = 2
-c² = 53 , c = 7.280109889280518
+a = 7 , b = 2 , c = 7.28
 
-a = 7 , b = 3
-c² = 58 , c = 7.615773105863909
+a = 7 , b = 3 , c = 7.62
 
-a = 7 , b = 4
-c² = 65 , c = 8.06225774829855
+a = 7 , b = 4 , c = 8.06
 
-a = 7 , b = 5
-c² = 74 , c = 8.602325267042627
+a = 7 , b = 5 , c = 8.6
 
-a = 7 , b = 6
-c² = 85 , c = 9.219544457292887
+a = 7 , b = 6 , c = 9.22
 
-a = 7 , b = 7
-c² = 98 , c = 9.899494936611665
+a = 7 , b = 7 , c = 9.9
 
-a = 7 , b = 8
-c² = 113 , c = 10.63014581273465
+a = 7 , b = 8 , c = 10.63
 
-a = 7 , b = 9
-c² = 130 , c = 11.40175425099138
+a = 7 , b = 9 , c = 11.4
 
-a = 7 , b = 10
-c² = 149 , c = 12.206555615733702
+a = 7 , b = 10 , c = 12.21
 
-a = 8 , b = 1
-c² = 65 , c = 8.06225774829855
+a = 8 , b = 1 , c = 8.06
 
-a = 8 , b = 2
-c² = 68 , c = 8.246211251235321
+a = 8 , b = 2 , c = 8.25
 
-a = 8 , b = 3
-c² = 73 , c = 8.54400374531753
+a = 8 , b = 3 , c = 8.54
 
-a = 8 , b = 4
-c² = 80 , c = 8.94427190999916
+a = 8 , b = 4 , c = 8.94
 
-a = 8 , b = 5
-c² = 89 , c = 9.433981132056603
+a = 8 , b = 5 , c = 9.43
 
-a = 8 , b = 6
-c² = 100 , c = 10.0
+a = 8 , b = 6 , c = 10.0
 
-a = 8 , b = 7
-c² = 113 , c = 10.63014581273465
+a = 8 , b = 7 , c = 10.63
 
-a = 8 , b = 8
-c² = 128 , c = 11.313708498984761
+a = 8 , b = 8 , c = 11.31
 
-a = 8 , b = 9
-c² = 145 , c = 12.041594578792296
+a = 8 , b = 9 , c = 12.04
 
-a = 8 , b = 10
-c² = 164 , c = 12.806248474865697
+a = 8 , b = 10 , c = 12.81
 
-a = 9 , b = 1
-c² = 82 , c = 9.055385138137417
+a = 9 , b = 1 , c = 9.06
 
-a = 9 , b = 2
-c² = 85 , c = 9.219544457292887
+a = 9 , b = 2 , c = 9.22
 
-a = 9 , b = 3
-c² = 90 , c = 9.486832980505138
+a = 9 , b = 3 , c = 9.49
 
-a = 9 , b = 4
-c² = 97 , c = 9.848857801796104
+a = 9 , b = 4 , c = 9.85
 
-a = 9 , b = 5
-c² = 106 , c = 10.295630140987
+a = 9 , b = 5 , c = 10.3
 
-a = 9 , b = 6
-c² = 117 , c = 10.816653826391969
+a = 9 , b = 6 , c = 10.82
 
-a = 9 , b = 7
-c² = 130 , c = 11.40175425099138
+a = 9 , b = 7 , c = 11.4
 
-a = 9 , b = 8
-c² = 145 , c = 12.041594578792296
+a = 9 , b = 8 , c = 12.04
 
-a = 9 , b = 9
-c² = 162 , c = 12.727922061357855
+a = 9 , b = 9 , c = 12.73
 
-a = 9 , b = 10
-c² = 181 , c = 13.45362404707371
+a = 9 , b = 10 , c = 13.45
 
-a = 10 , b = 1
-c² = 101 , c = 10.04987562112089
+a = 10 , b = 1 , c = 10.05
 
-a = 10 , b = 2
-c² = 104 , c = 10.198039027185569
+a = 10 , b = 2 , c = 10.2
 
-a = 10 , b = 3
-c² = 109 , c = 10.44030650891055
+a = 10 , b = 3 , c = 10.44
 
-a = 10 , b = 4
-c² = 116 , c = 10.770329614269007
+a = 10 , b = 4 , c = 10.77
 
-a = 10 , b = 5
-c² = 125 , c = 11.180339887498949
+a = 10 , b = 5 , c = 11.18
 
-a = 10 , b = 6
-c² = 136 , c = 11.661903789690601
+a = 10 , b = 6 , c = 11.66
 
-a = 10 , b = 7
-c² = 149 , c = 12.206555615733702
+a = 10 , b = 7 , c = 12.21
 
-a = 10 , b = 8
-c² = 164 , c = 12.806248474865697
+a = 10 , b = 8 , c = 12.81
 
-a = 10 , b = 9
-c² = 181 , c = 13.45362404707371
+a = 10 , b = 9 , c = 13.45
 
-a = 10 , b = 10
-c² = 200 , c = 14.142135623730951
+a = 10 , b = 10 , c = 14.14
 
 </pre>
 </div>
