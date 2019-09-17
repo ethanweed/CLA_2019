@@ -12729,7 +12729,83 @@ a.anchor-link {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Arithmetic">Arithmetic<a class="anchor-link" href="#Arithmetic">&#182;</a></h2>
+<h2 id="Quick-recommendation">Quick recommendation<a class="anchor-link" href="#Quick-recommendation">&#182;</a></h2><p>To grasp how code examples work, it may help to run it yourselves.</p>
+<p>Type in examples from Heinold (2012) while reading; figure out the point of each line!</p>
+<p>Add comments with <em>#</em> in any code to clarify and remember:</p>
+<div class="highlight"><pre><span></span><span class="c1"># here, we frobnicate the user&#39;s input</span>
+<span class="n">foo</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s1">&#39;Please, input a number&#39;</span><span class="p">)</span>  <span class="c1"># get the user&#39;s input</span>
+<span class="n">bar</span> <span class="o">=</span> <span class="n">frobnicate</span><span class="p">(</span><span class="n">foo</span><span class="p">)</span>  <span class="c1"># frobnicate it</span>
+<span class="k">print</span><span class="p">(</span><span class="n">bar</span><span class="p">)</span>  <span class="c1"># report the frobnicated value</span>
+</pre></div>
+<p>Have a look at exercises after each chapter. Don't necessarily do them, but think about how it <em>could</em> be done.</p>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Recall-from-last-week:-variables-and-for-loops">Recall from last week: variables and <em>for</em>-loops<a class="anchor-link" href="#Recall-from-last-week:-variables-and-for-loops">&#182;</a></h2>
+</div>
+</div>
+</div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Variables">Variables<a class="anchor-link" href="#Variables">&#182;</a></h3><p>Variables have a name and a value</p>
+<p>It can be helpful to imagine variables as "containers"</p>
+<p>Variables makes it possible to make <strong>generalize</strong></p>
+<p>Variable names should be only in lower case letters; multi word variables can be separated by underscores</p>
+
+</div>
+</div>
+</div></div><div class="fragment">
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="for-loops"><em>for</em>-loops<a class="anchor-link" href="#for-loops">&#182;</a></h3><p><em>for</em>-loops executes the same block of code <strong>for each</strong> element in a list of things</p>
+<p>For each iteration, the loop variable is updated to the next element in the list</p>
+<p>They are extremely effective for repetitive tasks</p>
+
+</div>
+</div>
+</div></div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Quiz-question-2-from-Friday">Quiz question 2 from Friday<a class="anchor-link" href="#Quiz-question-2-from-Friday">&#182;</a></h2><p>How many have made this exercise? How hard was it? If it's too hard, don't despair!</p>
+<p>When starting on a problem, take a step back and think. Maybe write down <strong>pseudo-code</strong>.</p>
+
+<pre><code>load in all transcripts
+
+make each transcript into a list of utterances
+
+prepare MLU list
+
+for each transcript:
+
+    prepare list for utterance lengths
+
+    for each utterance: 
+
+        append length of utterance to list
+
+    calculate MLU and append it to the MLU list
+
+report the results somehow</code></pre>
+
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Arithmetic">Arithmetic<a class="anchor-link" href="#Arithmetic">&#182;</a></h1>
 </div>
 </div>
 </div></section></section><section><section>
@@ -12877,7 +12953,7 @@ The cosine of 60 degrees:  0.5000000000000001
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Flow-control:-if-statements">Flow control: <em>if</em>-statements<a class="anchor-link" href="#Flow-control:-if-statements">&#182;</a></h2>
+<h1 id="Flow-control:-if-statements">Flow control: <em>if</em>-statements<a class="anchor-link" href="#Flow-control:-if-statements">&#182;</a></h1>
 </div>
 </div>
 </div></section></section><section><section>
@@ -12885,7 +12961,7 @@ The cosine of 60 degrees:  0.5000000000000001
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Another-core-of-programming">Another core of programming<a class="anchor-link" href="#Another-core-of-programming">&#182;</a></h2><p>As with loops, <em>if</em>-statements make up an important core in programming since this enables to do <strong>flow control</strong>.</p>
+<h2 id="Another-core-of-programming">Another core of programming<a class="anchor-link" href="#Another-core-of-programming">&#182;</a></h2><p>As with loops, <em>if</em>-statements make up an important core in programming since this enables us to do <strong>flow control</strong>.</p>
 <p>That is, we can condition the program into doing certain things and follow certain paths in the program.</p>
 <p>In combination with repetitive tasks, this is extremely powerful.</p>
 <p>Imagine that you want to find out when a child is competent in verbal conjugation. You could accomplish that with a program like this:</p>
@@ -12910,7 +12986,7 @@ The cosine of 60 degrees:  0.5000000000000001
 
 <pre><code>if (some condition):
     do something</code></pre>
-<p>If the condition is met, we can tell it to test something else in the same manner. These are <em>else if</em>-statements (<em>elif</em> in Python).</p>
+<p>If the condition is not met, we can tell it to test something else in the same manner. These are <em>else if</em>-statements (<em>elif</em> in Python).</p>
 
 <pre><code>else if (some condition):
     do something</code></pre>
@@ -12920,10 +12996,10 @@ The cosine of 60 degrees:  0.5000000000000001
     do something</code></pre>
 <p>If we leave out <em>else</em>-statements, the block of code is simply skipped. This is often used as well, e.g.</p>
 
-<pre><code>if not (transcript is clean):
-    clean transcript
+<pre><code>if (some variable is a string):
+    convert the string to a number
 
-... some other code which processes only clean transcripts ...</code></pre>
+... do calculations ...</code></pre>
 
 </div>
 </div>
@@ -12937,6 +13013,15 @@ The cosine of 60 degrees:  0.5000000000000001
     <span class="k">print</span><span class="p">(</span><span class="n">a_number</span><span class="p">,</span> <span class="s1">&#39;is higher than the threshold&#39;</span><span class="p">)</span>
 </pre></div>
 <p>There are three keywords: <strong>if</strong>, <strong>elif</strong> and <strong>else</strong>.</p>
+<p>Some frequently used operators are:</p>
+<ul>
+<li><code>==</code> equal to</li>
+<li><code>&lt;</code> smaller than</li>
+<li><code>&gt;</code> bigger than</li>
+<li><code>&lt;=</code> smaller than or equal to</li>
+<li><code>&gt;=</code> bigger than or equal to</li>
+<li><code>in</code> element is in another element, e.g. <code>word in list_of_words</code></li>
+</ul>
 <p><strong>if</strong> and <strong>elif</strong> must be followed by a condition. <strong>else</strong> can only stand on its own.</p>
 <p>The <strong>condition</strong> is the central concept here. So let us take a look at what these are and how they work.</p>
 
@@ -12956,7 +13041,7 @@ The cosine of 60 degrees:  0.5000000000000001
 <p>We have so-called <strong>boolean operators</strong>. These are <strong>and</strong> ($\wedge$), <strong>or</strong> ($\vee$) and <strong>not</strong> ($\lnot$). If $p$ and $q$ are boolean expressions with a truth value, we have that</p>
 <ul>
 <li>$p \wedge q$ is only true if both $p$ and $q$ are true. "If this something is true and this other something is true, then ..."</li>
-<li>$p \vee q$ is true if at least one of $p$ or $q$ is true. "If this something or this other something is true (or if they are both true), then ..."</li>
+<li>$p \vee q$ is true if at least one of $p$ or $q$ is true. "If at least this something or this other something is true, then ..."</li>
 <li>$\lnot p$ is true if $p$ is false. "If this something is <strong>not</strong> true, then ..."</li>
 </ul>
 
@@ -13125,7 +13210,420 @@ The cosine of 60 degrees:  0.5000000000000001
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Errors,-bugs-and-how-to-handle-them">Errors, bugs and how to handle them<a class="anchor-link" href="#Errors,-bugs-and-how-to-handle-them">&#182;</a></h2>
+<h2 id="Back-to-Python">Back to Python<a class="anchor-link" href="#Back-to-Python">&#182;</a></h2><p>We write these boolean expressions in Python simply with <code>not</code>, <code>and</code> and <code>or</code>. This is also the order of operations.</p>
+<p>We can use brackets to change this but also just to make things clear!</p>
+<p><code>if x &gt; 5 or y &lt;= 5 and not z == 9</code> can be hard to read.</p>
+<p>We can help the readers of our code: <code>if x &gt; 5 or (y &lt;= 5 and (not z == 9))</code></p>
+<p>However, brackets can also be overwhelming.</p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[33]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="mi">9</span> <span class="o">&gt;</span> <span class="mi">5</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt output_prompt">Out[33]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>True</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[34]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="mi">9</span> <span class="o">&lt;=</span> <span class="mi">5</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt output_prompt">Out[34]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>False</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[35]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="mi">9</span>
+<span class="n">y</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="n">x</span> <span class="o">&gt;</span> <span class="mi">6</span> <span class="ow">and</span> <span class="n">y</span> <span class="o">&gt;=</span> <span class="mi">6</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt output_prompt">Out[35]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>False</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[36]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="mi">9</span>
+<span class="n">y</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="k">if</span> <span class="n">x</span> <span class="o">&gt;</span> <span class="mi">6</span> <span class="ow">or</span> <span class="n">y</span> <span class="o">&gt;=</span> <span class="mi">6</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Got to here because it was true&#39;</span><span class="p">)</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;The value of the expression was false&#39;</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Got to here because it was true
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[37]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="n">y</span> <span class="o">=</span> <span class="mi">6</span>
+<span class="ow">not</span> <span class="n">x</span> <span class="o">&gt;</span> <span class="mi">6</span> <span class="ow">and</span> <span class="n">y</span> <span class="o">&gt;=</span> <span class="mi">6</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt output_prompt">Out[37]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>True</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[38]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="mi">6</span>
+<span class="n">y</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="n">z</span> <span class="o">=</span> <span class="mi">9</span>
+<span class="n">x</span> <span class="o">&gt;</span> <span class="mi">5</span> <span class="ow">or</span> <span class="n">y</span> <span class="o">&lt;=</span> <span class="mi">5</span> <span class="ow">and</span> <span class="ow">not</span> <span class="n">z</span> <span class="o">==</span> <span class="mi">9</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt output_prompt">Out[38]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>True</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[40]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">x</span> <span class="o">=</span> <span class="mi">6</span>
+<span class="n">y</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="n">z</span> <span class="o">=</span> <span class="mi">9</span>
+<span class="p">(</span><span class="n">x</span> <span class="o">&gt;</span> <span class="mi">5</span> <span class="ow">or</span> <span class="n">y</span> <span class="o">&lt;=</span> <span class="mi">5</span><span class="p">)</span> <span class="ow">and</span> <span class="ow">not</span> <span class="n">z</span> <span class="o">==</span> <span class="mi">9</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt output_prompt">Out[40]:</div>
+
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>False</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Errors-and-how-to-handle-them">Errors and how to handle them<a class="anchor-link" href="#Errors-and-how-to-handle-them">&#182;</a></h1>
+</div>
+</div>
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Syntax-errors">Syntax errors<a class="anchor-link" href="#Syntax-errors">&#182;</a></h2><p>Syntax errors are things in the code which Python does not understand.</p>
+<p>They are thrown before the code is executed.</p>
+<p>These are often caused by e.g.:</p>
+<ul>
+<li>wrong use of operators</li>
+<li>missing or superfluous brackets, e.g. <code>print('a string'</code> or <code>print('a string))'</code></li>
+<li>wrong indentations</li>
+<li>stray symbols from deleted code</li>
+<li>missing symbols</li>
+<li>misspelled variable or function names</li>
+</ul>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-cyan-fg">  File </span><span class="ansi-green-fg">&#34;&lt;ipython-input-3-7a8a49ad5eea&gt;&#34;</span><span class="ansi-cyan-fg">, line </span><span class="ansi-green-fg">1</span>
+<span class="ansi-red-fg">    for i in range(10)</span>
+                      ^
+<span class="ansi-red-fg">SyntaxError</span><span class="ansi-red-fg">:</span> invalid syntax
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Runtime-errors">Runtime errors<a class="anchor-link" href="#Runtime-errors">&#182;</a></h2><p>Runtime errors occur when Python tries to do something which it cannot do/is not allowed to do.</p>
+<p>They are thrown during execution of the code.</p>
+<p>There are numerous kinds of runtime errors, depending on the thing that goes wrong.</p>
+<p>An example is <code>TypeError</code> which occurs when the type of a variable's value does not allow for a certain operation.</p>
+
+</div>
+</div>
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">first_number</span> <span class="o">=</span> <span class="s1">&#39;23&#39;</span>
+<span class="n">second_number</span> <span class="o">=</span> <span class="mi">54</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">first_number</span> <span class="o">+</span> <span class="n">second_number</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">TypeError</span>                                 Traceback (most recent call last)
+<span class="ansi-green-fg">&lt;ipython-input-4-93066f1dc4cf&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-intense-fg ansi-bold">      1</span> first_number <span class="ansi-blue-fg">=</span> <span class="ansi-blue-fg">&#39;23&#39;</span>
+<span class="ansi-green-intense-fg ansi-bold">      2</span> second_number <span class="ansi-blue-fg">=</span> <span class="ansi-cyan-fg">54</span>
+<span class="ansi-green-fg">----&gt; 3</span><span class="ansi-red-fg"> </span>print<span class="ansi-blue-fg">(</span>first_number <span class="ansi-blue-fg">+</span> second_number<span class="ansi-blue-fg">)</span>
+
+<span class="ansi-red-fg">TypeError</span>: must be str, not int</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div></section><section>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">second_number</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+<div class="prompt"></div>
+
+
+<div class="output_subarea output_text output_error">
+<pre>
+<span class="ansi-red-fg">---------------------------------------------------------------------------</span>
+<span class="ansi-red-fg">TypeError</span>                                 Traceback (most recent call last)
+<span class="ansi-green-fg">&lt;ipython-input-6-abfd98bcdcb6&gt;</span> in <span class="ansi-cyan-fg">&lt;module&gt;</span><span class="ansi-blue-fg">()</span>
+<span class="ansi-green-fg">----&gt; 1</span><span class="ansi-red-fg"> </span><span class="ansi-green-fg">for</span> i <span class="ansi-green-fg">in</span> second_number<span class="ansi-blue-fg">:</span>
+<span class="ansi-green-intense-fg ansi-bold">      2</span>     print<span class="ansi-blue-fg">(</span>i<span class="ansi-blue-fg">)</span>
+
+<span class="ansi-red-fg">TypeError</span>: &#39;int&#39; object is not iterable</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div></section></section><section><section>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="What-to-do?">What to do?<a class="anchor-link" href="#What-to-do?">&#182;</a></h2><p>Look at the error message and see if you can work out what is going wrong.</p>
+<p>Python gives three hints: line number, error type and error message.</p>
+<p>The internet often has answers, but it can also provide over-technical answers which can be confusing.</p>
+
 </div>
 </div>
 </div>

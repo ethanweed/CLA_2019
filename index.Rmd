@@ -48,7 +48,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 ## Textbooks
 1. Clark, Eve V. (2016). First Language Acquisition. Cambridge: Cambridge University Press NB: Any edition of this book should be fine.
-1. [Heinhold (2012) A Practical Introduction to Python Programming](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
+1. [Heinold, Brian. (2012). A Practical Introduction to Python Programming](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
 
 ----------------------------------------
 
@@ -79,7 +79,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
-1. Heinhold Ch. 1 & 2 (skip 1.1-2)
+1. Heinold Ch. 1 & 2 (skip 1.1-2)
 1. Clark Chapter 1
 1. [Behrens (2008)](https://drive.google.com/open?id=0B4lOOWBOiL9jYmFtZi15V0JKSGs)
 
@@ -97,7 +97,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
-1. Heinhold Ch. 3 & 4
+1. Heinold Ch. 3 & 4
 1. Clark Chapter 2
 1. [Hoff (2003)](https://drive.google.com/open?id=0B4lOOWBOiL9jeUpQY3pjV29jMGc) Right-click to open
 
@@ -113,7 +113,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
-1. Heinhold Ch. 5 & 6
+1. Heinold Ch. 5 & 6
 1. Clark Chapters 3 & 4
 
 ----------------------------------------
@@ -127,7 +127,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
-1. Heinhold Ch. 7 & 12
+1. Heinold Ch. 7 & 12
 1. Clark Chapter 6
 1. [Hoff and Naigles (2002)](https://drive.google.com/file/d/0B4lOOWBOiL9jOXhtUlVNRmsxUVU/view) Right-click to open  
 1. [Huttenlocker (1998)](https://drive.google.com/file/d/0B4lOOWBOiL9jZHJXWnd2QklsODQ/view)  
@@ -143,7 +143,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
-1. Heinhold Ch. 8 & 11
+1. Heinold Ch. 8 & 11
 1. Clark Chapter 7
 
 
@@ -170,7 +170,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
-1. Heinhold Ch. 9 & 10
+1. Heinold Ch. 9 & 10
 1. [Perfors et al (2010)](https://drive.google.com/file/d/0B4lOOWBOiL9jb0hhQk5vLWpMTVE/view) Right-click to open
 
 ----------------------------------------
@@ -182,7 +182,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 1. Learn about functions, scope, and reusable code (Consecutive steps of data processing)
 
 #### Reading
-1. Heinhold Ch. 13
+1. Heinold Ch. 13
 1. Clark Chapter 12  
 1. [Yurovskey et al (2016)](https://drive.google.com/file/d/0B4lOOWBOiL9jVlQ5VVVYZEFadFU/view)  
 
@@ -198,7 +198,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
-1. Heinhold Ch. 14
+1. Heinold Ch. 14
 1. Clark Chapter 14  
 1. [Suppelementary articles](https://drive.google.com/drive/folders/0B4lOOWBOiL9jdlZRNUl4YXFhMms)
 
@@ -271,4 +271,8 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 [Lesson 1: Introduction, variables and for-loops](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson1.slides.html)  
 
 [Jupyter notebook for Lesson 1](https://github.com/ethanweed/CLA_2019/blob/master/Coding/Wednesday%20Instruction/Lesson1.ipynb)
+
+[Lesson 2: Arithmetic, flow control and error handling](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson2.slides.html)  
+
+[Jupyter notebook for Lesson 2](https://github.com/ethanweed/CLA_2019/blob/master/Coding/Wednesday%20Instruction/Lesson2.ipynb)
 
