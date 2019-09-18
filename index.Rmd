@@ -267,6 +267,8 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 Slides from Friday lectures will appear [here](https://drive.google.com/open?id=1ykMPh9z4xeugF4VvfOXScyPoSralq225)
 
+[SES (Hall data)](http://htmlpreview.github.com/?https://github.com/ethanweed/CLA_2019/blob/master/Coding/quick-SES-analysis-Hall.html)
+
 ### Wednesday instruction
 [Lesson 1: Introduction, variables and for-loops](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson1.slides.html)  
 
