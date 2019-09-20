@@ -108,12 +108,14 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 1. Learn about speech stream segmentation
 1. Learn about early words
-1. Learn about effective and readable code (Write code that is human-readable)
+1. Learn about programming errors and how handle them
 1. Learn about strings (Strings are one of the backbones of computational linguistics)
+1. Learn about readable code (Write code that is human-readable)
 
 #### Reading
 
 1. Heinold Ch. 5 & 6
+1. Make exercise 1 in ch. 6
 1. Clark Chapters 3 & 4
 
 ----------------------------------------
@@ -274,7 +276,7 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 
 [Jupyter notebook for Lesson 1](https://github.com/ethanweed/CLA_2019/blob/master/Coding/Wednesday%20Instruction/Lesson1.ipynb)
 
-[Lesson 2: Arithmetic, flow control and error handling](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson2.slides.html)  
+[Lesson 2: Arithmetic and flow control](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson2.slides.html)  
 
 [Jupyter notebook for Lesson 2](https://github.com/ethanweed/CLA_2019/blob/master/Coding/Wednesday%20Instruction/Lesson2.ipynb)
 
