@@ -6,7 +6,7 @@
 *CHI:where
 *CHI:where
 *CHI:yeah it hangs down
-*CHI:you better stop [!]
+*CHI:you better stop
 *CHI:it's my knife
 *CHI:look what Joe Joe did
 *CHI:he opened the knife
@@ -55,14 +55,14 @@
 *CHI:<I wanna> [//] I'm waiting downstairs
 *CHI:where's my jacket
 *CHI:where's my jacket
-*CHI:I know [!] I , I heard you say it two times
+*CHI:I know I , I heard you say it two times
 *CHI:I'm going down
 *CHI:I'm going down
 *CHI:xxx I'm sitting right here
 *CHI:xxx
 *CHI:I'll go upstairs
-*CHI:I wanna go 0to 0the bath+room (.)
-*CHI:xxx to go pee in the bath+room (.)
+*CHI:I wanna go 0to 0the bath+room
+*CHI:xxx to go pee in the bath+room
 *CHI:I hafta go 0to 0the bath+room
 *CHI:(.) what choo [: you] doin(g)
 *CHI:what
@@ -101,11 +101,11 @@
 *CHI:hey
 *CHI:you on my jacket
 *CHI:okay I don't wanna wear it
-*CHI:you [!] hold it
+*CHI:you hold it
 *CHI:I don't wanna wear it
-*CHI:don't touch [!]
+*CHI:don't touch
 *CHI:you don't touch
-*CHI:I [!] could touch
+*CHI:I could touch
 *CHI:that is green and red
 *CHI:it's green and red
 *CHI:no &gree , green and red
@@ -122,7 +122,7 @@
 *CHI:hello
 *CHI:testing one , two , three
 *CHI:testing one , two , three
-*CHI:testing one , two , three (.)
+*CHI:testing one , two , three
 *CHI:testing one , two , three &ee:dee
 *CHI:xxx I wanna go
 *CHI:you leaving dat [: that] here too
@@ -140,8 +140,8 @@
 *CHI:yeah it's running , look
 *CHI:&anam &anam &inam &inam &inam &inam &inam &inam
 *CHI:&anam &anam &anau
-*CHI:microphones (.)
-*CHI:hello (.)
+*CHI:microphones
+*CHI:hello
 *CHI:in the cellophane
 *CHI:here
 *CHI:eat it
@@ -153,7 +153,7 @@
 *CHI:this is antenna
 *CHI:this is a iron , that's the antenna
 *CHI:no
-*CHI:xxx where're da [: the] tissues [!]
+*CHI:xxx where're da [: the] tissues
 *CHI:he not coming back tonight
 *CHI:what
 *CHI:well I'm gonna tell him someteen [: something]
@@ -173,13 +173,13 @@
 *CHI:you can't
 *CHI:I could turn it around with +...
 *CHI:get off
-*CHI:I , I could turn it around because I'm , I'm the one who was (.)
+*CHI:I , I could turn it around because I'm , I'm the one who was
 *CHI:hey give me da [: the] money
 *CHI:give me money
 *CHI:how much you giving Danny
 *CHI:you give Danny money
 *CHI:he +...
-*CHI:hey look Joe (.)
+*CHI:hey look Joe
 *CHI:no , you give Danny honey
 *CHI:yeah
 *CHI:he give me a dime
@@ -187,7 +187,7 @@
 *CHI:no dey [: they] won't see
 *CHI:what Jimmy get
 *CHI:a dollar
-*CHI:you can have some money back and you give me [!] a dollar
+*CHI:you can have some money back and you give me a dollar
 *CHI:you can have the money back and give me a dollar
 *CHI:I'm not gonna school
 *CHI:here
@@ -212,7 +212,7 @@
 *CHI:my dollar's gonna get wet
 *CHI:my dollar's gonna +...
 *CHI:my dollar's gonna get wet
-*CHI:oh yes (.)
+*CHI:oh yes
 *CHI:my dollar's gonna get wet
 *CHI:my dollar's gonna get wet
 *CHI:up under it
@@ -222,10 +222,10 @@
 *CHI:I didn't xxx
 *CHI:now I'm keeping it
 *CHI:oh no
-*CHI:no I'm keeping it (.)
-*CHI:what (.)
+*CHI:no I'm keeping it
+*CHI:what
 *CHI:let's go down again
-*CHI:let's stay down for a few minutes , downstairs (.)
+*CHI:let's stay down for a few minutes , downstairs
 *CHI:why you stay +...
 *CHI:what
 *CHI:&o , open da [: the] drawer
@@ -239,7 +239,7 @@
 *CHI:&-uh it +...
 *CHI:I daught [: thought] it was down dere [: there]
 *CHI:&m:a I found a dollar , man
-*CHI:I'm going to get it (be)cause I found it (.)
+*CHI:I'm going to get it (be)cause I found it
 *CHI:the dollars over here , and if I get it , it's lucky for me
 *CHI:I found a dollar
 *CHI:and shut up
@@ -253,9 +253,9 @@
 *CHI:I don't hafta go
 *CHI:you , you want Danny's shoes
 *CHI:where
-*CHI:dey're [: they're] down dere [: there] (.)
+*CHI:dey're [: they're] down dere [: there]
 *CHI:dey're [: they're] not down dere [: there] I know where dey
-*CHI:my pussy [!] dey're [: they're] down dere [: there] look
+*CHI:my pussy dey're [: they're] down dere [: there] look
 *CHI:you deci:de
 *CHI:what chew [: you] gonna d:o
 *CHI:you dec:ide , what chew [: you] gonna d:o
@@ -280,7 +280,7 @@
 *CHI:&a
 *CHI:&a
 *CHI:we're not waiting for you
-*CHI:no [!] I said
+*CHI:no I said
 *CHI:Joe , look it [: at] , look it [: at] it and see
 *CHI:a dollar , dollar &a
 *CHI:&y &y you see a dollar dis [: this] way
@@ -289,7 +289,7 @@
 *CHI:now , now , when I go like dat [: that] and like dat [: that] and
 *CHI:yeah
 *CHI:now it's up
-*CHI:look (.)
+*CHI:look
 *CHI:you fold it like dat [: that] you turn it like dat [: that] you
 *CHI:and go like that , you see
 *CHI:it's a trick
@@ -318,16 +318,16 @@
 *CHI:xxx
 *CHI:xxx what you gonna do:o
 *CHI:I stay here
-*CHI:goodbye (.)
+*CHI:goodbye
 *CHI:I'm gonna buy candy
 *CHI:I'm goin(g) to buy some candy
 *CHI:testing one , two , three
-*CHI:dee@si , dlee@si , dlee@si , dlee@si , ee@si (.)
+*CHI:dee@si , dlee@si , dlee@si , dlee@si , ee@si
 *CHI:testing one two three , three , three , dee@si dee@si di@si dee@si
 *CHI:testing testing one , two , three
 *CHI:testing
 *CHI:(.) Danny went to school
-*CHI:talking to the kid (.)
+*CHI:talking to the kid
 *CHI:put xxx on there
 *CHI:why
 *CHI:(be)cause why
@@ -338,50 +338,50 @@
 *CHI:I don't like this color
 *CHI:I don't like green
 *CHI:I like orange
-*CHI:yummy orange , and I don't like back (.)
-*CHI:I'm little (.)
+*CHI:yummy orange , and I don't like back
+*CHI:I'm little
 *CHI:that's Kimmy
-*CHI:Kimmy [!]
+*CHI:Kimmy
 *CHI:Kimmy
 *CHI:I said Kimmy
 *CHI:how come we're walking down Madison
 *CHI:well we are
 *CHI:that's Madison street
-*CHI:you walk down Madison street (.)
+*CHI:you walk down Madison street
 *CHI:Madison too
-*CHI:yeah that's good (.)
+*CHI:yeah that's good
 *CHI:oh I no , I'm not gonna eat dis [: this] one
 *CHI:&oo: nope didn't go in
-*CHI:I throw it in dere [: there] for the birds (.) and black is no good
+*CHI:I throw it in dere [: there] for the birds and black is no good
 *CHI:throw it in dere [: there] for da [: the] birds
 *CHI:the black is no good and I hafta get the black out
 *CHI:birds eat candy
 *CHI:I don't , I don't like dem [: them] colors
-*CHI:I just like dese [: these] (.)
+*CHI:I just like dese [: these]
 *CHI:my red fell
-*CHI:watch out (.)
-*CHI:no one here (.)
+*CHI:watch out
+*CHI:no one here
 *CHI:I'm walking
 *CHI:you wanna walk
 *CHI:no
 *CHI:I'm upstairs
-*CHI:&oo [!]
+*CHI:&oo
 *CHI:I don't wanna go with dem [: them]
 *CHI:just let me in
 *CHI:I'm goin(g) alright
 *CHI:can I go get something
-*CHI:no money (.)
+*CHI:no money
 *CHI:loan me some more please
-*CHI:I thought those were clothes of some kind (.)
+*CHI:I thought those were clothes of some kind
 *CHI:I have fix your thing
 *CHI:yeah
 *CHI:what
-*CHI:you pay him (.)
 *CHI:you pay him
-*CHI:alright (.)
+*CHI:you pay him
+*CHI:alright
 *CHI:who
 *CHI:tie my jacket
-*CHI:mom , my jacket [!]
+*CHI:mom , my jacket
 *CHI:I'm cold
 *CHI:he's not coming back
 *CHI:not anymo:re
@@ -389,18 +389,18 @@
 *CHI:where , where the [//] last night , &l &-um , last night , you know
 *CHI:do you know
 *CHI:where the boy and girl is
-*CHI:it's on your hand (.)
-*CHI:a box [!] is in da [: the] gutter
+*CHI:it's on your hand
+*CHI:a box is in da [: the] gutter
 *CHI:what
 *CHI:see it under da [: the] car
 *CHI:look
 *CHI:over dere [: there] it was movin(g) when da [: the] car was
-*CHI:dat [: that] one (.)
+*CHI:dat [: that] one
 *CHI:I rang basement
 *CHI:I durt [: thought] dat [: that] was four
-*CHI:I dur [: thought] dat [: that] was four (.)
+*CHI:I dur [: thought] dat [: that] was four
 *CHI:I got the door
-*CHI:hello , hello (.)
+*CHI:hello , hello
 *CHI:stupid
 *CHI:what chu [: are] you gonna do
 *CHI:what chu [: are you] gonna do
@@ -413,7 +413,7 @@
 *CHI:no one's dere [: there]
 *CHI:no one's dere [: there]
 *CHI:no one's dere [: there]
-*CHI:alright (.)
+*CHI:alright
 *CHI:what are you doing here now
 *CHI:you tired of carrying that
 *CHI:that's a watch
@@ -432,7 +432,7 @@
 *CHI:look
 *CHI:so
 *CHI:I'm going to drink water
-*CHI:wanna come Charleen (.)
+*CHI:wanna come Charleen
 *CHI:ahhah
 *CHI:bye
 *CHI:what
@@ -450,34 +450,34 @@
 *CHI:orange
 *CHI:what
 *CHI:dis [: this] xxx
-*CHI:oh , fine (.)
+*CHI:oh , fine
 *CHI:Charleen has candy
 *CHI:o@l b@l b@l +...
-*CHI:no (.)
+*CHI:no
 *CHI:you don't use that
 *CHI:that's not right
-*CHI:look I could write my name (.)
+*CHI:look I could write my name
 *CHI:there's some dots
 *CHI:what's he doing outside
 *CHI:why are you putting dem [: them] ding +...
-*CHI:ear+rings on (.)
+*CHI:ear+rings on
 *CHI:an , an , and he left something at my house
 *CHI:he left something at my house and guess
-*CHI:you guess [!]
+*CHI:you guess
 *CHI:hard
-*CHI:big (.)
+*CHI:big
 *CHI:guess
 *CHI:no
 *CHI:guess
-*CHI:no (.) it has it has a handle
+*CHI:no it has it has a handle
 *CHI:no
 *CHI:or you'll break it
 *CHI:what is it
 *CHI:what is it
-*CHI:no (.)
+*CHI:no
 *CHI:someding [: thing]
 *CHI:wid [: with] a handle on it
-*CHI:yeah (.)
+*CHI:yeah
 *CHI:no
 *CHI:no
 *CHI:something like &s tool
@@ -486,7 +486,7 @@
 *CHI:I I'll give a hint
 *CHI:it gots [: got] [* +es] four ends and it has handle
 *CHI:and it has a handle
-*CHI:Charleen got [!] it
+*CHI:Charleen got it
 *CHI:I don't know what he left in dere [: there]
 *CHI:xxx had my knife out xxx who have it
 *CHI:he saw my pocket knife
@@ -511,7 +511,7 @@
 *CHI:you hafta give me a hint
 *CHI:paper
 *CHI:chair
-*CHI:sofa (.)
+*CHI:sofa
 *CHI:bed
 *CHI:what
 *CHI:what
@@ -531,12 +531,12 @@
 *CHI:something happened to his walk [//] radio
 *CHI:his wire came off
 *CHI:no , it still is off
-*CHI:my [!] wire's not off
+*CHI:my wire's not off
 *CHI:my wire's ah right dere [: there]
 *CHI:my wire is a magic wire
 *CHI:I kill you
-*CHI:stop (.)
-*CHI:xxx &yo [!]
+*CHI:stop
+*CHI:xxx &yo
 *CHI:I kill you
 *CHI:gimme [: give me]
 *CHI:that lollipop
@@ -545,13 +545,13 @@
 *CHI:xxx I xxx I take my radio and call the cops
 *CHI:how +...
 *CHI:do I have a radio
-*CHI:where (.)
+*CHI:where
 *CHI:no
 *CHI:candy
 *CHI:candy
 *CHI:candy candy candy
 *CHI:nope
-*CHI:candy [!]
+*CHI:candy
 *CHI:what
 *CHI:what is a riddle
 *CHI:I , I said candy
@@ -559,16 +559,16 @@
 *CHI:we both had been answering +...
 *CHI:how [: Harold] let me get one lick
 *CHI:uhhuh
-*CHI:yeah (.)
+*CHI:yeah
 *CHI:should really eat at home
-*CHI:&l look , how did I make dat [: that] (.)
+*CHI:&l look , how did I make dat [: that]
 *CHI:huh
 *CHI:well it's magic
 *CHI:uhuh
 *CHI:uhuh uhuh I don't do that Harold
 *CHI:you wanna do it
 *CHI:uhuh
-*CHI:zebra [!]
+*CHI:zebra
 *CHI:a +...
 *CHI:Coney island
 *CHI:yeah
@@ -579,9 +579,9 @@
 *CHI:what's his [//] what's dat [: that] man's name again
 *CHI:Graeme
 *CHI:I know
-*CHI:I'm going to drink water (.)
-*CHI:a trick everyone (.)
-*CHI:anyone see a trick (.)
+*CHI:I'm going to drink water
+*CHI:a trick everyone
+*CHI:anyone see a trick
 *CHI:I know the man's name that just came in
 *CHI:Graeme
 *CHI:Lena O'donnel
@@ -604,7 +604,7 @@
 *CHI:I wanna keep this here
 *CHI:here
 *CHI:I wait out here , for you
-*CHI:no [!]
+*CHI:no
 *CHI:after lunch
 *CHI:buck
 *CHI:oh
@@ -613,7 +613,7 @@
 *CHI:tape recorder
 *CHI:not me
 *CHI:Bendy@c , Dundy@c , that's Mundy@c , that's Grundy@c that's
-*CHI:I got a dollar (.)
+*CHI:I got a dollar
 *CHI:well I got money
 *CHI:look
 *CHI:one dollar
@@ -642,17 +642,17 @@
 *CHI:when they gonna be here
 *CHI:yeah
 *CHI:I wanna see your dollar
-*CHI:I wanna see your [!] dollar
+*CHI:I wanna see your dollar
 *CHI:I'm waiting right here
 *CHI:Harold's right dere [: there]
-*CHI:dere's [: there's] Harold (.)
+*CHI:dere's [: there's] Harold
 *CHI:I wanna see it
 *CHI:Graeme
 *CHI:I'm not calling you , I'm calling Graeme &y , &y , &y [//] the last
 *CHI:we were gonna steal you
 *CHI:a dollar
 *CHI:got two
-*CHI:let me see &im fake [!]
+*CHI:let me see &im fake
 *CHI:fake right
 *CHI:if you , if you open , open dat [: that] up , dat [: that] dollar ,
 *CHI:open dat [: that] dollar up man
@@ -671,7 +671,7 @@
 *CHI:Graeme
 *CHI:here
 *CHI:haha [x 2]
-*CHI:no [!]
+*CHI:no
 *CHI:I don't hafta do it
 *CHI:what doll(ar) is
 *CHI:what doll(ar) is
@@ -682,7 +682,7 @@
 *CHI:the man the man
 *CHI:that's a man
 *CHI:xxx six
-*CHI:dere [: there] [!]
+*CHI:dere [: there]
 *CHI:dere's [: there's] my dollar
 *CHI:dere's [: there's] my dollar
 *CHI:I lost my dollar
@@ -691,7 +691,7 @@
 *CHI:I lost my dollar
 *CHI:I lost it
 *CHI:and the +...
-*CHI:I lost my dollar [!]
+*CHI:I lost my dollar
 *CHI:gimme [: give me] a dollar
 *CHI:I lost my dollar
 *CHI:Michael didn't draw
@@ -699,7 +699,7 @@
 *CHI:I draw [: drew] it
 *CHI:Michael gonna fight you (be)cause I draw it
 *CHI:&dae , &dae
-*CHI:my shoe [!]
+*CHI:my shoe
 *CHI:tie my shoe
 *CHI:but +...
 *CHI:I wanna make it tighter
@@ -709,10 +709,10 @@
 *CHI:&der &der &derrr I , I'm playing wit(h) choo [: you] mike
 *CHI:no , I , I sit here
 *CHI:dey [: they] are watered
-*CHI:I ah , I , (.) you're standing on a tippy toes
+*CHI:I ah , I , you're standing on a tippy toes
 *CHI:right
 *CHI:I don't hafta stand on my tippy toes
-*CHI:do it (.)
+*CHI:do it
 *CHI:do it
 *CHI:exactly as the water goes
 *CHI:I stand like this
@@ -724,7 +724,7 @@
 *CHI:what's your name
 *CHI:Graeme
 *CHI:give me your money
-*CHI:give me your money [!] or your life [!] , or your bald headed wife
+*CHI:give me your money or your life , or your bald headed wife
 *CHI:uhuh
 *CHI:I , I hear the whole thing at my house
 *CHI:&bae &lae
@@ -755,18 +755,18 @@
 *CHI:me and Peter useta do dis [: this]
 *CHI:when , when Anne Marie's not looking
 *CHI:no open the other closet
-*CHI:de [: the] other one Harold (.)
+*CHI:de [: the] other one Harold
 *CHI:I could get back up dere [: there] man
 *CHI:I can
 *CHI:I'm not
 *CHI:get off
 *CHI:you don't touch me
-*CHI:&ee: (.)
+*CHI:&ee:
 *CHI:get off
 *CHI:Michael
-*CHI:one went out (.)
+*CHI:one went out
 *CHI:yeah
-*CHI:all of us (.)
+*CHI:all of us
 *CHI:dis [: this] one's mine
 *CHI:I'm not gonna pid [: put] any
 *CHI:happy birthday to Lillian
@@ -781,10 +781,10 @@
 *CHI:(d)ear Richard , happy birthday to you
 *CHI:when
 *CHI:when
-*CHI:I ate &w [//] I , I [!] tried it
+*CHI:I ate &w [//] I , I tried it
 *CHI:my birthday's in a [: the] summertime
 *CHI:my birthday's in a [: the] summertime
-*CHI:floor (.)
+*CHI:floor
 *CHI:I'm not doing any ding [: thing]
 *CHI:where's my &kur ruhp [: cup]
 *CHI:where's my cup
@@ -801,10 +801,10 @@
 *CHI:dormez_vous@s:fra
 *CHI:where's da [: the] ju:ice where's da [: the] juice
 *CHI:where's da [: the] juice
-*CHI:yeah (.)
+*CHI:yeah
 *CHI:&l , &l , &l last time I got a birthday , want a [: to] know how
 *CHI:two hundred and thirty four dollars
-*CHI:and I got my birthday (.)
+*CHI:and I got my birthday
 *CHI:dormez_vous@s:fra
 *CHI:your birthday crack
 *CHI:your birthday crack
@@ -820,7 +820,7 @@
 *CHI:don't have no more
 *CHI:you don't have no more
 *CHI:you don't have more
-*CHI:o:h [!]
+*CHI:o:h
 *CHI:everyone shut up
 *CHI:da [: the] (u)nited states
 *CHI:I'm gonna get +...
@@ -870,10 +870,10 @@
 *CHI:who
 *CHI:I've got sixteen
 *CHI:I got sixteen shots
-*CHI:sixteen to six (.)
+*CHI:sixteen to six
 *CHI:shut up
 *CHI:he's calling
-*CHI:and shut up (.)
+*CHI:and shut up
 *CHI:my , my &sh , mine
 *CHI:no Eric took six shots
 *CHI:I'm taking six
@@ -899,10 +899,10 @@
 *CHI:that get on the xxx puch@o , puch@o , puch@o
 *CHI:I killed you
 *CHI:let's kill him again
-*CHI:&pah [!]
-*CHI:&pah [!]
+*CHI:&pah
+*CHI:&pah
 *CHI:oh yeah , a_lot_of times
-*CHI:&pah [!] I killed you one [: once]
+*CHI:&pah I killed you one [: once]
 *CHI:(th)at's good
 *CHI:another basket
 *CHI:another basket
@@ -930,7 +930,7 @@
 *CHI:I could go on top of dere [: there]
 *CHI:outside
 *CHI:oh
-*CHI:you don't needta shoot da [: the] ball , unless I tell [!] you to
+*CHI:you don't needta shoot da [: the] ball , unless I tell you to
 *CHI:hurry up
 *CHI:you don't +...
 *CHI:I +...
@@ -949,11 +949,11 @@
 *CHI:xxx
 *CHI:gimme [: give me] da [: the] ball
 *CHI:I got four shots in
-*CHI:right (.)
+*CHI:right
 *CHI:I got four shots
 *CHI:I mean five
 *CHI:pid [: put] dis [: this] where dose [: those] xxx back up
-*CHI:xxx (.) xxx the horsie's broke
+*CHI:xxx xxx the horsie's broke
 *CHI:the horsie's gonna make pee pee and &kahkee the horsie's make a pee
 *CHI:horse makin(g) pee pee , finished
 *CHI:&drr
@@ -1007,7 +1007,7 @@
 *CHI:and he shoots
 *CHI:and he runs
 *CHI:and , he , Eric Dixon doesn't get da [: the] ball
-*CHI:xxx right (.)
+*CHI:xxx right
 *CHI:that's milk
 *CHI:that's not milk
 *CHI:it's +...
@@ -1031,7 +1031,7 @@
 *CHI:I just hit it and it went under my legs
 *CHI:loose ball what
 *CHI:a , another ball , another ball came down
-*CHI:oh (.) oh look
+*CHI:oh oh look
 *CHI:can I +...
 *CHI:I wanna play with da [: the] guns
 *CHI:I wanna play with the guns
@@ -1059,7 +1059,7 @@
 *CHI:see dey're [: they're] putting on da [: the] shirts
 *CHI:da [: the] kids are putting on a [: the] shirts
 *CHI:I'm not playing anymore with dem [: them]
-*CHI:&ei , police (.)
+*CHI:&ei , police
 *CHI:&ei could we use a a , use , could we able to use guns
 *CHI:on da [: the] &-uh de [: the] use ones de [: the] &-uh , da [: the]
 *CHI:no I wanna use dem [: them] now
@@ -1067,7 +1067,7 @@
 *CHI:no
 *CHI:it's all , just , just me and Michael
 *CHI:use a gun
-*CHI:I want one (.)
+*CHI:I want one
 *CHI:gimme [: give me] both
 *CHI:gimme [: give me] one
 *CHI:I'm not gon [: going] +...
@@ -1091,13 +1091,13 @@
 *CHI:now I knocked you out , pah@o
 *CHI:my pants keep opening
 *CHI:police
-*CHI:dat's [: that's] what I'm gonna do (.)
+*CHI:dat's [: that's] what I'm gonna do
 *CHI:walk
 *CHI:walk
 *CHI:chk@o , chk@o , chk@o , now I , now I took them out
 *CHI:walk dere [: there]
 *CHI:chk@o , chk@o , chk@o , chk@o chk@o , chk@o
-*CHI:we , we got it already (.)
+*CHI:we , we got it already
 *CHI:no
 *CHI:I'm [: going to] [*] kill you
 *CHI:I'll kill you
@@ -1114,7 +1114,7 @@
 *CHI:chk@o chk@o chk@o
 *CHI:go on , go
 *CHI:go
-*CHI:chk@o chk@o chk@o chk@o (.)
+*CHI:chk@o chk@o chk@o chk@o
 *CHI:I'm go(ing) on a [: the] back
 *CHI:whoop
 *CHI:my turn now
@@ -1129,7 +1129,7 @@
 *CHI:&dae &lae &lae &lae
 *CHI:chk@o , chk@o , chk@o
 *CHI:bam
-*CHI:bam (.)
+*CHI:bam
 *CHI:now I'm gonna go on a [: the] horse
 *CHI:cheat
 *CHI:I'm not playing
@@ -1138,7 +1138,7 @@
 *CHI:my turn
 *CHI:my turn right
 *CHI:&ei
-*CHI:&ei (.)
+*CHI:&ei
 *CHI:let me try to take his gun and kill him
 *CHI:&-um , drun@o drrun@o drrun@o drrun@o drrun@o drrun@o drrun@o
 *CHI:hey police
@@ -1153,14 +1153,14 @@
 *CHI:what
 *CHI:could you eat it
 *CHI:good
-*CHI:where is it (.)
+*CHI:where is it
 *CHI:I wanna see it
 *CHI:two of them
 *CHI:huh
-*CHI:&l let me [!] hold the time watch
+*CHI:&l let me hold the time watch
 *CHI:what
 *CHI:hello
-*CHI:I talked in yours (.)
+*CHI:I talked in yours
 *CHI:what
 *CHI:who
 *CHI:dis [: this] guy
@@ -1174,11 +1174,11 @@
 *CHI:Lisa
 *CHI:there's two Lisas
 *CHI:how do +...
-*CHI:oh [!] , can I try it
+*CHI:oh , can I try it
 *CHI:let me try it
 *CHI:let me , lemme [: let me] do it a few times
-*CHI:xxx let me do some times [!]
-*CHI:that's my [!] letter
+*CHI:xxx let me do some times
+*CHI:that's my letter
 *CHI:I wanna do it some times
 *CHI:I wanna do it some times
 *CHI:my turn
@@ -1194,7 +1194,7 @@
 *CHI:let me see the time xxx
 *CHI:press it down
 *CHI:ahhah
-*CHI:up to da [: the] top (.)
+*CHI:up to da [: the] top
 *CHI:I could open it
 *CHI:xxx maybe I could open it
 *CHI:this comes off
@@ -1203,9 +1203,9 @@
 *CHI:I'm a [: going to] [*] get [//] I'm a [: going to] [*] take some
 *CHI:I &muh I'm a [: going to] [*] take a few peanut(s)
 *CHI:I'm taking one
-*CHI:oh , dis [: this] one is a big [!] one
-*CHI:one [!]
-*CHI:just one [!]
+*CHI:oh , dis [: this] one is a big one
+*CHI:one
+*CHI:just one
 *CHI:just one in these two big ones
 *CHI:just one in dese [: these] , shells
 *CHI:I wanna play
@@ -1215,7 +1215,7 @@
 *CHI:I know Graeme be:fore you do
 *CHI:what
 *CHI:what
-*CHI:what does oh [!] mean
+*CHI:what does oh mean
 *CHI:what
 *CHI:that means +...
 *CHI:dere's [: there's] two of &-um , dese [: these]
@@ -1235,13 +1235,13 @@
 *CHI:here
 *CHI:what
 *CHI:what
-*CHI:what (.)
-*CHI:what choo [: do you] wanna trade for Lisa (.)
+*CHI:what
+*CHI:what choo [: do you] wanna trade for Lisa
 *CHI:no
 *CHI:african
 *CHI:waves
 *CHI:take the wave
-*CHI:two africans (.)
+*CHI:two africans
 *CHI:see Lisa pick:ed [: picked] that out
 *CHI:I keep forgetting
 *CHI:I don't know where everyding [: thing] is
@@ -1256,7 +1256,7 @@
 *CHI:I'm going down
 *CHI:bye bye
 *CHI:no I'm going down
-*CHI:no [!]
+*CHI:no
 *CHI:no , I'm going down
 *CHI:me
 *CHI:see this is +...
@@ -1299,18 +1299,18 @@
 *CHI:he's right dere [: there]
 *CHI:no , I'm walking around with the man
 *CHI:what choo [: you] doing over here
-*CHI:&paht [!]
+*CHI:&paht
 *CHI:&ur:r
 *CHI:what
 *CHI:I buy you my dick
 *CHI:but look I +...
-*CHI:what (.)
+*CHI:what
 *CHI:I buy some
 *CHI:I , I buy one pack , buy two packs
 *CHI:one
 *CHI:one
 *CHI:where
-*CHI:see , no (.) +...
+*CHI:see , no +...
 *CHI:dere's [: there's] George
 *CHI:a , a +...
 *CHI:you don't know George
@@ -1321,7 +1321,7 @@
 *CHI:what
 *CHI:no
 *CHI:I can't play
-*CHI:I ain't got no cards (.)
+*CHI:I ain't got no cards
 *CHI:gimme [: give me] that bicycle xxx
 *CHI:I said +...
 *CHI:+, you want , want a soda
@@ -1348,7 +1348,7 @@
 *CHI:testing one two three
 *CHI:testing one two three
 *CHI:my shoe's open
-*CHI:tie my shoe please (.)
+*CHI:tie my shoe please
 *CHI:hey do you know how to tie
 *CHI:tie my shoe
 *CHI:tie my shoe
@@ -1361,7 +1361,7 @@
 *CHI:testing one two three
 *CHI:dere's [: there's] a black man , and dere's [: there's] a black
 *CHI:and now someone needs to tie my +...
-*CHI:ah: (.)
+*CHI:ah:
 *CHI:dere's [: there's] a xxx , dere's [: there's] this guy
 *CHI:he's a xxx hi ya , tie my shoe again
 *CHI:he ties fast
@@ -1369,14 +1369,14 @@
 *CHI:all tied Joe
 *CHI:come on Joe
 *CHI:harry
-*CHI:open duh [: the] door (.)
-*CHI:open a [: the] door (.)
+*CHI:open duh [: the] door
+*CHI:open a [: the] door
 *CHI:open a [: the] door harry
-*CHI:what (.)
+*CHI:what
 *CHI:so
 *CHI:let's go in a [: the] park , my shoe's tied
 *CHI:come on
-*CHI:come on [!] (.) here
+*CHI:come on here
 *CHI:no
 *CHI:yeah
 *CHI:close your eyes
@@ -1405,7 +1405,7 @@
 *CHI:yeah
 *CHI:hello
 *CHI:xxx
-*CHI:ah no , xxx he's taping me [!]
+*CHI:ah no , xxx he's taping me
 *CHI:look what I got
 *CHI:hello
 *CHI:Frankie you (re)member da [: the] fight in the school yard
@@ -1417,14 +1417,14 @@
 *CHI:you not gonna see nutin [: nothing]
 *CHI:the whole thing
 *CHI:what's gonna be taped
-*CHI:frank you're [!] gonna be taped
+*CHI:frank you're gonna be taped
 *CHI:here
 *CHI:close your eyes again , I'm gonna put this in your pocket
 *CHI:here , haha , &ha
 *CHI:what choo [: you] want
 *CHI:what choo [: you] want , frank
 *CHI:what choo [: you] want
-*CHI:you're afraid (.)
+*CHI:you're afraid
 *CHI:microphone
 *CHI:I'm playing
 *CHI:I'm playing , I'm playing with dem [: them] rifles
@@ -1455,7 +1455,7 @@
 *CHI:I I know about something
 *CHI:there's a cockroach in back of you
 *CHI:yeah
-*CHI:yeah there is [!]
+*CHI:yeah there is
 *CHI:look
 *CHI:look
 *CHI:no , look
@@ -1495,7 +1495,7 @@
 *CHI:seventeen frank
 *CHI:seventeen Frankie
 *CHI:I , got , I &g I &g I got my uniform on
-*CHI:yeah (.) I hit windows with rocks
+*CHI:yeah I hit windows with rocks
 *CHI:I'm gonna hit a window wid [: with] a rock
 *CHI:there's a tiger down there man
 *CHI:and I'll kill the tigers uhkuhz [: because] I have , knife
@@ -1507,11 +1507,11 @@
 *CHI:&shh &pkk &chk , &pkk , &chk , &pkk , &chk he's already dead
 *CHI:is dead
 *CHI:calling
-*CHI:calling the star+ship (.)
-*CHI:ca(ll) (.) +...
+*CHI:calling the star+ship
+*CHI:ca(ll) +...
 *CHI:I lost my knife
 *CHI:I lost my knife
-*CHI:no , I lost [!] it
+*CHI:no , I lost it
 *CHI:I lost it
 *CHI:I lost my knife
 *CHI:I threw it down
@@ -1528,7 +1528,7 @@
 *CHI:I'm gonna buy some pizza
 *CHI:Rita
 *CHI:I'm gonna buy pizza
-*CHI:I'm gonna buy peetze [: pizza] (.)
+*CHI:I'm gonna buy peetze [: pizza]
 *CHI:I could buy pizza
 *CHI:I could buy pizza
 *CHI:I could buy pizza
@@ -1568,7 +1568,7 @@
 *CHI:thirteen
 *CHI:yeah , thirdy [: thirty] , thirdy [: thirty]
 *CHI:thirdy [: thirty]
-*CHI:I'm not kicking it (.)
+*CHI:I'm not kicking it
 *CHI:Rita
 *CHI:Graeme
 *CHI:and his [: her] name is Rita
@@ -1576,18 +1576,18 @@
 *CHI:dr:um
 *CHI:dr:um
 *CHI:dr:umummummummum@wp
-*CHI:mae@wp , mum@wp , mae@wp , mae@wp (.)
+*CHI:mae@wp , mum@wp , mae@wp , mae@wp
 *CHI:ah , I got a good idea
-*CHI:I found a stick (.)
+*CHI:I found a stick
 *CHI:in a &mu &yae
 *CHI:diz [: this] guy does
 *CHI:me
 *CHI:I don't wanna watch it
-*CHI:now we'll each xxx turn around (.)
+*CHI:now we'll each xxx turn around
 *CHI:mom
 *CHI:want Joe
 *CHI:you want Joe
-*CHI:xxx coming up (.)
+*CHI:xxx coming up
 *CHI:come on man
 *CHI:come on
 *CHI:up
@@ -1595,7 +1595,7 @@
 *CHI:sit &d stairs , sit over there , on the steps
 *CHI:on that [: those] steps
 *CHI:and probably it dem [: that] boy comes again , and da [: the] girl
-*CHI:Joe Joe says anymore bad words (.)
+*CHI:Joe Joe says anymore bad words
 *CHI:says anymore bad words , gonna turn around and &-uh &-um
 *CHI:I don't wanna [: want a] button
 *CHI:my xxx is xxx
@@ -1606,24 +1606,24 @@
 *CHI:here
 *CHI:throw this rock to me
 *CHI:when I say throw it , you throw it
-*CHI:throw it (.)
+*CHI:throw it
 *CHI:throw it to me over here
 *CHI:baseball mitts
 *CHI:baseball mitts
 *CHI:dis [: this] is baseball , mitts
 *CHI:gimme [: give me] it
-*CHI:I'm not gonna hit you I'm gonna do someding [: thing] else (.)
+*CHI:I'm not gonna hit you I'm gonna do someding [: thing] else
 *CHI:dis [: this]
-*CHI:I'm a [: going to] [*] break dis [: this] (.)
+*CHI:I'm a [: going to] [*] break dis [: this]
 *CHI:I'm looking for someding [: thing]
-*CHI:mommy (.)
+*CHI:mommy
 *CHI:xxx gimme [: give me] my keys
-*CHI:I'm going gup [: up] (.) I needed a rug
+*CHI:I'm going gup [: up] I needed a rug
 *CHI:I'm cold
 *CHI:you going gup [: up]
 *CHI:I'm coming back down
 *CHI:I hafta go [: to the] bath+room
-*CHI:that's why I'm going up (.)
+*CHI:that's why I'm going up
 *CHI:you nut
 *CHI:I'm going buy some cake
 *CHI:no money
@@ -1640,7 +1640,7 @@
 *CHI:I could get anything I wanna
 *CHI:I got a dae [: dollar]
 *CHI:no
-*CHI:skin books (.)
+*CHI:skin books
 *CHI:pee pee
 *CHI:Joe look
 *CHI:come here
@@ -1653,8 +1653,8 @@
 *CHI:I'm wid [: with] him
 *CHI:I wanna get one
 *CHI:where's Dillinger
-*CHI:I wanna get something like this (.)
-*CHI:Joe (.)
+*CHI:I wanna get something like this
+*CHI:Joe
 *CHI:have a quarter
 *CHI:got a quarter
 *CHI:I'm going dere [: there]
@@ -1662,7 +1662,7 @@
 *CHI:I getting any change
 *CHI:what
 *CHI:do I get any change
-*CHI:I'm not getting anything (.)
+*CHI:I'm not getting anything
 *CHI:but I want a pizza
 *CHI:no more
 *CHI:I want a box of matches now
@@ -1676,9 +1676,9 @@
 *CHI:I , I , I'm , I'm meet you at da [: the] pizza
 *CHI:dumee@si , dumee@si
 *CHI:dur@si
-*CHI:xxx (.) testing three , (.)
+*CHI:xxx testing three ,
 *CHI:alright
-*CHI:a cool jag (.)
+*CHI:a cool jag
 *CHI:Jack
 *CHI:be@si , dur@si , dur@si , dur@si dur@si , dur@si lul@si lul@si ,
 *CHI:any where
@@ -1688,14 +1688,14 @@
 *CHI:I'm going in dere [: there] to get a soda
 *CHI:one soda , cherry
 *CHI:soda
-*CHI:yep (.) cherry
+*CHI:yep cherry
 *CHI:got my soda
 *CHI:I don't know where pid [: put] my money
 *CHI:gimme [: give me] my pizza
 *CHI:I'm hungry
 *CHI:threw a watch
-*CHI:I threw a watch (.)
-*CHI:I know where to open dis [: this] watch (.)
+*CHI:I threw a watch
+*CHI:I know where to open dis [: this] watch
 *CHI:I know where to open dis [: this]
 *CHI:here's the milk for da [: the] coffee
 *CHI:ah
@@ -1767,7 +1767,7 @@
 *CHI:dere's [: there's] a lot
 *CHI:where
 *CHI:sure that's a whole
-*CHI:I want a Danny [!]
+*CHI:I want a Danny
 *CHI:ah ah ah
 *CHI:I want a sugar daddy
 *CHI:I want sugar daddy
@@ -1776,7 +1776,7 @@
 *CHI:just +...
 *CHI:give me some more Danny
 *CHI:it won't come out
-*CHI:Dan ain't got (.) +...
+*CHI:Dan ain't got +...
 *CHI:testing +...
 *CHI:what
 *CHI:I'll find it
@@ -1810,8 +1810,8 @@
 *CHI:oh , I see it
 *CHI:oh yes
 *CHI:I play you
-*CHI:I know (.)
-*CHI:there you can't even get it (.)
+*CHI:I know
+*CHI:there you can't even get it
 *CHI:no (be)cause you're gonna cl:ose
 *CHI:you go close
 *CHI:no , you , ah you hafta xxx , stop
@@ -1825,7 +1825,7 @@
 *CHI:and it was dried on the side walk
 *CHI:and I an(d) I &ki , an(d) I hold it wi [: with] my leg
 *CHI:an(d) then it got dried
-*CHI:here tie my shoe (.)
+*CHI:here tie my shoe
 *CHI:please please
 *CHI:tie my shoe
 *CHI:testing one , two , three
@@ -1834,11 +1834,11 @@
 *CHI:I just wanna go down (be)cause Danny went down
 *CHI:no no one will play wit(h) me
 *CHI:den [: then] I'm going down
-*CHI:I need a keys (.)
+*CHI:I need a keys
 *CHI:where's those keys
 *CHI:I need a keys
 *CHI:but I need keys
-*CHI:den [: then] I'm not going down [!]
+*CHI:den [: then] I'm not going down
 *CHI:den [: then] I'm going down with no key +...
 *CHI:no +...
 *CHI:I want +...
@@ -1851,7 +1851,7 @@
 *CHI:gimme [: give me] a key
 *CHI:I'm going down wi(th) no key
 *CHI:he he , haha
-*CHI:ah [!]
+*CHI:ah
 *CHI:but I wanna [: want a] set of keys
 *CHI:I wanna +...
 *CHI:can I get a set of keys
@@ -1859,7 +1859,7 @@
 *CHI:I pit [: put] dem [: them] on da [: the] floor and Joe Joe took dem
 *CHI:&m ah , &ha +...
 *CHI:keys
-*CHI:&aw [!]
+*CHI:&aw
 *CHI:m:om
 *CHI:mom
 *CHI:I want keys , ah , ah
@@ -1870,7 +1870,7 @@
 *CHI:okay
 *CHI:jump Steve
 *CHI:he , he , he , he
-*CHI:Steve [!]
+*CHI:Steve
 *CHI:give him a sock in the mouth
 *CHI:now the udder [: other] Steve Austin comes in
 *CHI:give me another eye
@@ -1881,12 +1881,12 @@
 *CHI:&yahlah &koolo man
 *CHI:&psh:ksh
 *CHI:now
-*CHI:&kish [!]
-*CHI:ah [!] ah [!] &-um &psh [!]
+*CHI:&kish
+*CHI:ah ah &-um &psh
 *CHI:oh
-*CHI:&pish [!]
+*CHI:&pish
 *CHI:d:ing
-*CHI:&psh [!]
+*CHI:&psh
 *CHI:ah , &ha
 *CHI:put sand on it
 *CHI:hee , huh , hur@i , &hah get off
@@ -1895,7 +1895,7 @@
 *CHI:you mother fucker
 *CHI:you're not playing
 *CHI:where
-*CHI:sand [!]
+*CHI:sand
 *CHI:what are you doing here
 *CHI:I'm not
 *CHI:help me
@@ -1916,7 +1916,7 @@
 *CHI:I won't
 *CHI:miramoomiramuhkundamiremurdaymeemeemira@wp
 *CHI:beejomeebeejomirabeejo@wp
-*CHI:beejuh@wp [!]
+*CHI:beejuh@wp
 *CHI:ah , no , &y you see dat [: that] you see dat [: that] you , &y ,
 *CHI:and I can beat him up &rae , right you can't beat me up
 *CHI:it's over dere [: there]
@@ -1927,9 +1927,9 @@
 *CHI:I'm beating you
 *CHI:I could beat him
 *CHI:get down Jimmy
-*CHI:&hur &hur &hur (.) I don't &wae [//] I don't got [: have] it
-*CHI:I got your i_d card (.)
-*CHI:i_d junk addicts (.)
+*CHI:&hur &hur &hur I don't &wae [//] I don't got [: have] it
+*CHI:I got your i_d card
+*CHI:i_d junk addicts
 *CHI:you don't know shit fuck
 *CHI:it's mine
 *CHI:dat [: that is] my , dat's [: that's] my oth [//] my [//] dats
@@ -1943,7 +1943,7 @@
 *CHI:Steve Austin
 *CHI:the man
 *CHI:pick up a rock
-*CHI:and he stands up here (.)
+*CHI:and he stands up here
 *CHI:and he [: throws] it , in +...
 *CHI:ahhah
 *CHI:&ha
@@ -1955,7 +1955,7 @@
 *CHI:I'm the boss
 *CHI:I'm the boss
 *CHI:I'm Steve Austin
-*CHI:I am [!] Steve Austin
+*CHI:I am Steve Austin
 *CHI:you don't believe me I +...
 *CHI:me
 *CHI:me
@@ -1967,15 +1967,15 @@
 *CHI:yeah
 *CHI:how many pound are [: does] it weight
 *CHI:alright
-*CHI:then I could lift it with one [!] hand
+*CHI:then I could lift it with one hand
 *CHI:how do you like dat [: that]
 *CHI:excuse me man
 *CHI:&l look how I get down
 *CHI:look
 *CHI:looking
-*CHI:get that man (.)
-*CHI:ahhah [!] &tsh [!] (.)
-*CHI:locking the gates (.)
+*CHI:get that man
+*CHI:ahhah &tsh
+*CHI:locking the gates
 *CHI:come on
 *CHI:no
 *CHI:come on man
@@ -1985,13 +1985,13 @@
 *CHI:you know someding [: something]
 *CHI:dis [: this] cost two hundred and durty [: thirty] four dollars
 *CHI:hey , hey , I said don't talk dere [: there] an , and he pushed me
-*CHI:I said no [!]
+*CHI:I said no
 *CHI:it cost a_lot_of money
 *CHI:and this shirt cost two hundred durtee [: thirty] four dollars
 *CHI:yeah , a , and see that pin
 *CHI:den , dey [: they] open it up on nat [: that] side and they pull it
 *CHI:that's all
-*CHI:&shh [!]
+*CHI:&shh
 *CHI:yeah
 *CHI:yeah , I'm gonna climb na [: the] fence
 *CHI:I'm going over da [: the] fence
@@ -2000,9 +2000,9 @@
 *CHI:I'm climbing over
 *CHI:I'm climbing over
 *CHI:excuse me
-*CHI:&huh [!] and if I break it +...
+*CHI:&huh and if I break it +...
 *CHI:+, and if I break it , you'll give me yours
-*CHI:if I break dis [: this] [!] I don't hafta go to the hospital
+*CHI:if I break dis [: this] I don't hafta go to the hospital
 *CHI:I hafta go to da [: the] +...
 *CHI:ste:ve [: Steve] Austin
 *CHI:where dat [: that] xxx Steve Austin
@@ -2010,19 +2010,19 @@
 *CHI:&doo &doo &doo &doo where'd joo [: you] get that
 *CHI:holy shit
 *CHI:mom
-*CHI:where's my juice like Jimmy (.)
+*CHI:where's my juice like Jimmy
 *CHI:where , where did you [//] Jimmy get that
 *CHI:that drink
 *CHI:no
 *CHI:he said mine is up stairs
 *CHI:I didn't drink yours
-*CHI:but it wa [: was] yucky [!]
+*CHI:but it wa [: was] yucky
 *CHI:gimme [: give me] the keys
 *CHI:where is it
 *CHI:I know which key
 *CHI:you going up
 *CHI:I'm going up
-*CHI:I'm gonna get my juice (.)
+*CHI:I'm gonna get my juice
 *CHI:I'm going up to get my juice
 *CHI:hey give , give these back to my mother when you go down
 *CHI:Steve Austin
@@ -2031,10 +2031,10 @@
 *CHI:I'm going +...
 *CHI:keys
 *CHI:you don't know what key
-*CHI:I do (.)
+*CHI:I do
 *CHI:here
 *CHI:where's your tape recorder
-*CHI:(.) she's a liar (.)
+*CHI:(.) she's a liar
 *CHI:oh yeah , they coming [: come in] a box
 *CHI:they coming [: come in] a box
 *CHI:what
@@ -2044,7 +2044,7 @@
 *CHI:he got da [: the] keys
 *CHI:haha , &ha
 *CHI:haha , haha
-*CHI:xxx (.)
+*CHI:xxx
 *CHI:I , I wanna buy a soda
 *CHI:I wanna buy a soda
 *CHI:how much is a soda
@@ -2052,7 +2052,7 @@
 *CHI:haha
 *CHI:&ha
 *CHI:I know
-*CHI:I don't have no money (.)
+*CHI:I don't have no money
 *CHI:you got money buy me a soda
 *CHI:I don't know how much it cost
 *CHI:give me this
@@ -2068,7 +2068,7 @@
 *CHI:xxx no for , for da [: the] quart
 *CHI:I don't , I , I told , you
 *CHI:gimme [: give me] a token
-*CHI:&ha , he (.) can I have a soda
+*CHI:&ha , he can I have a soda
 *CHI:no
 *CHI:nutlin [: nothing]
 *CHI:talk to yourself
@@ -2087,17 +2087,17 @@
 *CHI:anyway you can't play pool , (be)cause they're pool [//] playing
 *CHI:dey're [: they're] not playing
 *CHI:open a [: the] door and check if dey're [: they're] playing
-*CHI:you don't believe me dey're [: they're] not playing (.)
-*CHI:then what's dat [: that] (.)
-*CHI:oh dey're [: they're] &p dey're [: they're] not playing (.) dey're
+*CHI:you don't believe me dey're [: they're] not playing
+*CHI:then what's dat [: that]
+*CHI:oh dey're [: they're] &p dey're [: they're] not playing dey're
 *CHI:he &s , he saw , he says I weren't [//] dey [: they] weren't
-*CHI:dey [: they] are [!] playing , he said dey [: they] weren't playing
+*CHI:dey [: they] are playing , he said dey [: they] weren't playing
 *CHI:ah , ah I'm gonna go see somedin [: something] all right
 *CHI:the store
-*CHI:I [: see] if my friend any [//] wants anything (.)
+*CHI:I [: see] if my friend any [//] wants anything
 *CHI:need any , you need anything
 *CHI:alright
-*CHI:testing xxx (.)
+*CHI:testing xxx
 *CHI:nope , he doesn't want anything but he wants you
 *CHI:my friend
 *CHI:haha he don't want you
@@ -2115,8 +2115,8 @@
 *CHI:I'm a [: going to] [*] kill you now
 *CHI:scaredy+cat , scaredy+cat
 *CHI:xxx you laid a fart
-*CHI:&hoo [!] he laid a fart (.)
-*CHI:xxx (.) it's moving
+*CHI:&hoo he laid a fart
+*CHI:xxx it's moving
 *CHI:not gonna catch me
 *CHI:it's wettered@b
 *CHI:over there
@@ -2127,7 +2127,7 @@
 *CHI:hup to do [: the] +...
 *CHI:you fuckin(g) xxx cock suck:er
 *CHI:I'll kill you if you don't go xxx
-*CHI:it's closed (.)
+*CHI:it's closed
 *CHI:tomorrow it [: will] be open
 *CHI:get outta [: out_of] +...
 *CHI:help
@@ -2143,7 +2143,7 @@
 *CHI:he , he
 *CHI:who's that
 *CHI:he got a bigger jacket Dan [: than] you
-*CHI:his hand doesn't come out (.)
+*CHI:his hand doesn't come out
 *CHI:his hands don't come out
 *CHI:&ha , he , he how come your hands don't come out all da [: the] way
 *CHI:hm:
@@ -2162,9 +2162,9 @@
 *CHI:&ha
 *CHI:haha , haha , &ha , haha [x 2]
 *CHI:&ei , beat this guy up
-*CHI:&hoo [!] haha (.)
+*CHI:&hoo haha
 *CHI:ah , haha
-*CHI:&hoo [!] &hoo [!] &hoo
+*CHI:&hoo &hoo &hoo
 *CHI:he's a scaredy+cat
 *CHI:how old (i)s , how old (i)s , how old is her [: she]
 *CHI:she's six
@@ -2181,13 +2181,13 @@
 *CHI:you're six
 *CHI:you're not ten
 *CHI:ahhah
-*CHI:&ha , you're dirteen [: thirteen] xxx (.) I gotta [= hafta] bust da
-*CHI:&oo [!] (.)
+*CHI:&ha , you're dirteen [: thirteen] xxx I gotta [= hafta] bust da
+*CHI:&oo
 *CHI:here
 *CHI:&ha
 *CHI:&ha
 *CHI:&ha
-*CHI:a bottle xxx alright (.)
+*CHI:a bottle xxx alright
 *CHI:who's that
 *CHI:where's that nerd
 *CHI:where's that other nerd
@@ -2199,22 +2199,22 @@
 *CHI:I wonder how he found that out
 *CHI:an , and she's six
 *CHI:six and eleven
-*CHI:&ei [!] &ei [!]
-*CHI:&ei [!]
+*CHI:&ei &ei
+*CHI:&ei
 *CHI:you stop
 *CHI:&hah
 *CHI:xxx
 *CHI:ah:
 *CHI:ah:
-*CHI:xxx (.) a rock won't hurt me
+*CHI:xxx a rock won't hurt me
 *CHI:but a bottle will hurt you
-*CHI:you &boo [!] (.) out_of my xxx (.)
+*CHI:you &boo out_of my xxx
 *CHI:he , he , da [: that] dat [: that] guy's brother , an and ah , nat
 *CHI:and another one , beat my brother up
 *CHI:and then he was &-um +...
 *CHI:running in the hall , when my brother was xxx catch him
 *CHI:my , my brudder's [: brother's] about , seven
-*CHI:dey [: they] , (.) &ha , one day , some guy came up (.)
+*CHI:dey [: they] , &ha , one day , some guy came up
 *CHI:here's what I fight
 *CHI:ahhah
 *CHI:ahhah
@@ -2229,34 +2229,34 @@
 *CHI:(.) you better not throw that shit at me
 *CHI:I didn't throw it
 *CHI:that's not
-*CHI:that xxx that guy I almost hit him with a rock (.)
+*CHI:that xxx that guy I almost hit him with a rock
 *CHI:&oi , &oi , &oi get out , get out_of here man
 *CHI:get out_of here
 *CHI:get out_of here
-*CHI:ah (.)
+*CHI:ah
 *CHI:&ara , &ara , &ara
-*CHI:&boo [!] ah
+*CHI:&boo ah
 *CHI:&-um &ei
 *CHI:you're shick [: six]
 *CHI:I , I , I'm only five and you're six
-*CHI:could you climb that (.)
+*CHI:could you climb that
 *CHI:I know how to climb
 *CHI:I'm five
 *CHI:I could climb
-*CHI:look (.)
+*CHI:look
 *CHI:look
 *CHI:could you , could you climb dis [: this]
-*CHI:well I climbed dat [: that] one and you (.) +...
+*CHI:well I climbed dat [: that] one and you +...
 *CHI:I climb better
 *CHI:I climb better than her
 *CHI:xxx he's throwing rocks
 *CHI:look at dat [: that] , xxx
-*CHI:let me see in your box (.)
+*CHI:let me see in your box
 *CHI:ah , &hur
 *CHI:you have a rock
 *CHI:I got nuthin [: nothing] in my hand
 *CHI:I swear to god
-*CHI:ah , ah , &-uh (.)
+*CHI:ah , ah , &-uh
 *CHI:ah , haha , I didn't see you
 *CHI:ah , &hur I didn't see you I hit you
 *CHI:bye bye
@@ -2269,9 +2269,9 @@
 *CHI:xxx &doo , &doo , &doo , &doo , &doo , &doo , &doo &ei:ei
 *CHI:bud [: but] da [: the] , da [: the] cash rejers [: register's] open
 *CHI:right
-*CHI:get off me (.)
+*CHI:get off me
 *CHI:you nerd
-*CHI:I'm gonna get joo [: you] (.)
+*CHI:I'm gonna get joo [: you]
 *CHI:ahhah
 *CHI:I caught you now
 *CHI:haha [x 2]
@@ -2284,33 +2284,33 @@
 *CHI:yeah , he's a cop
 *CHI:and you're going to be a pussy
 *CHI:xxx
-*CHI:oh man &oo [!] (.)
-*CHI:I got to climb man (.)
-*CHI:I could climb that (.)
+*CHI:oh man &oo
+*CHI:I got to climb man
+*CHI:I could climb that
 *CHI:I could climb the xxx
 *CHI:wanna see me
 *CHI:I'll show you
 *CHI:&hah
 *CHI:&hah
 *CHI:&hah
-*CHI:come on , so move it , move it man (.)
+*CHI:come on , so move it , move it man
 *CHI:see she she's xxx look , don't run , I was just climbing
 *CHI:see , and den [: then] I xxx go dere [: there] , go dere [: there]
-*CHI:look (.)
+*CHI:look
 *CHI:I , I could climb back down
 *CHI:back down , back down is easy man
 *CHI:xxx
 *CHI:look , I'm climbing down
-*CHI:it's easy to get on dis [: this] junk (.)
-*CHI:look (.)
+*CHI:it's easy to get on dis [: this] junk
+*CHI:look
 *CHI:I'm down
 *CHI:how did I get down
 *CHI:I'm down
 *CHI:I know
-*CHI:we got to do it again (.)
+*CHI:we got to do it again
 *CHI:where's dat [: that] , where's dat [: that] big kid
 *CHI:there they go , they're running I wanna see
-*CHI:shut up (.)
+*CHI:shut up
 *CHI:oh
 *CHI:xxx stop running
 *CHI:stop running
@@ -2325,7 +2325,7 @@
 *CHI:what
 *CHI:alright
 *CHI:come on
-*CHI:come on (.)
+*CHI:come on
 *CHI:come on
 *CHI:what
 *CHI:the cunny@wp
@@ -2348,7 +2348,7 @@
 *CHI:a jacket for sale
 *CHI:haha [x 2]
 *CHI:&hoo no
-*CHI:haha , &ha (.)
+*CHI:haha , &ha
 *CHI:I'll have a race
 *CHI:and you
 *CHI:all of us
@@ -2361,20 +2361,20 @@
 *CHI:I can tie
 *CHI:gimme [: give me] over here
 *CHI:alright
-*CHI:not yet (.)
+*CHI:not yet
 *CHI:wait
-*CHI:wait (.)
-*CHI:xxx they're winning they're winning xxx (.)
-*CHI:testing one two three (.)
+*CHI:wait
+*CHI:xxx they're winning they're winning xxx
+*CHI:testing one two three
 *CHI:xxx how much did you loose
-*CHI:I race you [: can I] (.)
-*CHI:give you a race back (.)
+*CHI:I race you [: can I]
+*CHI:give you a race back
 *CHI:know what
-*CHI:know what (.)
-*CHI:xxx (.) the xxx is broke
+*CHI:know what
+*CHI:xxx the xxx is broke
 *CHI:I xxx it to you broke yours
-*CHI:xxx when you saw me over dere [: there] (.)
-*CHI:xxx you wanna start a fight (.)
+*CHI:xxx when you saw me over dere [: there]
+*CHI:xxx you wanna start a fight
 *CHI:can you run first two blocks
 *CHI:you want three blocks
 *CHI:you run , you run seven blocks
@@ -2390,7 +2390,7 @@
 *CHI:why
 *CHI:is Graeme going up with us
 *CHI:tie my shoes
-*CHI:tie my shoes (.)
+*CHI:tie my shoes
 *CHI:tie it
 *CHI:tie it
 *CHI:tie this one too
@@ -2398,7 +2398,7 @@
 *CHI:that kid that +...
 *CHI:n:o
 *CHI:tie m:e +...
-*CHI:but da [: the] xxx (.)
+*CHI:but da [: the] xxx
 *CHI:tell the man to do it
 *CHI:tell da [: the] man to do it
 *CHI:tell da [: the] man , tell da [: the] man
@@ -2406,13 +2406,13 @@
 *CHI:I'm not
 *CHI:look get off me
 *CHI:and he's staying and he's coming up
-*CHI:he's not leaving (.)
+*CHI:he's not leaving
 *CHI:hello , hello
 *CHI:who
 *CHI:what's today
 *CHI:no , but I'm not
 *CHI:put dis [: this] in your dick
-*CHI:I threw it out (.)
+*CHI:I threw it out
 *CHI:here you are
 *CHI:&ha haha
 *CHI:I'll give it to you , &h here
@@ -2440,18 +2440,18 @@
 *CHI:oh look a(t) them cute birds
 *CHI:there was a whole bunch there
 *CHI:no
-*CHI:I wish you had more [!] money
+*CHI:I wish you had more money
 *CHI:I wish you had all the money in the world
 *CHI:you give me some , I give you some
 *CHI:your head went down like dis [: this]
 *CHI:what
-*CHI:why (.)
-*CHI:dem [: them] schmucks doing dere [: there] (.)
+*CHI:why
+*CHI:dem [: them] schmucks doing dere [: there]
 *CHI:when when , when , ah , when you scream schmuc:k , a Jew looks back
-*CHI:ahhah (.)
+*CHI:ahhah
 *CHI:no
-*CHI:what (.)
-*CHI:I'm staying , I'm staying up here (.)
+*CHI:what
+*CHI:I'm staying , I'm staying up here
 *CHI:want duh [: the] light open
 *CHI:(.) we're all alone , right
 *CHI:no one's up here
@@ -2462,7 +2462,7 @@
 *CHI:just for today
 *CHI:what
 *CHI:I don't know
-*CHI:let me ask my mother (.)
+*CHI:let me ask my mother
 *CHI:watch out , (e)xcuse me
 *CHI:no let me ask my mother
 *CHI:mom
@@ -2473,25 +2473,25 @@
 *CHI:what time do we go to sleep
 *CHI:eight thirty
 *CHI:so can I go to your house
-*CHI:yeah (.)
+*CHI:yeah
 *CHI:so
 *CHI:yeah I wanna go
 *CHI:I wanna go today
 *CHI:&s today's a good time
-*CHI:and good fun , and I [//] and we could play (.)
-*CHI:I wanna go to your house today (.)
+*CHI:and good fun , and I [//] and we could play
+*CHI:I wanna go to your house today
 *CHI:I'm drinking the juice
 *CHI:right
 *CHI:what
 *CHI:I don't know
-*CHI:you [!] taste it (.)
+*CHI:you taste it
 *CHI:no
 *CHI:dey [/] dey [//] wanna know what dey [: they] call this in Spanish
 *CHI:how they call this in [//] orange in spanish
 *CHI:&boo &pah
 *CHI:&boopah
 *CHI:no , I don't know
-*CHI:look at that kid with the basketball (.)
+*CHI:look at that kid with the basketball
 *CHI:so , wanna play
 *CHI:where
 *CHI:no I wanna go in your &jo [//] lot
@@ -2513,14 +2513,14 @@
 *CHI:I got more money
 *CHI:I had , I had a dollar before
 *CHI:and you saw my bizza [: pizza]
-*CHI:and look what I got (.)
+*CHI:and look what I got
 *CHI:where my nickle go
 *CHI:oh there it goes and a , an , and you saw me spend my dollar
 *CHI:right
 *CHI:right
-*CHI:and I , (.) I had two dollars
+*CHI:and I , I had two dollars
 *CHI:and I didn't see two dollars
-*CHI:I told [!] you I took two dollars out (.)
+*CHI:I told you I took two dollars out
 *CHI:you don't believe me I took two dollars out
 *CHI:you believe me now
 *CHI:so , so you wanna sing pizza pie
@@ -2528,33 +2528,33 @@
 *CHI:know how
 *CHI:pizza pie , pizza pie twinkle +...
 *CHI:twinkle pie , &pinawits
-*CHI:pizza pie , pizza pie , twinkle pie , half the pie (.)
+*CHI:pizza pie , pizza pie , twinkle pie , half the pie
 *CHI:you want a jacket
 *CHI:I'm putting mine on
 *CHI:you going back down
 *CHI:when I go down
 *CHI:I'm not going down yet
-*CHI:I hafta do it over in the ash tray (.)
+*CHI:I hafta do it over in the ash tray
 *CHI:yeah
 *CHI:look , here's Joe_Joe , right
 *CHI:here's Joe_Joe
-*CHI:&pish [!] the truck was only that , that big
+*CHI:&pish the truck was only that , that big
 *CHI:an he , and he &k [//] and he , and he was roning [: running] he
 *CHI:an na [: and the] car , and a car would start skidding went &pisht
 *CHI:know how to drive so well
-*CHI:I see you tomorrow (.)
+*CHI:I see you tomorrow
 *CHI:I wanna go see someding [: something] I durt [: thought] +...
 *CHI:I , I , I , daw [: thought] some body was knocking on the door
-*CHI:no (.)
-*CHI:who's dat [: that] (.)
-*CHI:I dink [: think] some one's coming up (.)
+*CHI:no
+*CHI:who's dat [: that]
+*CHI:I dink [: think] some one's coming up
 *CHI:don't +...
 *CHI:dere's [: there's] dere [: there] dere [: there] dere [: there] are
-*CHI:dere [: there] dere [: there] (.) dere's [: there's] no one
+*CHI:dere [: there] dere [: there] dere's [: there's] no one
 *CHI:that's just from upstairs
 *CHI:I don't know
 *CHI:who's da [: the] door
-*CHI:who's that [!]
+*CHI:who's that
 *CHI:who's that
 *CHI:I'm going down
 *CHI:come on I'm going down
@@ -2562,13 +2562,13 @@
 *CHI:ain't you hot
 *CHI:ain't you hot
 *CHI:I'm going back up , I'm going down , I'm going up , I'm going down
-*CHI:now I'm going to go , and you won't find me [!] you won't find me ,
+*CHI:now I'm going to go , and you won't find me you won't find me ,
 *CHI:you won't find me
 *CHI:Graeme
 *CHI:hey Graeme
 *CHI:hey Graeme
 *CHI:hey Graeme
-*CHI:&tish [!] come on
+*CHI:&tish come on
 *CHI:ah
 *CHI:poin(t) [//] make [//] point a gun at me
 *CHI:mom , can I have the key
@@ -2581,7 +2581,7 @@
 *CHI:I just wanna go up
 *CHI:I wanna go to his house
 *CHI:and then I'm going to his house
-*CHI:ah [!]
+*CHI:ah
 *CHI:o:kay
 *CHI:no I , I'll hold it
 *CHI:no I'll hold it
@@ -2597,7 +2597,7 @@
 *CHI:ho
 *CHI:ho
 *CHI:merry christmas
-*CHI:yo [!] ho
+*CHI:yo ho
 *CHI:ho
 *CHI:ho
 *CHI:merry christmas
@@ -2619,15 +2619,15 @@
 *CHI:hey schmuck
 *CHI:look
 *CHI:you want watch me play , on that wall
-*CHI:come on (.)
+*CHI:come on
 *CHI:I , I'm gonna rob a store , an , and a &k and if the cops see me
 *CHI:what
 *CHI:I'm not by da [: the] store
 *CHI:ah:
 *CHI:yeah
-*CHI:I know (.)
+*CHI:I know
 *CHI:taxi cab coming
-*CHI:you not [!] (.)
+*CHI:you not
 *CHI:okay watch me play
 *CHI:no non [: no one] will catch me , I'll , I'll beat dem [: them] all
 *CHI:all da [: the] way down Henry
@@ -2636,9 +2636,9 @@
 *CHI:no we're not in Henry
 *CHI:oh it's over dere [: there]
 *CHI:alright
-*CHI:&doo &di &dirruh [!] Jimmy Jimmy play in here , (be)cause I &k ,
+*CHI:&doo &di &dirruh Jimmy Jimmy play in here , (be)cause I &k ,
 *CHI:I'm , I'm going to get dem [: them]
-*CHI:I don't got no [: any] (.) +...
+*CHI:I don't got no [: any] +...
 *CHI:Danny what xxx
 *CHI:no
 *CHI:what
@@ -2667,12 +2667,12 @@
 *CHI:hey &gi , &gi , &gi give me , give me a quarter give me another
 *CHI:well one twenty two Henry street , my dick
 *CHI:no give me my quarter
-*CHI:yeah (.)
-*CHI:you didn't get me (.)
-*CHI:so (.)
+*CHI:yeah
+*CHI:you didn't get me
+*CHI:so
 *CHI:he's gonna going to spit at +...
-*CHI:where (.)
-*CHI:you wanna start (.)
+*CHI:where
+*CHI:you wanna start
 *CHI:ah:
 *CHI:<I broke da [: the]> [//] I [/] I broke it
 *CHI:I broke it
@@ -2682,11 +2682,11 @@
 *CHI:you shut up
 *CHI:what
 *CHI:I'm going to go buy me some french fries
-*CHI:there goes a fire truck (.)
+*CHI:there goes a fire truck
 *CHI:there's no fire tell them
 *CHI:there's no fire
 *CHI:there's no fire
-*CHI:&ai [!]
+*CHI:&ai
 *CHI:firemans [: fireman]
 *CHI:there's no fire
 *CHI:there's no fire
@@ -2695,13 +2695,13 @@
 *CHI:someone press the alarm , there's no fire
 *CHI:there's some one just press the alarm
 *CHI:dere's [: there's] no fire
-*CHI:someone just press the alarm (.)
+*CHI:someone just press the alarm
 *CHI:I didn't pull it
 *CHI:I didn't pull it
 *CHI:no I didn't pull , I didn't pull it
 *CHI:dat [: that] guy , dat [: that] small guy pulled it
 *CHI:he didn't do it
-*CHI:I don , I don't know who [!] did it
+*CHI:I don , I don't know who did it
 *CHI:it flew out a [: of] da [: the] pot
 *CHI:hey
 *CHI:a , a chicken flew out a pot
@@ -2713,9 +2713,9 @@
 *CHI:I go buy french fraizee [: fries]
 *CHI:so , a chicken flew out a [: of] his pot
 *CHI:&ha
-*CHI:suck you , dat's [: that's] not mine (.)
+*CHI:suck you , dat's [: that's] not mine
 *CHI:a chicken flew out_of a pot
-*CHI:can I have french fries please (.)
+*CHI:can I have french fries please
 *CHI:a chicken flew out_of a pot
 *CHI:a chicken flew out_of a pot
 *CHI:out_of a pot
@@ -2725,16 +2725,16 @@
 *CHI:and we saw it
 *CHI:and we all +...
 *CHI:and we almost caught it (be)cause we couldn't +...
-*CHI:+, couldn't , couldn't caught it (.)
+*CHI:+, couldn't , couldn't caught it
 *CHI:do [: did] everything we krews@b
 *CHI:said +"/.
 *CHI:+" officer we fried our chicken
 *CHI:so den [: then] de [: the] officer said +"/.
 *CHI:+" we'll cook him , you don't cook him
-*CHI:my friend is waiting for me and I don't know where he is (.)
+*CHI:my friend is waiting for me and I don't know where he is
 *CHI:where's dummy
 *CHI:where's dummy
-*CHI:&oo [!] (.) I hafta g:o
+*CHI:&oo I hafta g:o
 *CHI:I hafta go somewhere
 *CHI:when do you take (th)em out
 *CHI:Frankie
@@ -2743,18 +2743,18 @@
 *CHI:Frankie
 *CHI:wha(t) happen(ed)
 *CHI:I got a dollar
-*CHI:I'm buying , I'm buying someding [: something] (.)
+*CHI:I'm buying , I'm buying someding [: something]
 *CHI:to take out
 *CHI:what
 *CHI:what
-*CHI:what (.)
+*CHI:what
 *CHI:I'm just getting one
 *CHI:I don't wanna get two
-*CHI:you know I'm hungry man (.)
+*CHI:you know I'm hungry man
 *CHI:wanna order
 *CHI:wanna order
 *CHI:got money
-*CHI:got money (.)
+*CHI:got money
 *CHI:alright I'll +...
 *CHI:tomorrow alright
 *CHI:tomorrow's only &s +...
@@ -2774,7 +2774,7 @@
 *CHI:and I'm not giving anyone none
 *CHI:you're not getting any
 *CHI:just Frankie's getting some
-*CHI:no Frankie's not getting any (.)
+*CHI:no Frankie's not getting any
 *CHI:xxx pull it off
 *CHI:take it off for me Danny
 *CHI:one , two , three , four , five , six , seven , eight , nine , ten
@@ -2796,15 +2796,15 @@
 *CHI:you like all the salt
 *CHI:there's no more fifty cents
 *CHI:I don't got no more fifty cents
-*CHI:no I'm [//] no let him take my money (.)
+*CHI:no I'm [//] no let him take my money
 *CHI:take my money
 *CHI:oh , give him all , give him all the nickels
 *CHI:gimme [: give me] the nickels
-*CHI:gimme [: give me] the ten [!] nickels
+*CHI:gimme [: give me] the ten nickels
 *CHI:give him all the nickels
 *CHI:you need more money
 *CHI:I give [//] I , I'm giving him more money
-*CHI:oh (.)
+*CHI:oh
 *CHI:you going now
 *CHI:(be)cause I , (be)cause I never been to your house
 *CHI:a , an , and any sisters any girls any boys
@@ -2819,16 +2819,16 @@
 *CHI:you got my dick in
 *CHI:no you pushed it
 *CHI:you , ah , ah , you cheated
-*CHI:no , you cheated [!]
+*CHI:no , you cheated
 *CHI:no
 *CHI:that wasn't na [: the] ball
 *CHI:nat [: that] was your hand
-*CHI:yeah , it was just like dat [: that] (.)
+*CHI:yeah , it was just like dat [: that]
 *CHI:I'm gonna shoot dat [: that] , I'm a [: going to] [*] shoot dat
 *CHI:no
-*CHI:it was , it was gonna go in (.)
+*CHI:it was , it was gonna go in
 *CHI:when I get dat [: that] ball dat [: that] went in xxx with dat
-*CHI:I [!] go (.)
+*CHI:I go
 *CHI:you're not , you'll never get da [: the] white ball in
 *CHI:gimme [: give me] da [: the] ball
 *CHI:I'm not cheating
@@ -2839,12 +2839,12 @@
 *CHI:beo [: because] I didn't want it to go in
 *CHI:I won
 *CHI:hip , hip , &hor +...
-*CHI:Danny come on (.)
+*CHI:Danny come on
 *CHI:I crack
-*CHI:I crack (be)cause I won (.)
+*CHI:I crack (be)cause I won
 *CHI:I got de [: the] other ball
 *CHI:come on Danny
-*CHI:I'm playing the game (.)
+*CHI:I'm playing the game
 *CHI:I'm starting the game
 *CHI:wanna play
 *CHI:I'm starting the game
@@ -2869,25 +2869,25 @@
 *CHI:what shoes
 *CHI:take dem [: them]
 *CHI:I don't need , I don't need dem [: them]
-*CHI:chopping my dick (.)
-*CHI:I need a xxx (.)
+*CHI:chopping my dick
+*CHI:I need a xxx
 *CHI:what &cont +...
 *CHI:wha(t) +...
 *CHI:dis [: this] one
-*CHI:no [!] (.)
+*CHI:no
 *CHI:throw the container over there
 *CHI:it was no good
 *CHI:no milk in it
 *CHI:oh my darling , old Macdonald
 *CHI:dere [: there] , there's one dere [: there]
 *CHI:I need this knife
-*CHI:it doesn't open (.)
-*CHI:I don't (.) +...
+*CHI:it doesn't open
+*CHI:I don't +...
 *CHI:it's open
 *CHI:can't get that milk open
 *CHI:but I can't get the milk &o +...
 *CHI:I tell Graeme to open it
-*CHI:Graeme [!]
+*CHI:Graeme
 *CHI:Graeme open na [: the] milk for me
 *CHI:can't open it
 *CHI:it's stuck over there
@@ -2896,22 +2896,22 @@
 *CHI:thank_you
 *CHI:thank_you
 *CHI:thank_you Graeme
-*CHI:ah: ah (.) tryna [: trying to] close that
-*CHI:xxx (.)
-*CHI:I did (.)
-*CHI:&-um hello (.)
+*CHI:ah: ah tryna [: trying to] close that
+*CHI:xxx
+*CHI:I did
+*CHI:&-um hello
 *CHI:he said he'd come back monday
 *CHI:yeah
 *CHI:right dere [: there]
 *CHI:oh yes
-*CHI:dey're [: they're] not [!] Rita's
+*CHI:dey're [: they're] not Rita's
 *CHI:dar [: they're] +...
 *CHI:dar [: they're] mine
 *CHI:dese [: these] are ours
 *CHI:right
-*CHI:ours [!]
+*CHI:ours
 *CHI:I'm taking one
-*CHI:that is [!] good
+*CHI:that is good
 *CHI:I know
 *CHI:I wanna look at one
 *CHI:I tell ya [: you] I wanna look at one
@@ -2937,7 +2937,7 @@
 *CHI:you better throw these underwears away
 *CHI:mom
 *CHI:tomom [//] tomorrow I'm gonna wear these pants
-*CHI:I know (.)
+*CHI:I know
 *CHI:mommy
 *CHI:I don't know
 *CHI:to a the country
@@ -2945,30 +2945,30 @@
 *CHI:you won't , you won't +...
 *CHI:you hafta throw dese [: these] away
 *CHI:they a_lot_of shits
-*CHI:shut up Charleen (.)
-*CHI:oh &shee:it mom (.)
+*CHI:shut up Charleen
+*CHI:oh &shee:it mom
 *CHI:no
 *CHI:I can't sit down
-*CHI:the wire [!]
+*CHI:the wire
 *CHI:take dat [: that] off
-*CHI:but I wanna wear dem [: them] (.) ah , (.) ah (.)
+*CHI:but I wanna wear dem [: them] ah , ah
 *CHI:you got new socks
 *CHI:where
 *CHI:none of them are not new
 *CHI:I bet you ten dollars
 *CHI:I , I bet you all the money in the world
 *CHI:and you pay me today
-*CHI:come on [!]
-*CHI:yeah (.) ah , oh , I bet you you bought (th)em in Kurts
+*CHI:come on
+*CHI:yeah ah , oh , I bet you you bought (th)em in Kurts
 *CHI:rubadub@wp dummy
 *CHI:stop pushing
 *CHI:where's da [: the] wire
-*CHI:xxx finished (.)
+*CHI:xxx finished
 *CHI:why
 *CHI:because why
 *CHI:don't put water on it
-*CHI:no [!]
-*CHI:you're putting water on it (.)
+*CHI:no
+*CHI:you're putting water on it
 *CHI:no , I don't want water
 *CHI:I don't want one
 *CHI:get me underwear
@@ -2978,10 +2978,10 @@
 *CHI:did you sneak
 *CHI:I didn't know +...
 *CHI:where
-*CHI:xxx (.) Danny
-*CHI:Danny (.)
-*CHI:&ei [!]
-*CHI:&ei [!] &ei [!]
+*CHI:xxx Danny
+*CHI:Danny
+*CHI:&ei
+*CHI:&ei &ei
 *CHI:mom
 *CHI:you shut up
 *CHI:p@l , u@l , m@l +...
@@ -2991,16 +2991,16 @@
 *CHI:the mother
 *CHI:how come you're folding your pants
 *CHI:what
-*CHI:it's yours [!] (.)
+*CHI:it's yours
 *CHI:I know , where the xxx is
 *CHI:you wanna see me
 *CHI:wanna see a picture of me
-*CHI:yeah , a_lot_of dem [: them] (.)
+*CHI:yeah , a_lot_of dem [: them]
 *CHI:who's is this one
 *CHI:I don't know
-*CHI:no (.)
-*CHI:Jimmy's (.)
-*CHI:Danny's (.)
+*CHI:no
+*CHI:Jimmy's
+*CHI:Danny's
 *CHI:Joe Joe's
 *CHI:no mines [: mine] is missing
 *CHI:look
@@ -3008,7 +3008,7 @@
 *CHI:you see da [: the] band aid
 *CHI:what
 *CHI:what
-*CHI:look , come here (.)
+*CHI:look , come here
 *CHI:you see that table right
 *CHI:yeah , I was riding it in da [: the] house
 *CHI:and &ha , and +...
@@ -3021,11 +3021,11 @@
 *CHI:&ei , &ei , &ei
 *CHI:&ei
 *CHI:I won't [: wasn't] talking to Graeme
-*CHI:&ei [!]
+*CHI:&ei
 *CHI:where
 *CHI:where
 *CHI:we &g got orange juice
-*CHI:I want (.) +...
+*CHI:I want +...
 *CHI:where's the paper cups
 *CHI:I thought there is xxx +...
 *CHI:+, over here , and then , get some orange juice and +...

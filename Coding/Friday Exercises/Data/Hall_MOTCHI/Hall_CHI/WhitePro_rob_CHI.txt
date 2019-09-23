@@ -3,10 +3,10 @@
 *CHI:excuse me
 *CHI:excuse me
 *CHI:I took , I took a couple more bites
-*CHI:okay (.)
+*CHI:okay
 *CHI:dats [: that's] what , dat's [: that's] what the pirate has on
 *CHI:how come
-*CHI:xxx (.)
+*CHI:xxx
 *CHI:no:
 *CHI:I wanna +...
 *CHI:mhm
@@ -25,17 +25,17 @@
 *CHI:right
 *CHI:every +...
 *CHI:you pick me up
-*CHI:no , oh (.)
+*CHI:no , oh
 *CHI:pick me up
 *CHI:ah haha [x 2]
 *CHI:haha [x 2] &too &noo &noo &nur thank_you xxx wash off your hands
-*CHI:(.) now , okay xxx (.) hot
+*CHI:(.) now , okay xxx hot
 *CHI:I'm trying to , ouch
-*CHI:xxx wait hot (.)
+*CHI:xxx wait hot
 *CHI:&s , &s ah xxx I'm trying to get warm water
 *CHI:oh silly
-*CHI:ah , haha [x 2] (.)
-*CHI:ah haha (.)
+*CHI:ah , haha [x 2]
+*CHI:ah haha
 *CHI:ouch
 *CHI:&oo I will freeze , ow &oot &oot &oot
 *CHI:&oot &oot &oot ouch
@@ -56,7 +56,7 @@
 *CHI:yeah , yes
 *CHI:ah:
 *CHI:&yoo look
-*CHI:r@l , o@l , b@l , b@l , b@l , b@l , I [!] , e@l
+*CHI:r@l , o@l , b@l , b@l , b@l , b@l , I , e@l
 *CHI:&ee &dee &dee &dum &dum , &ch &ch &ch &ch &ch &ch
 *CHI:there's a cat book
 *CHI:see the cat
@@ -67,7 +67,7 @@
 *CHI:yellow and red
 *CHI:cause he wants to meet [//] he wanna get it
 *CHI:right , cause +...
-*CHI:&e:ow (.)
+*CHI:&e:ow
 *CHI:how come I go go , put on these shoes
 *CHI:duzah [: other] ones are better
 *CHI:but I wanna wear them every morning I said
@@ -100,9 +100,9 @@
 *CHI:right
 *CHI:say hello to him
 *CHI:he has a xxx and he'll say hi , hi back to you
-*CHI:haha [x 2] (.) ow (.)
+*CHI:haha [x 2] ow
 *CHI:look daddy , I'm walking on my knees
-*CHI:look Ma , look (.)
+*CHI:look Ma , look
 *CHI:stand on my knees
 *CHI:I'm taking something to school with me
 *CHI:&dum &dee &dum &dum &dum &dee &dum &dum &dee &dum &dum &dee &dum
@@ -110,7 +110,7 @@
 *CHI:hey
 *CHI:it keeps on doing
 *CHI:I'm bringing it
-*CHI:&dum &dee &dum &dum (.)
+*CHI:&dum &dee &dum &dum
 *CHI:h:ey Ma , when I put this xxx this pocket xxx
 *CHI:no it's not
 *CHI:no dis [: this] one's not falling down
@@ -118,7 +118,7 @@
 *CHI:steep
 *CHI:so deep it's so deep
 *CHI:what , whats in here
-*CHI:&uo &o , &uo , &wo , &wo &ar:uo (.)
+*CHI:&uo &o , &uo , &wo , &wo &ar:uo
 *CHI:no
 *CHI:you know what
 *CHI:sing , sings &ar:u
@@ -134,7 +134,7 @@
 *CHI:and you know what I did to him
 *CHI:I took him some place , far in da [: the] deep place
 *CHI:uhhuh
-*CHI:dere [: there] was bear [!] marks
+*CHI:dere [: there] was bear marks
 *CHI:uhhuh where the honey trees were
 *CHI:and I was not scared
 *CHI:because the bears were not around
@@ -161,7 +161,7 @@
 *CHI:cause I've been working on the xxx all my live long day
 *CHI:I've been working on the rail [//]
 *CHI:look , look see this
-*CHI:draw (.)
+*CHI:draw
 *CHI:dese [: these] are duh magic markers
 *CHI:see
 *CHI:they stick together
@@ -193,7 +193,7 @@
 *CHI:can I have it
 *CHI:mommy
 *CHI:why are you gonna do it
-*CHI:r@l o@l b@l b@l I@l e@l (.) now every day I'm gonna do , I want you
+*CHI:r@l o@l b@l b@l I@l e@l now every day I'm gonna do , I want you
 *CHI:r@l +...
 *CHI:okay
 *CHI:he's , writing my name on the +...
@@ -205,7 +205,7 @@
 *CHI:no I'm gonna stay with daddy
 *CHI:no I +...
 *CHI:okay
-*CHI:wait for me (.)
+*CHI:wait for me
 *CHI:it's Robert
 *CHI:I took a &pic [//] these my +...
 *CHI:look
@@ -222,8 +222,8 @@
 *CHI:hey , for [//] stay dere [: there] for +...
 *CHI:taking a picture of +...
 *CHI:I have my own camera
-*CHI:I have my own [!] camera
-*CHI:I have my own [!] camera
+*CHI:I have my own camera
+*CHI:I have my own camera
 *CHI:hi , oh
 *CHI:don't be afraid
 *CHI:don't be scared Meike , it's only a dog
@@ -260,7 +260,7 @@
 *CHI:no
 *CHI:r@l o@l b@l b@l I@l e@l k@l m@l n@l I@l +...
 *CHI:l@l n@l a@l n@l +...
-*CHI:I@l [!] +...
+*CHI:I@l +...
 *CHI:n@l s@l w@l
 *CHI:it's two n@l-s
 *CHI:oh here's mine
@@ -269,9 +269,9 @@
 *CHI:what is dis [: this] again
 *CHI:what is dis [: this] again
 *CHI:then n@l s@l t@l +...
-*CHI:y@l , (.) I'm telling the teacher , some , my daddy wrote my name
+*CHI:y@l , I'm telling the teacher , some , my daddy wrote my name
 *CHI:and I'm putting nobody else's name on that
-*CHI:right (.)
+*CHI:right
 *CHI:cause then somebody will steal it
 *CHI:every time you come to my house you try to put this on
 *CHI:why
@@ -311,11 +311,11 @@
 *CHI:I can't
 *CHI:that's rain
 *CHI:ding ding
-*CHI:ah &-um , &nae (.) come on Meike , we're first , right &mae right
+*CHI:ah &-um , &nae come on Meike , we're first , right &mae right
 *CHI:&meeker &dileeker , &meeker &dileeker , &meeker &dileeker , &meeker
-*CHI:now I'm here (.) Barbara's not coming , so +...
+*CHI:now I'm here Barbara's not coming , so +...
 *CHI:Meike's coming
-*CHI:&u she can't have belt I have no belt (.)
+*CHI:&u she can't have belt I have no belt
 *CHI:I go in first
 *CHI:and where's that
 *CHI:haha [x 2] these are not bellies
@@ -374,7 +374,7 @@
 *CHI:oh , I don't need help
 *CHI:come on let's go up the steps
 *CHI:stop
-*CHI:stop , sit down (.)
+*CHI:stop , sit down
 *CHI:waiting for my mommy
 *CHI:okay , step in , come on
 *CHI:see look here
@@ -401,11 +401,11 @@
 *CHI:going up faster
 *CHI:hey xxx
 *CHI:&-um &dum &dum &dum &dum &dum &dum &dum &dum &jum &jum &jum
-*CHI:&di &jum &jum &jum &jum &jum &jum &jum &jum &jum &jum (.)
+*CHI:&di &jum &jum &jum &jum &jum &jum &jum &jum &jum &jum
 *CHI:hi Steve
 *CHI:hi Steve again
 *CHI:ah haha &dum &dee &dum &duh
-*CHI:I had a flash [!] hi Debbie
+*CHI:I had a flash hi Debbie
 *CHI:see
 *CHI:can I get out_of my coat
 *CHI:what , what's dis [: this]
@@ -417,7 +417,7 @@
 *CHI:no , remember , before , a girl had this on like I have it on , he
 *CHI:he put dis [: this] thing on
 *CHI:Ma:
-*CHI:have a good day , Ma (.)
+*CHI:have a good day , Ma
 *CHI:hi Steve
 *CHI:hey Ma
 *CHI:ask those guys so I can come up
@@ -428,7 +428,7 @@
 *CHI:now , where's three
 *CHI:I was three
 *CHI:excuse
-*CHI:I'm in two (.)
+*CHI:I'm in two
 *CHI:Steven won't let me go up because I'm afraid of him
 *CHI:hi &s +...
 *CHI:leave me alone
@@ -486,7 +486,7 @@
 *CHI:&oo I did it
 *CHI:a whole piece a big piece
 *CHI:cut out , cut out , cut out
-*CHI:&oo (.) these are cut
+*CHI:&oo these are cut
 *CHI:good boy , Tony Baroney
 *CHI:big bad Tony
 *CHI:I'm hungry
@@ -507,8 +507,8 @@
 *CHI:yes
 *CHI:&-um , chicken
 *CHI:thanks
-*CHI:&oo &oo (.)
-*CHI:xxx gonna ball bounce (.)
+*CHI:&oo &oo
+*CHI:xxx gonna ball bounce
 *CHI:okay now
 *CHI:&s I wanna make something like a xxx
 *CHI:&tee Tony
@@ -516,13 +516,13 @@
 *CHI:give it back to xxx
 *CHI:look xxx
 *CHI:good
-*CHI:&oo (.)
+*CHI:&oo
 *CHI:haha , haha
 *CHI:I'm do the &s +...
 *CHI:th:is
 *CHI:&-er &-er &-er
 *CHI:&bu &pur who want a pie in your face
-*CHI:okay &bng (.) who wants a pie in your face
+*CHI:okay &bng who wants a pie in your face
 *CHI:okay
 *CHI:haha [x 2]
 *CHI:he has +...
@@ -530,7 +530,7 @@
 *CHI:&oo ow:
 *CHI:dere [: there]
 *CHI:me
-*CHI:who wants a pie in the face (.)
+*CHI:who wants a pie in the face
 *CHI:&oo:psh how do you like that , silly
 *CHI:here , here's my plays [: clay]
 *CHI:get out_of here , Jenny
@@ -561,27 +561,27 @@
 *CHI:so we hafta take dis [: this] one , ask them , Debbie , if , if you
 *CHI:we hafta put something on xxx the sheet , and put , dere [: there]
 *CHI:see da [: the] way my fingers are
-*CHI:now we put it inside , and look (.)
+*CHI:now we put it inside , and look
 *CHI:&oo , &oo , &oo won't go in
 *CHI:watch
 *CHI:come on
 *CHI:xxx I know what
 *CHI:don't do the whole thing Julie
 *CHI:that's not right
-*CHI:xxx (.) xxx &sh &sh &sh (.)
+*CHI:xxx xxx &sh &sh &sh
 *CHI:what are you doing , you guys
 *CHI:yes , well I'll play with something else
-*CHI:ah: (.)
+*CHI:ah:
 *CHI:ah: ah ah
 *CHI:xxx ah
 *CHI:ah
 *CHI:ah
 *CHI:ah
 *CHI:I wanna build something with them
-*CHI:now if you don't let me have any , I'll (.) +...
+*CHI:now if you don't let me have any , I'll +...
 *CHI:alright , I need more
 *CHI:yes I can
-*CHI:and I need more (.)
+*CHI:and I need more
 *CHI:if you don't let me have any more I can break up your train tracks
 *CHI:ah haha silly goose
 *CHI:well I think you don't give me any more , I'll be already angry
@@ -685,15 +685,15 @@
 *CHI:bye
 *CHI:right
 *CHI:&psh &sh
-*CHI:goes on the train (.)
+*CHI:goes on the train
 *CHI:&ch &ch okay
 *CHI:&do:o &d
 *CHI:okay , ready to go
 *CHI:this far
-*CHI:you mean this far (.)
+*CHI:you mean this far
 *CHI:okay
 *CHI:you hafta smile
-*CHI:smile (.)
+*CHI:smile
 *CHI:my [//] Steven is my best buddy pal
 *CHI:I [//] that hurts , I know it hurts
 *CHI:well , not when you jump out
@@ -723,13 +723,13 @@
 *CHI:we can make it dis [: this] way okay
 *CHI:hey , leave my +...
 *CHI:haha [x 2]
-*CHI:and I'll keep myself all off myself (.) I , I'll stand here
+*CHI:and I'll keep myself all off myself I , I'll stand here
 *CHI:okay
 *CHI:I'll stand on these here
 *CHI:okay
 *CHI:okay
 *CHI:take up the chairs
-*CHI:right (.)
+*CHI:right
 *CHI:right
 *CHI:and I'm Spider_man
 *CHI:four
@@ -772,7 +772,7 @@
 *CHI:if I sleep up here and you sleep down here we will have no problems
 *CHI:yeah , come on , let's hide someplace far , far , high
 *CHI:I'll +...
-*CHI:put your knees like that (.)
+*CHI:put your knees like that
 *CHI:okay
 *CHI:&y , yes , and me sleep down here , up here
 *CHI:I'll sleep down here
@@ -802,7 +802,7 @@
 *CHI:it's night time
 *CHI:right
 *CHI:don't play with my camera
-*CHI:Spi_Man , he said (.)
+*CHI:Spi_Man , he said
 *CHI:where's my xxx Spider_man &sh
 *CHI:oh , look out spider
 *CHI:hi Steve
@@ -842,7 +842,7 @@
 *CHI:stop , animals , before I hammers on you
 *CHI:come on , Chris , you're gonna get it
 *CHI:&ur:r &plth
-*CHI:if you , if you don't cut it out Chris , you're getting it (.)
+*CHI:if you , if you don't cut it out Chris , you're getting it
 *CHI:&sh , &sh
 *CHI:&ch , &ch , &ch
 *CHI:&buh &bu &bu &cae , &hae &hae &hae &-umb
@@ -1041,7 +1041,7 @@
 *CHI:thank_you &r:r &oo
 *CHI:&-er
 *CHI:&-er
-*CHI:&ar &tch (.)
+*CHI:&ar &tch
 *CHI:&ur:r
 *CHI:urr@i
 *CHI:hey
@@ -1084,7 +1084,7 @@
 *CHI:mine , that's mine
 *CHI:I had that , that's mine , don't
 *CHI:that's mine , &ae:h &ae:ae
-*CHI:&-er (.) can I play
+*CHI:&-er can I play
 *CHI:no
 *CHI:look mom , look
 *CHI:I want ham
@@ -1104,12 +1104,12 @@
 *CHI:I'm hot , feel me
 *CHI:here's juice
 *CHI:I want , don't put water in there
-*CHI:don't put it , I want it the way it is (.)
+*CHI:don't put it , I want it the way it is
 *CHI:want a sandwich &g
 *CHI:he said no fankyou [: thank_you]
 *CHI:I want something to eat
 *CHI:on wheat , white bread
-*CHI:white (.)
+*CHI:white
 *CHI:he , did the doctor say I can have marshmallows
 *CHI:well will you buy some
 *CHI:&-um
@@ -1128,7 +1128,7 @@
 *CHI:yeah
 *CHI:turn it +...
 *CHI:it's that
-*CHI:she has that and she has that , and she has that (.)
+*CHI:she has that and she has that , and she has that
 *CHI:no , I says , I'm gonna tell you it
 *CHI:just wait a minute
 *CHI:I'm telling a secret
@@ -1142,18 +1142,18 @@
 *CHI:and after dat [: that]
 *CHI:when I'm come +...
 *CHI:after that you really mean to
-*CHI:Ma , it spilled (.)
+*CHI:Ma , it spilled
 *CHI:xxx dat [: that] guy's having da [: the] cookies all by himself ,
 *CHI:know dat [: that]
 *CHI:uhhuh
 *CHI:look , look look , Ma , see
 *CHI:see that
-*CHI:an , and na [: the] monsters wants some (.)
+*CHI:an , and na [: the] monsters wants some
 *CHI:mhm
 *CHI:did you put mustard
 *CHI:let me taste
 *CHI:where's the mustard
-*CHI:I found it (.)
+*CHI:I found it
 *CHI:mommy , you know what
 *CHI:I'm gonna eat the whole thing Ma
 *CHI:I +...
@@ -1200,7 +1200,7 @@
 *CHI:phones don't have mouths , they have tuskies
 *CHI:xxx
 *CHI:hunm:
-*CHI:ouch , ouch (.)
+*CHI:ouch , ouch
 *CHI:what
 *CHI:the big +...
 *CHI:loft
@@ -1224,7 +1224,7 @@
 *CHI:I , I'm gonna take a chocolate chip , and frow [: throw] it on his
 *CHI:and what he'll +...
 *CHI:what he , what he'll [//] ah: I want it u:p
-*CHI:it won't go up , you see (.)
+*CHI:it won't go up , you see
 *CHI:&brrring &brrring
 *CHI:I can't +...
 *CHI:hey mommy , want some +...
@@ -1248,24 +1248,24 @@
 *CHI:ah , no you hafta take it away , den you , you put one on dere
 *CHI:right , into the middle
 *CHI:Bernice
-*CHI:&ju &na &maw (.) come on silly cat
-*CHI:he smelled my hand and he didn't stay with me (.)
+*CHI:&ju &na &maw come on silly cat
+*CHI:he smelled my hand and he didn't stay with me
 *CHI:come on you silly cat
 *CHI:come here xxx &ee come here
 *CHI:I like you
-*CHI:&oo yeah (.) open your
-*CHI:come on out (.)
-*CHI:yeah (.) how many [//] the doctor's [//] bananas [//] the doctor
+*CHI:&oo yeah open your
+*CHI:come on out
+*CHI:yeah how many [//] the doctor's [//] bananas [//] the doctor
 *CHI:banana
 *CHI:two of them
 *CHI:oh , ah
 *CHI:right
 *CHI:and I have anuzur [: another]
-*CHI:I like this (.)
-*CHI:I wanna look where it was locked (.)
+*CHI:I like this
+*CHI:I wanna look where it was locked
 *CHI:taste this , tastes good
 *CHI:I like the taste of it
-*CHI:I throwed mine already away (.)
+*CHI:I throwed mine already away
 *CHI:today you know what I did in school
 *CHI:we don't have no rest time
 *CHI:no
@@ -1403,7 +1403,7 @@
 *CHI:no
 *CHI:he's alive every day
 *CHI:don't slap
-*CHI:how come you laughed (.)
+*CHI:how come you laughed
 *CHI:haha [x 2]
 *CHI:that's silly , don't
 *CHI:but I said I want [//] know what
@@ -1417,12 +1417,12 @@
 *CHI:so he drops into the shoes , he can't see me
 *CHI:now where can that guy go , I don't wanna xxx
 *CHI:yesterday I said , I dropped this
-*CHI:see what happened (.)
+*CHI:see what happened
 *CHI:it's popped too much
 *CHI:my daddy sees the xxx put it away
 *CHI:but xxx nope
 *CHI:I got a xxx
-*CHI:momm:y (.)
+*CHI:momm:y
 *CHI:I hafta make a pee_pee
 *CHI:mommy I hafta make a pee_pee
 *CHI:how come
@@ -1453,7 +1453,7 @@
 *CHI:that's hot water
 *CHI:hot
 *CHI:cold water
-*CHI:thank_you (.)
+*CHI:thank_you
 *CHI:mow I'll take this
 *CHI:I have soap
 *CHI:mommy xxx
@@ -1461,7 +1461,7 @@
 *CHI:oh
 *CHI:&ow &wow
 *CHI:it's still warm
-*CHI:dry (.) xxx oh , oh you have the xxx
+*CHI:dry xxx oh , oh you have the xxx
 *CHI:xxx it's moved
 *CHI:I need some
 *CHI:what is this
@@ -1471,7 +1471,7 @@
 *CHI:but there's no place to sit
 *CHI:xxx I know this will work
 *CHI:xxx it's okay
-*CHI:xxx let , let's put these (.) over (.)
+*CHI:xxx let , let's put these over
 *CHI:xxx oh no
 *CHI:he won't hurt me because I'm super strong
 *CHI:come on man , fight like a man
@@ -1509,12 +1509,12 @@
 *CHI:hey , do you wanna join me
 *CHI:ah , no
 *CHI:I'm gonna go in here if you , if you wanna see me , just don't come
-*CHI:xxx okay (.)
+*CHI:xxx okay
 *CHI:now I'm xxx you know xxx
-*CHI:hey , you know (.) +...
+*CHI:hey , you know +...
 *CHI:I wanna play with , I'm playing
 *CHI:now I'm just , just trying to do something , and I'll be , and I'll
-*CHI:alright , Ma (.)
+*CHI:alright , Ma
 *CHI:mommy here's what I was looking
 *CHI:know what's in here
 *CHI:&tae &dae
@@ -1557,7 +1557,7 @@
 *CHI:alright
 *CHI:&di &de &de &de
 *CHI:now you got radio , right
-*CHI:I'll be dere [: there] (.)
+*CHI:I'll be dere [: there]
 *CHI:&de &de &de &de &de &de &de &de &de &de xxx
 *CHI:now where's xxx where's xxx here's red rock , this
 *CHI:mommy
@@ -1580,9 +1580,9 @@
 *CHI:know who I am
 *CHI:you you're mommy , I didn't know dat [: that] (be)cause I didn't
 *CHI:alright
-*CHI:I'm doing [!] wait till I've finished
+*CHI:I'm doing wait till I've finished
 *CHI:I said I , I can't do it too fast
-*CHI:don't you know [!]
+*CHI:don't you know
 *CHI:I'm not finished yet
 *CHI:mommy I hafta fix it up
 *CHI:know I hafta fix things up
@@ -1606,7 +1606,7 @@
 *CHI:uhhuh
 *CHI:they're gonna put (th)em someplace else
 *CHI:and I can't show (th)em to you
-*CHI:alright (.)
+*CHI:alright
 *CHI:xxx and now I'm going to xxx here daddy's after too , so build your
 *CHI:I'm not finished
 *CHI:cold
@@ -1623,7 +1623,7 @@
 *CHI:they're nice
 *CHI:they're like a airplane kind , he has on ears , right
 *CHI:but how come you took (th)em off
-*CHI:let me see (th)em for a minute (.)
+*CHI:let me see (th)em for a minute
 *CHI:they're nice
 *CHI:yeah
 *CHI:oh , ah , I'm leaving (th)em +...
@@ -1641,9 +1641,9 @@
 *CHI:it's not hard , junior cat , it's only soft
 *CHI:see , feel , look
 *CHI:see
-*CHI:he scared he thinks , xxx (.) put on xxx &h &h &h
+*CHI:he scared he thinks , xxx put on xxx &h &h &h
 *CHI:let me sit in the middle
-*CHI:happens if I fall (.)
+*CHI:happens if I fall
 *CHI:that's silly
 *CHI:I've xxx front rings
 *CHI:I'll stand on the xxx &wo &wo &wo , &wo &wo &wo xxx it is true
@@ -1682,7 +1682,7 @@
 *CHI:right
 *CHI:I almost did it
 *CHI:yes
-*CHI:got it (.)
+*CHI:got it
 *CHI:oh yeah I sometimes I can't do hard
 *CHI:ah , ah
 *CHI:yeah
@@ -1781,21 +1781,21 @@
 *CHI:wait you're &im:m ah
 *CHI:can I have Dixie cups
 *CHI:the +...
-*CHI:&-um (.)
+*CHI:&-um
 *CHI:do you have one for that guy
 *CHI:why
 *CHI:can I have a [//] I want my Dixie cup
 *CHI:I wanna , I wanna pick which one I want
-*CHI:ah , I wanna pick I [!] pick , oh I pick
+*CHI:ah , I wanna pick I pick , oh I pick
 *CHI:okay
-*CHI:can I pick which one I want (.)
+*CHI:can I pick which one I want
 *CHI:hafta take out the whole thing first
 *CHI:I want ta [: to] , I'm taking out , I wanna choose which one I want
 *CHI:oh , I wanna pick which
 *CHI:I'll pick , I'll pick
 *CHI:I'm choosing
 *CHI:I'll choose which one I want
-*CHI:I wanna xxx I pick which one I want (.)
+*CHI:I wanna xxx I pick which one I want
 *CHI:I'm getting the one
 *CHI:two of them are in dere [: there]
 *CHI:I pick which one
@@ -1809,7 +1809,7 @@
 *CHI:oh
 *CHI:celery
 *CHI:&m
-*CHI:&-um &m &m (.) there salad dressing on there
+*CHI:&-um &m &m there salad dressing on there
 *CHI:is it my favorite
 *CHI:this sus [: celery] tastes good
 *CHI:we're gonna have a picnic
@@ -1819,7 +1819,7 @@
 *CHI:chicken wings
 *CHI:and a sandwich too
 *CHI:why
-*CHI:I like , I like dose [: those] little sing [: things] (.)
+*CHI:I like , I like dose [: those] little sing [: things]
 *CHI:I know what
 *CHI:I got a good idea
 *CHI:when xxx next year again we'll have a tent
@@ -1842,17 +1842,17 @@
 *CHI:right mom
 *CHI:if they try to kill me , but I'm very talented
 *CHI:and I can make (th)em be dead , really mom
-*CHI:all giant snakes (.)
+*CHI:all giant snakes
 *CHI:I can kill him
 *CHI:with my sneakers
-*CHI:oh yes , sneakers can really [!] hurt they can kick very hard
+*CHI:oh yes , sneakers can really hurt they can kick very hard
 *CHI:it can't bite me
 *CHI:doesn't
 *CHI:xxx in a +...
 *CHI:travels
 *CHI:my daddy , uhuh
 *CHI:uhuh
-*CHI:I could kill him with a knife (.)
+*CHI:I could kill him with a knife
 *CHI:(be)cause I would , I +...
 *CHI:right
 *CHI:I'll , &h I'll have a knife if I see bad snakes and I'll cut his
@@ -1863,7 +1863,7 @@
 *CHI:(be)cause from da [: the] knife
 *CHI:I'll be sharpest
 *CHI:sharper than your knifes [: knives] [*]
-*CHI:sharper than every , anybody's knife (.)
+*CHI:sharper than every , anybody's knife
 *CHI:mom , you know what makes me very strong
 *CHI:milk , juice , water
 *CHI:that makes me strong
@@ -1904,7 +1904,7 @@
 *CHI:from your gum
 *CHI:it's coming from bad teeth , those other teeth , those more +...
 *CHI:yeah , then the +...
-*CHI:and , but it hurts [!]
+*CHI:and , but it hurts
 *CHI:when the tooth +...
 *CHI:sometimes , then
 *CHI:none
@@ -1922,12 +1922,12 @@
 *CHI:I can't finish too much
 *CHI:&hah
 *CHI:my knife
-*CHI:&-uma &-uma (.) was that a funny , thing , funny , know what , like
+*CHI:&-uma &-uma was that a funny , thing , funny , know what , like
 *CHI:it is a funny show
 *CHI:yeah
 *CHI:I thinks a different kind of show that Chris always watches
 *CHI:uhhuh but once I came up to his house I saw it
-*CHI:it's a funny [!] program
+*CHI:it's a funny program
 *CHI:&m &m eighteen
 *CHI:xxx excuse me
 *CHI:I'll show you
@@ -1963,7 +1963,7 @@
 *CHI:where is
 *CHI:okay , &-eh
 *CHI:oh that's it
-*CHI:right , that there and (.) +...
+*CHI:right , that there and +...
 *CHI:oh +...
 *CHI:I'll sit right over here , right
 *CHI:sit right dere [: there] right next to me
@@ -2002,7 +2002,7 @@
 *CHI:&nae &nae &im
 *CHI:&-um &-um &-um &-um
 *CHI:okay junior , dis [: this] is yours
-*CHI:I want ice cream (.)
+*CHI:I want ice cream
 *CHI:mom look
 *CHI:&hoo &wae &buny hey mommy , wanna see something
 *CHI:wants , wanna hear something
@@ -2010,7 +2010,7 @@
 *CHI:how come
 *CHI:junior , junior
 *CHI:I'm just petting him
-*CHI:alright , you can eat (.)
+*CHI:alright , you can eat
 *CHI:alright , I want ice cream
 *CHI:right
 *CHI:and after ice cream I , I wanna have some cookies , and after dat
@@ -2025,7 +2025,7 @@
 *CHI:how come
 *CHI:I didn't hear it
 *CHI:haha [x 2] there's something wrong +...
-*CHI:oh , (.) I'm gonna save da [: the] rest , Ma
+*CHI:oh , I'm gonna save da [: the] rest , Ma
 *CHI:&oo dat's [: that's] a , mommy
 *CHI:is that the box of orange juice
 *CHI:right dere [: there]
@@ -2051,7 +2051,7 @@
 *CHI:how come it comes underneath
 *CHI:den [: then] da [: the] water comes out
 *CHI:how did it knows that
-*CHI:and I'll protect (.)
+*CHI:and I'll protect
 *CHI:oh oh , I guess my mommy's not +...
 *CHI:uhuh
 *CHI:they'll fall out
@@ -2065,11 +2065,11 @@
 *CHI:&oo , ah
 *CHI:to be joined
 *CHI:ding , dong , dong
-*CHI:ding dong dong (.)
+*CHI:ding dong dong
 *CHI:xxx see that
 *CHI:guys move out
 *CHI:alright
-*CHI:why you shake it (.)
+*CHI:why you shake it
 *CHI:what Ma
 *CHI:you have my ice cream
 *CHI:what kind is it
@@ -2086,7 +2086,7 @@
 *CHI:how come
 *CHI:could I +...
 *CHI:alright
-*CHI:on the john , was a poop (.) +...
+*CHI:on the john , was a poop +...
 *CHI:can I , can I lick that thing
 *CHI:now I'm xxx
 *CHI:thanks
@@ -2112,7 +2112,7 @@
 *CHI:what
 *CHI:ah , but I can't find it
 *CHI:you hafta look for it , alright
-*CHI:and I had a &ae , and I have two ambulances (.)
+*CHI:and I had a &ae , and I have two ambulances
 *CHI:when it's xxx it's not gold
 *CHI:what
 *CHI:how come
@@ -2124,7 +2124,7 @@
 *CHI:who is that Ma
 *CHI:how come it's you again , Graeme
 *CHI:you hafta , don't hafta do it two times
-*CHI:&h how (.) +...
+*CHI:&h how +...
 *CHI:no good
 *CHI:yes
 *CHI:take dis [: this] off
@@ -2223,11 +2223,11 @@
 *CHI:&-um &-um
 *CHI:I don't wanna have it next week
 *CHI:&-um
-*CHI:(be)cause it hurt [!] me , Ma
+*CHI:(be)cause it hurt me , Ma
 *CHI:right &m +...
 *CHI:and he +...
 *CHI:but they hurt my teeth also
-*CHI:how come (.)
+*CHI:how come
 *CHI:hey mommy I didn't go to +...
 *CHI:+, I didn't go , know who I , house I didn't go to
 *CHI:know who house I didn't go to
@@ -2267,7 +2267,7 @@
 *CHI:right
 *CHI:ahhah but somebody else &t reach eighteen and I go on &der floor
 *CHI:and then I'll be &s +...
-*CHI:ah (.) and I'm and , I wish , I had , I had a goggles and it fit my
+*CHI:ah and I'm and , I wish , I had , I had a goggles and it fit my
 *CHI:you (re)member those goggles that are +...
 *CHI:you (re)member those goggles that &gwah my friend +...
 *CHI:my xxx , not my friend
@@ -2281,7 +2281,7 @@
 *CHI:see
 *CHI:dese [: these] are da [: the] way dey [: they] were
 *CHI:ah
-*CHI:haha , &ha (.)
+*CHI:haha , &ha
 *CHI:that's not nice
 *CHI:dis [: this] but dis [: this] part I won't eat
 *CHI:no
@@ -2315,7 +2315,7 @@
 *CHI:ah
 *CHI:I'll xxx
 *CHI:but this one's no good
-*CHI:haha , haha , haha (.)
+*CHI:haha , haha , haha
 *CHI:don't give me any more
 *CHI:I want so much for Juno
 *CHI:I won't hurt you , come on
@@ -2327,8 +2327,8 @@
 *CHI:&-um , &-um , banana
 *CHI:xxx &-um
 *CHI:there's two , on each side
-*CHI:two on each side , two wheels on each (.) +...
-*CHI:that's xxx (.) Ma look , I've finished dis [: this]
+*CHI:two on each side , two wheels on each +...
+*CHI:that's xxx Ma look , I've finished dis [: this]
 *CHI:take of dis [: this] please
 *CHI:&ha , haha
 *CHI:I won't hurt you xxx
@@ -2338,7 +2338,7 @@
 *CHI:&wo &wo &wo
 *CHI:xxx look
 *CHI:ah , no
-*CHI:ah: (.)
+*CHI:ah:
 *CHI:&oo:oo:wau &wau
 *CHI:&woo , ah
 *CHI:ouch , you hurt my ears xxx
@@ -2398,8 +2398,8 @@
 *CHI:you give me +...
 *CHI:I'll drink my +...
 *CHI:okay
-*CHI:oh , oh (.)
-*CHI:now I'll xxx (.)
+*CHI:oh , oh
+*CHI:now I'll xxx
 *CHI:my juice
 *CHI:I , I'm going to bed now
 *CHI:+, xxx
@@ -2424,7 +2424,7 @@
 *CHI:how come , mommy
 *CHI:run , run as fast as you can
 *CHI:you can't catch me , I'm a gingerbread man
-*CHI:I can't take it out (.)
+*CHI:I can't take it out
 *CHI:run , run as fast as you can
 *CHI:you can't catch me I'm the gingerbread man
 *CHI:old woman , old man and a cow
@@ -2499,7 +2499,7 @@
 *CHI:now put your thing , I'll show you , here , like that
 *CHI:(be)cause I wanna
 *CHI:now , we put the red one right here , on sides , on top of , yeah I
-*CHI:good now , now I'll put these [!] two over here
+*CHI:good now , now I'll put these two over here
 *CHI:hey , haha
 *CHI:mommy , I'll show you where
 *CHI:I got it
@@ -2518,7 +2518,7 @@
 *CHI:yeah
 *CHI:almost finished
 *CHI:yeah
-*CHI:making another parking lot (.)
+*CHI:making another parking lot
 *CHI:where's that thing coming here that [//] how come you had it , Ma
 *CHI:how come
 *CHI:I took it down
@@ -2651,15 +2651,15 @@
 *CHI:I'll be very mad at you
 *CHI:and put it on top of here
 *CHI:now put this here
-*CHI:now put this here now you need look (.)
-*CHI:hey (.)
+*CHI:now put this here now you need look
+*CHI:hey
 *CHI:xxx now , see the xxx goes right through it
 *CHI:there's a little door it opens up
 *CHI:see that's the door , and mommy this , after +...
 *CHI:I'm not finished yet
 *CHI:for , not yet I'm not finished
 *CHI:know when I'm finished
-*CHI:I tell [!] you when I'm finished
+*CHI:I tell you when I'm finished
 *CHI:why
 *CHI:why , mom
 *CHI:mommy , you know what , Ma
@@ -2667,7 +2667,7 @@
 *CHI:it's not da [: the] same one
 *CHI:now mommy , see how we build it
 *CHI:isn't it nice
-*CHI:yeah (.) isn't it nice now
+*CHI:yeah isn't it nice now
 *CHI:but it's not funny , is it
 *CHI:xxx
 *CHI:no
@@ -2683,7 +2683,7 @@
 *CHI:haha [x 2] , haha
 *CHI:how can a building xxx +...
 *CHI:&-um , &-um , I , I can get it out
-*CHI:see mom (.)
+*CHI:see mom
 *CHI:build right
 *CHI:we're not gonna knock this down , are we
 *CHI:we'll leave it up to , to tomorrow morning
@@ -2731,13 +2731,13 @@
 *CHI:what is this thing for
 *CHI:this
 *CHI:this thing
-*CHI:no here [!] , on this
+*CHI:no here , on this
 *CHI:it is a horn
 *CHI:but I wanna tell you something
 *CHI:xxx see what's this
 *CHI:know what
 *CHI:you know , I didn't , but we , read this for me
-*CHI:no I mean that [!] one , the , the other part
+*CHI:no I mean that one , the , the other part
 *CHI:yeah
 *CHI:will you read the whole thing over
 *CHI:haha [x 2]

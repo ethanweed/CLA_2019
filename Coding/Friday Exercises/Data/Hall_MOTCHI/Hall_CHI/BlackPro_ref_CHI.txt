@@ -11,7 +11,7 @@
 *CHI:&ay &dun &wahned &too &it &too &skool
 *CHI:&nae &he &he
 *CHI:mm
-*CHI:one two (.) four (.) gimme , where's that fa:ce [!] cloth
+*CHI:one two four gimme , where's that fa:ce cloth
 *CHI:&gimi , &hwerz &daet &feis &kloth
 *CHI:no: I'm bring(ing) this +...
 *CHI:&noo &aym &brigin
@@ -31,12 +31,12 @@
 *CHI:Carl
 *CHI:and I don't like him
 *CHI:I really hate him
-*CHI:I do (.)
+*CHI:I do
 *CHI:I don't know where his car is
 *CHI:there goes derrick
 *CHI:he's going to school
 *CHI:I could xxx
-*CHI:xxx that's Carl xxx (.) that's his car right there
+*CHI:xxx that's Carl xxx that's his car right there
 *CHI:the door that's all ready open you waitin(g) for him
 *CHI:we're gonna go fast
 *CHI:he took his jacket off
@@ -63,7 +63,7 @@
 *CHI:mine is almost like a racin(g) car
 *CHI:now he's turnin(g) here
 *CHI:they have the same coat on
-*CHI:yeah &yeah (.) I have xxx
+*CHI:yeah &yeah I have xxx
 *CHI:no
 *CHI:no
 *CHI:we have gas right
@@ -76,7 +76,7 @@
 *CHI:this the place in here
 *CHI:no
 *CHI:my mother forgot to put her hair down [//] my mother put her hair
-*CHI:like she forgot to put it down little bit (.)
+*CHI:like she forgot to put it down little bit
 *CHI:like Kimberly had hers before
 *CHI:right Kimberly
 *CHI:I got your valentine cards in this one
@@ -93,7 +93,7 @@
 *CHI:the valentine cards are in here
 *CHI:I'm not gonna let you see
 *CHI:tel [: until] we get to school
-*CHI:no [!] tel [: until] we get to Robbin's house I won't
+*CHI:no tel [: until] we get to Robbin's house I won't
 *CHI:I don't have a valentine card for you
 *CHI:I got one for miss Evelyn , Robbin , and Kimberly and Ruth and
 *CHI:time to give you valen [//] time to give valentine cards out
@@ -102,44 +102,44 @@
 *CHI:Robbin look who's following us
 *CHI:how did this get in here
 *CHI:xxx my my mother just put it in nere [: there]
-*CHI:that's how it got in there (.)
+*CHI:that's how it got in there
 *CHI:I see the valentine cards
-*CHI:oh [!] the name is on it (.)
+*CHI:oh the name is on it
 *CHI:this is not the valentine card
-*CHI:yup this is Robbin's (.)
-*CHI:Robbin this is for you (.)
+*CHI:yup this is Robbin's
+*CHI:Robbin this is for you
 *CHI:oh
 *CHI:&m mat keeps comin(g) off xxx the belt
 *CHI:o:h xxx
-*CHI:come on Robbin (.)
-*CHI:no [!]
-*CHI:god (.)
+*CHI:come on Robbin
+*CHI:no
+*CHI:god
 *CHI:Robbin , Robbin , gotta tell somethin(g) in your ear
-*CHI:come over here (.)
-*CHI:xxx okay Robbin (.)
+*CHI:come over here
+*CHI:xxx okay Robbin
 *CHI:we need some green and they won't let us have no green
 *CHI:(o)kay
-*CHI:now (.) now we won't tell (th)em right
+*CHI:now now we won't tell (th)em right
 *CHI:(.) girl , you , all of you , take all of the stuff and we only
 *CHI:right Robbin
 *CHI:ah
-*CHI:we have more , this (.)
-*CHI:break (th)em in pieces like this (.)
-*CHI:oh me su(s)pect pop (.)
+*CHI:we have more , this
+*CHI:break (th)em in pieces like this
+*CHI:oh me su(s)pect pop
 *CHI:we hafta do all of em as we can find
-*CHI:right (.)
-*CHI:&hae &ae &ae (.)
-*CHI:you take two and I take two (.)
-*CHI:one popped on the floor (.)
+*CHI:right
+*CHI:&hae &ae &ae
+*CHI:you take two and I take two
+*CHI:one popped on the floor
 *CHI:it was this one , this this one
 *CHI:&ham &ham we got mo:re
-*CHI:ye:ah (.)
-*CHI:stop &ke (.) +...
+*CHI:ye:ah
+*CHI:stop &ke +...
 *CHI:&ee &hae &hae &hae now
-*CHI:let's use this too (.)
+*CHI:let's use this too
 *CHI:s:o
-*CHI:bet (h)er take some (.)
-*CHI:yeah (.)
+*CHI:bet (h)er take some
+*CHI:yeah
 *CHI:this what we gonna do
 *CHI:that would make it beautiful , right
 *CHI:I know but this is gonna be m:y side
@@ -148,27 +148,27 @@
 *CHI:okay Robbin
 *CHI:Robbin , doin(g) it [//] do it like this
 *CHI:that make it beautiful okay
-*CHI:not [!] that [!] way , this way
-*CHI:Sherman you took all of it (.)
-*CHI:it's not fair (.)
-*CHI:Sharon you gonna use all a blue (.)
-*CHI:Sharon xxx we hafta grab them some blue (.)
+*CHI:not that way , this way
+*CHI:Sherman you took all of it
+*CHI:it's not fair
+*CHI:Sharon you gonna use all a blue
+*CHI:Sharon xxx we hafta grab them some blue
 *CHI:I don'(t) [//] how come I see no blue
 *CHI:how come I ont [: don't] see no blue
 *CHI:no blue
-*CHI:look what I'm doin(g) Robbin (.)
+*CHI:look what I'm doin(g) Robbin
 *CHI:mine's gonna look beautiful
-*CHI:don'(t) [//] Sharon (.)
+*CHI:don'(t) [//] Sharon
 *CHI:stop takin(g) all of mine
 *CHI:now you have messed it up
-*CHI:dummy (.) Robbin don't mess it up (.)
-*CHI:now we need one more yellow (.)
+*CHI:dummy Robbin don't mess it up
+*CHI:now we need one more yellow
 *CHI:no
 *CHI:not like that
 *CHI:look it [: look at] all a [: of] this that hasta be the same thing
 *CHI:that would make it beautiful
 *CHI:it would
-*CHI:god (.) he's takin(g) all of our xxx
+*CHI:god he's takin(g) all of our xxx
 *CHI:right
 *CHI:yeah
 *CHI:we need different colors
@@ -182,8 +182,8 @@
 *CHI:okay
 *CHI:&hi &hi &iae
 *CHI:different colors like this
-*CHI:yellow an(d) green (.)
-*CHI:yellow [!] an [!] green [!] like this
+*CHI:yellow an(d) green
+*CHI:yellow an green like this
 *CHI:then we break , (th)em all up
 *CHI:where's green
 *CHI:oh
@@ -194,7 +194,7 @@
 *CHI:+, green and yellow in here
 *CHI:hey
 *CHI:yeah
-*CHI:now [!] the next one we do purple and red
+*CHI:now the next one we do purple and red
 *CHI:Robbin
 *CHI:Robbin
 *CHI:thank_you Robin
@@ -217,18 +217,18 @@
 *CHI:wait
 *CHI:haha
 *CHI:we put olives in it these are olives
-*CHI:take some of Sherman's olives (.)
+*CHI:take some of Sherman's olives
 *CHI:my two were like this
 *CHI:this is our drink
 *CHI:oh look I put mine up here you put yours down here
 *CHI:yeah
-*CHI:Melanie wave ta [: to] Car(l) (.) Sha:ron say hi ta [: to] Car(l)
+*CHI:Melanie wave ta [: to] Car(l) Sha:ron say hi ta [: to] Car(l)
 *CHI:mine won't land on the table
 *CHI:no it didn't
 *CHI:wow mine xxx
 *CHI:mine will land on , ice
 *CHI:mine land on the table
-*CHI:that [//] mine land on the table oh no it didn't (.)
+*CHI:that [//] mine land on the table oh no it didn't
 *CHI:mine gonna land on the table
 *CHI:no mine did not
 *CHI:ah so
@@ -238,33 +238,33 @@
 *CHI:mine's on the table
 *CHI:set (th)em on the floor
 *CHI:set (th)em on the floor
-*CHI:we don't know xxx I got another olive I got another the olive (.)
+*CHI:we don't know xxx I got another olive I got another the olive
 *CHI:hold dis [: this] I heard you hold &-um
 *CHI:haha
 *CHI:oh no now we last
 *CHI:finished it
-*CHI:&m:m candy was in it (.)
+*CHI:&m:m candy was in it
 *CHI:Robbin this was candy in it
 *CHI:did you have candy in it
-*CHI:look for the (.) +...
+*CHI:look for the +...
 *CHI:(re)member that day we made a mess inna [: in the] school
 *CHI:yeah
 *CHI:we hadta do work to do
-*CHI:yeah (.)
-*CHI:xxx (.)
-*CHI:that's a candy too (.)
+*CHI:yeah
+*CHI:xxx
+*CHI:that's a candy too
 *CHI:so
 *CHI:(.) xxx due to
 *CHI:&oo bells
 *CHI:whoops
-*CHI:yep (.)
-*CHI:sto:p (.)
+*CHI:yep
+*CHI:sto:p
 *CHI:she said +...
 *CHI:no
 *CHI:Melanie didn't say shut up
 *CHI:+, to &-um a Robbin
-*CHI:Melanie Melanie said shut up to Sharon (.)
-*CHI:sorry Melanie (.)
+*CHI:Melanie Melanie said shut up to Sharon
+*CHI:sorry Melanie
 *CHI:now which one do we , o:pen
 *CHI:Melanie open this please
 *CHI:a dog
@@ -283,10 +283,10 @@
 *CHI:&ou
 *CHI:oo:
 *CHI:look at
-*CHI:&ha (.)
+*CHI:&ha
 *CHI:the worm
 *CHI:ew
-*CHI:I didn't , didn't xxx (.)
+*CHI:I didn't , didn't xxx
 *CHI:I'll drive the car &brrr
 *CHI:I'll drive the car &brrr
 *CHI:(I)'ll drive the car &brrr xxx
@@ -295,23 +295,23 @@
 *CHI:&brrr
 *CHI:&ae:ae &huh: &boo
 *CHI:she has the same shoes on
-*CHI:tuckah [: tucker] (.)
+*CHI:tuckah [: tucker]
 *CHI:remember that day that Ron was our friend
-*CHI:so there's nothin(g) to afraid about , right (.)
+*CHI:so there's nothin(g) to afraid about , right
 *CHI:and you know what
 *CHI:I got a new house
 *CHI:I got a big , house
 *CHI:maybe if I be over here maybe I could touch Robbin
-*CHI:I can touch bobbin (.)
-*CHI:&yuh &duh , &duh &duh &d: &-uh (.)
+*CHI:I can touch bobbin
+*CHI:&yuh &duh , &duh &duh &d: &-uh
 *CHI:would you like a punch in the nose Robbin
 *CHI:n:o and d(o) you xxx
-*CHI:n:o (.) xxx
+*CHI:n:o xxx
 *CHI:want a drink to the stomach , and a drink in the nose
 *CHI:and a drink in the eyeballs
 *CHI:and a drink in the leggies
-*CHI:and a drink in the footsie (.)
-*CHI:and drink in your cokie (.)
+*CHI:and a drink in the footsie
+*CHI:and drink in your cokie
 *CHI:and drink in your hairy
 *CHI:and drink in your tee tee
 *CHI:a drink in your liffee@wp
@@ -341,7 +341,7 @@
 *CHI:we had something to drink
 *CHI:we had sugar crisp and milk
 *CHI:and my dog
-*CHI:&m &-um (.) I showed (th)em how the sewing machine work
+*CHI:&m &-um I showed (th)em how the sewing machine work
 *CHI:I don't know
 *CHI:ah: mm
 *CHI:I wake up in the morinin [: morning] and then an(d) eat breakfast
@@ -359,7 +359,7 @@
 *CHI:mommy what are we havin(g) for lunch
 *CHI:yum yum
 *CHI:mommy who was that
-*CHI:oh (.)
+*CHI:oh
 *CHI:whoa forgot to take my bootsies@c
 *CHI:dootises@wp forgot to take +...
 *CHI:&oo &oo &oo come I'm a zoom@o zoom@o ah +...
@@ -380,7 +380,7 @@
 *CHI:yeah
 *CHI:thank_you
 *CHI:Robbin had a valentine candy
-*CHI:ye:ah [!]
+*CHI:ye:ah
 *CHI:where's mine
 *CHI:I know that's a valentines one too
 *CHI:happy valentines little honey
@@ -402,7 +402,7 @@
 *CHI:if you do I'll crack your face up mewall [: my wall]
 *CHI:mommy
 *CHI:hm:
-*CHI:I did a little bit (.)
+*CHI:I did a little bit
 *CHI:now I swallow it
 *CHI:yeah
 *CHI:&bam &ee: &-um &bump
@@ -412,13 +412,13 @@
 *CHI:right there
 *CHI:sit down xxx
 *CHI:dumpy yummy yummy yummy
-*CHI:bye Car(l) you eatin(g) a hamburger (.)
+*CHI:bye Car(l) you eatin(g) a hamburger
 *CHI:time for Tunde ta [: to] eat a hamburger
 *CHI:yes you are
 *CHI:no
 *CHI:xxx
 *CHI:Carl you want some pizza
-*CHI:he said yes (.)
+*CHI:he said yes
 *CHI:Tunde , gonna be pushed it over xxx
 *CHI:&bah &yah &dee &-uhmp &buhmp comin(g) up
 *CHI:where's mine
@@ -440,7 +440,7 @@
 *CHI:I don wan(t) this on me
 *CHI:&=laugh
 *CHI:&hah
-*CHI:&burp (.)
+*CHI:&burp
 *CHI:laugh
 *CHI:&=laugh
 *CHI:&=laugh
@@ -470,8 +470,8 @@
 *CHI:yes it is
 *CHI:yucky this microphone is yucky
 *CHI:I'm goin(g) in the room an(d) lock me up
-*CHI:not let you comin(g) in (.)
-*CHI:what happen (.)
+*CHI:not let you comin(g) in
+*CHI:what happen
 *CHI:take this off a me
 *CHI:yes hm: I don't like it
 *CHI:turn the light off and you stay in the room with me , because I
@@ -486,7 +486,7 @@
 *CHI:I'm takin(g) this off
 *CHI:I'm really takin(g) it off
 *CHI:no I don't want it on
-*CHI:I want it of:f (.)
+*CHI:I want it of:f
 *CHI:Deidre could you do this
 *CHI:n:o
 *CHI:&noo
@@ -511,8 +511,8 @@
 *CHI:Corrie
 *CHI:Carl Corrie
 *CHI:hi [x 8]
-*CHI:hi [!] hai [: hi]
-*CHI:hi [!] who is that
+*CHI:hi hai [: hi]
+*CHI:hi who is that
 *CHI:hi &hai
 *CHI:hi
 *CHI:hi
@@ -522,7 +522,7 @@
 *CHI:hi &pu +...
 *CHI:how ya [: you] doin(g)
 *CHI:what are you doin(g)
-*CHI:are you listening to me talk (.)
+*CHI:are you listening to me talk
 *CHI:are you
 *CHI:I'm comin(g) in there Tunde
 *CHI:here I come
@@ -593,7 +593,7 @@
 *CHI:where
 *CHI:&hwer
 *CHI:on where
-*CHI:rollin(g) pin (.)
+*CHI:rollin(g) pin
 *CHI:yeah
 *CHI:&yeah what else we gonna have mommy
 *CHI:yeah
@@ -607,7 +607,7 @@
 *CHI:mm &hae &hae &ha
 *CHI:I wanta [: wanna] put , the eyes on all of (th)em
 *CHI:because
-*CHI:I wanna (.)
+*CHI:I wanna
 *CHI:ah
 *CHI:I forgot to do this one
 *CHI:mm
@@ -618,8 +618,8 @@
 *CHI:let me +...
 *CHI:okay one two three four
 *CHI:one more
-*CHI:for Carl (.)
-*CHI:now two more (.)
+*CHI:for Carl
+*CHI:now two more
 *CHI:huh [: what]
 *CHI:Tunde
 *CHI:buhde [: butter]
@@ -634,13 +634,13 @@
 *CHI:Jeanie
 *CHI:I was Jeanie , and I was Daniel's wife
 *CHI:yeah
-*CHI:an(d) we was work [//] we was gonna work (.)
-*CHI:and Jeanie came (.)
+*CHI:an(d) we was work [//] we was gonna work
+*CHI:and Jeanie came
 *CHI:and Jeanie boofed@c
 *CHI:there
 *CHI:yep
 *CHI:&yep
-*CHI:&-uhmm (.) I worked with Daniel
+*CHI:&-uhmm I worked with Daniel
 *CHI:&-um:
 *CHI:drew
 *CHI:he was sle:epin(g)
@@ -684,9 +684,9 @@
 *CHI:friday
 *CHI:I'm right it's friday
 *CHI:pie day
-*CHI:(ex)cuse me (.)
+*CHI:(ex)cuse me
 *CHI:wanna see me do that again , friend
-*CHI:yeah okay (.)
+*CHI:yeah okay
 *CHI:ow: &s snap
 *CHI:wanna see me do it
 *CHI:okay my muhthah [: mother] &ai &di &lea &lee &ot &lee &wanduh my
@@ -698,9 +698,9 @@
 *CHI:hunm
 *CHI:yeah
 *CHI:yeah
-*CHI:alright (.)
+*CHI:alright
 *CHI:&wou
-*CHI:Carl [!] sit [!] at [!] the [!] table
+*CHI:Carl sit at the table
 *CHI:you &brr &brr &brr &brr &brr , &brr
 *CHI:&dduhkah:duhkah &duhkah &duhkah &duh
 *CHI:I sit next to Ca:rl
@@ -763,12 +763,12 @@
 *CHI:a:men
 *CHI:I ain't gonna say it say xxx ee [: in] ah mind
 *CHI:do the cheese now &nau
-*CHI:haha [x 2] (.)
+*CHI:haha [x 2]
 *CHI:oh no he can't
-*CHI:haha [x 2] (.)
+*CHI:haha [x 2]
 *CHI:hm:
 *CHI:hm: hm:
-*CHI:what'd you just say (.)
+*CHI:what'd you just say
 *CHI:what did you say
 *CHI:(be)cause , I like to
 *CHI:like to
@@ -808,7 +808,7 @@
 *CHI:on a [: the] my [//] on the side of my tongue it was burnin(g) from
 *CHI:no
 *CHI:it's on the sausage
-*CHI:no maybe when , gim [: give] [!] me
+*CHI:no maybe when , gim [: give] me
 *CHI:the meat
 *CHI:the meat is not
 *CHI:excuse me
@@ -986,7 +986,7 @@
 *CHI:&hi &he &hi &he
 *CHI:xxx
 *CHI:don't go +...
-*CHI:no [!] wash it
+*CHI:no wash it
 *CHI:what
 *CHI:you go
 *CHI:wash it off
@@ -1016,13 +1016,13 @@
 *CHI:I caught ya [: you] I caught ya [: you]
 *CHI:but mommy I'm full
 *CHI:right here an(d) here an here an here
-*CHI:goodie fishie (.) &m &m , &m &m
+*CHI:goodie fishie &m &m , &m &m
 *CHI:yep
 *CHI:that's the tail
 *CHI:the tail bone
 *CHI:it's goin(g) on soon
 *CHI:I want more , fish
-*CHI:&ae:ae &maw more (.)
+*CHI:&ae:ae &maw more
 *CHI:&m
 *CHI:you'll get no more
 *CHI:no more di:nner , bet I can make blink
@@ -1102,7 +1102,7 @@
 *CHI:&au
 *CHI:it is disingappear@n crunching
 *CHI:&aup
-*CHI:now what I'm gonna take (.)
+*CHI:now what I'm gonna take
 *CHI:&aw &o:h
 *CHI:some e:ars
 *CHI:whoop I got one ear off &aunk
@@ -1184,7 +1184,7 @@
 *CHI:set go
 *CHI:Mary +...
 *CHI:miss Mary Mack Mack , who sat on the dress , dress , dress and
-*CHI:and smack her &kawee (.) den [: then] do the +...
+*CHI:and smack her &kawee den [: then] do the +...
 *CHI:miss Mary +...
 *CHI:miss Ma:ry , Mack +...
 *CHI:miss +...
@@ -1345,9 +1345,9 @@
 *CHI:mo:mmy
 *CHI:I don't want the microphone
 *CHI:I want him to go home now
-*CHI:I want it off [!]
+*CHI:I want it off
 *CHI:no I want it aw [: off]
-*CHI:n:o (.)
+*CHI:n:o
 *CHI:I want it off
 *CHI:gonna read us two
 *CHI:I ate it , all up [//] I mean I drunk it all up
