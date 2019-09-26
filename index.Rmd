@@ -261,7 +261,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 [Data for IF-statements notebook](https://raw.githubusercontent.com/ethanweed/CLA_2019/master/Coding/Friday%20Exercises/Data/Adam_mot_words_list.txt) (Right-click and choose "Download linked..")
 
-
+[Hall SES Exercise](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks//Hall-SES-tokens-analysis.html)
 
 ## Lecture Slides
 
