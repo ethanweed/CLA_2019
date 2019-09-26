@@ -274,12 +274,12 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 ### Wednesday instruction
 [Lesson 1: Introduction, variables and for-loops](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson1.slides.html)  
 
-[Jupyter notebook for Lesson 1](https://github.com/ethanweed/CLA_2019/blob/master/Coding/Wednesday%20Instruction/Lesson1.html)
+[Jupyter notebook for Lesson 1](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson1.ipynb)
 
 [Lesson 2: Arithmetic and flow control](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson2.slides.html)  
 
-[Jupyter notebook for Lesson 2](https://github.com/ethanweed/CLA_2019/blob/master/Coding/Wednesday%20Instruction/Lesson2.html)
+[Jupyter notebook for Lesson 2](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson2.ipynb)
 
 [Lesson 3: Errors, strings and readable code](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson3.slides.html)  
 
-[Jupyter notebook for Lesson 3](https://github.com/ethanweed/CLA_2019/blob/master/Coding/Wednesday%20Instruction/Lesson3.html)
+[Jupyter notebook for Lesson 3](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson3.ipynb)
