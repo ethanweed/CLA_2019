@@ -130,6 +130,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Reading
 
 1. Heinold Ch. 7 & 12
+1. Make exercise 1 in ch. 7
 1. Clark Chapter 6
 1. [Hoff and Naigles (2002)](https://drive.google.com/file/d/0B4lOOWBOiL9jOXhtUlVNRmsxUVU/view) Right-click to open  
 1. [Huttenlocker (1998)](https://drive.google.com/file/d/0B4lOOWBOiL9jZHJXWnd2QklsODQ/view)  
@@ -140,14 +141,12 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Goals for this week:
 
 1. Learn about acquisition of syntax
-1. Learn more about lists
-1. Learn about dictionaries (Working with CHILDES transcripts and other corpora)
+1. Coding: Pick up the pieces and put it all together
 
 #### Reading
 
-1. Heinold Ch. 8 & 11
+1. Review Heinold Chs. 1-7 (skim through it; focus on gaps in your knowledge)
 1. Clark Chapter 7
-
 
 ----------------------------------------
 
@@ -168,11 +167,12 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Goals for this week:
 
 1. Learn about Bayesian models of language acquisition
-1. Learn about *while*-loops and data types (Process data the way you want – ask the questions that you find interesting)
+1. Learn more about lists
+1. Learn about *while*-loops
 
 #### Reading
 
-1. Heinold Ch. 9 & 10
+1. Heinold Ch. 8 & 9
 1. [Perfors et al (2010)](https://drive.google.com/file/d/0B4lOOWBOiL9jb0hhQk5vLWpMTVE/view) Right-click to open
 
 ----------------------------------------
@@ -181,14 +181,14 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Goals for this week:
 
 1. Learn about children’s conversation
-1. Learn about functions, scope, and reusable code (Consecutive steps of data processing)
+1. Learn about dictionaries in Python
+1. Learn about handy Python syntax
+
 
 #### Reading
-1. Heinold Ch. 13
+1. Heinold Ch. 10 & 11
 1. Clark Chapter 12  
 1. [Yurovskey et al (2016)](https://drive.google.com/file/d/0B4lOOWBOiL9jVlQ5VVVYZEFadFU/view)  
-
-
 
 ----------------------------------------
 
@@ -196,12 +196,12 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Goals for this week:
 
 1. Learn about bilingual language acquisition
-1. Learn about classes and objects (Working with data in a smart way)
+1. Learn about regular expressions (regexes)
 
 #### Reading
 
-1. Heinold Ch. 14
-1. Clark Chapter 14  
+1. Heinold Ch. 21
+1. Clark Chapter 14
 1. [Suppelementary articles](https://drive.google.com/drive/folders/0B4lOOWBOiL9jdlZRNUl4YXFhMms)
 
 ----------------------------------------
@@ -210,9 +210,11 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Goals for this week:
 
 1. Learn about developmental language disorders
+1. Learn about defining functions
 
 #### Reading
 
+1. Heinold Ch. 13
 1. [Bishop (2008)](https://drive.google.com/file/d/1ugJLcmLnf4A5HrEoKkkWBU2mBpu5uuSi/view)
 1. TBA
 
