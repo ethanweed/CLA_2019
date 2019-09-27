@@ -11771,9 +11771,20 @@ div#notebook {
   <div tabindex="-1" id="notebook" class="border-box-sizing">
     <div class="container" id="notebook-container">
 
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Investigating-the-Role-of-SES-using-the-Hall-data">Investigating the Role of SES using the Hall data<a class="anchor-link" href="#Investigating-the-Role-of-SES-using-the-Hall-data">&#182;</a></h1><p>Data from research by William Hall are available on CHILDES. These data consist of transcripts from Working Class and Professional African American and White families in the U.S. According to the information associated with the corpus on the CHILDES site, "The corpus was collected with the purpose of providing a solid basis for comparing vocabulary usage in different socioeconomic and ethnic groups."</p>
+<p>William Hall (University of Maryland) <img src="https://childes.talkbank.org/access/Eng-NA/0pics/Hall.jpg" alt="William Hall"></p>
+<p>The data for the assignment (in zipped format) are available <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ethanweed/CLA_2019/tree/master/Coding/Friday%20Exercises/Data/Hall_MOTCHI">here</a>. You will need to unzip the folder to use the data.</p>
+
+</div>
+</div>
+</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[46]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">os</span> <span class="k">import</span> <span class="n">chdir</span> <span class="k">as</span> <span class="n">cd</span>
@@ -11820,13 +11831,13 @@ div#notebook {
 <span class="n">CDS</span> <span class="o">=</span> <span class="n">tokens_pro</span> <span class="o">+</span> <span class="n">tokens_work</span>
 <span class="n">SES</span> <span class="o">=</span> <span class="n">pro</span> <span class="o">+</span> <span class="n">work</span>
 <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span>
-    <span class="p">{</span><span class="s1">&#39;CDS&#39;</span><span class="p">:</span> <span class="n">CDS</span><span class="p">,</span>
+    <span class="p">{</span><span class="s1">&#39;Tokens&#39;</span><span class="p">:</span> <span class="n">CDS</span><span class="p">,</span>
      <span class="s1">&#39;SES&#39;</span><span class="p">:</span> <span class="n">SES</span><span class="p">,</span>
     <span class="p">})</span>
 
 <span class="c1">#inspect the data</span>
 <span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span> <span class="c1"># look at the top of the data</span>
-<span class="c1"># df.tail() # look at the bottom of the data</span>
+<span class="c1">#df.tail() # look at the bottom of the data</span>
 <span class="c1"># df #look at all of the data</span>
 </pre></div>
 
@@ -11840,7 +11851,7 @@ div#notebook {
 
 <div class="output_area">
 
-<div class="prompt output_prompt">Out[46]:</div>
+<div class="prompt output_prompt">Out[2]:</div>
 
 
 
@@ -11863,35 +11874,35 @@ div#notebook {
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>CDS</th>
       <th>SES</th>
+      <th>Tokens</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>0</th>
-      <td>4846</td>
       <td>WhiteCollar</td>
+      <td>4846</td>
     </tr>
     <tr>
       <th>1</th>
-      <td>17537</td>
       <td>WhiteCollar</td>
+      <td>17537</td>
     </tr>
     <tr>
       <th>2</th>
-      <td>7839</td>
       <td>WhiteCollar</td>
+      <td>7839</td>
     </tr>
     <tr>
       <th>3</th>
-      <td>4113</td>
       <td>WhiteCollar</td>
+      <td>4113</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>1332</td>
       <td>WhiteCollar</td>
+      <td>1332</td>
     </tr>
   </tbody>
 </table>
@@ -11906,16 +11917,16 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[40]:</div>
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># make boxplot with Seaborn</span>
 <span class="n">sns</span><span class="o">.</span><span class="n">set_style</span><span class="p">(</span><span class="s1">&#39;white&#39;</span><span class="p">)</span>
 
-<span class="n">p</span> <span class="o">=</span> <span class="n">sns</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;CDS&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;SES&#39;</span><span class="p">,</span>
+<span class="n">p</span> <span class="o">=</span> <span class="n">sns</span><span class="o">.</span><span class="n">boxplot</span><span class="p">(</span><span class="n">y</span> <span class="o">=</span> <span class="s1">&#39;Tokens&#39;</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="s1">&#39;SES&#39;</span><span class="p">,</span>
                 <span class="n">data</span> <span class="o">=</span> <span class="n">df</span><span class="p">,</span>
                 <span class="n">width</span><span class="o">=</span><span class="mf">0.5</span><span class="p">,</span>
-                <span class="n">palette</span><span class="o">=</span><span class="s2">&quot;colorblind&quot;</span><span class="p">)</span>
+                <span class="n">palette</span><span class="o">=</span><span class="s2">&quot;YlOrBr&quot;</span><span class="p">)</span>
 
 <span class="n">p</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">&quot;Tokens&quot;</span><span class="p">)</span>
 <span class="n">sns</span><span class="o">.</span><span class="n">despine</span><span class="p">()</span>
@@ -11925,28 +11936,50 @@ div#notebook {
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-<div class="prompt"></div>
-
-
-
-
-<div class="output_png output_subarea ">
-<img src="data:image/png;base64,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
-"
->
 </div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Coding-exercises-(with-three-levels-of-difficulty)">Coding exercises (with three levels of difficulty)<a class="anchor-link" href="#Coding-exercises-(with-three-levels-of-difficulty)">&#182;</a></h2><p>Everybody should try to answer the basic exercise. If you need more of a challenge, go on to the advanced and extra-advanced questions. But don't worry if you can't solve these last two on your own. I will post a solution to them later. Just make sure you can do the basic question.</p>
+<h3 id="Basic">Basic<a class="anchor-link" href="#Basic">&#182;</a></h3><p>These data indicate that the "white collar" parents (professional class) use a greater number of tokens, that is, they speak more words than the "blue collar" parents. What about the kids?</p>
+<ol>
+<li>Make a boxplot that shows the number of tokens for the children from the two groups.</li>
+</ol>
+<h3 id="Advanced">Advanced<a class="anchor-link" href="#Advanced">&#182;</a></h3><ol>
+<li>Write a script that plots a barplot of the number of <em>types</em> for the child-directed speech</li>
+<li>Write a script that plots a barplot of the number of <em>types</em> for the children's speech</li>
+</ol>
+<h3 id="Extra-advanced">Extra-advanced<a class="anchor-link" href="#Extra-advanced">&#182;</a></h3><ol>
+<li>Write a script that extracts the type-to-token ratio for each of the groups, and make a boxplot of the results.</li>
+</ol>
 
 </div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Hints">Hints<a class="anchor-link" href="#Hints">&#182;</a></h2><h3 id="Hints-to-the-basic-exercise:">Hints to the basic exercise:<a class="anchor-link" href="#Hints-to-the-basic-exercise:">&#182;</a></h3><ol>
+<li>What does the list <code>folders</code> do in the script above?</li>
+<li>In this case, it is probably easier to make a separate dataframe for the children.</li>
+</ol>
+<h3 id="Hint-to-the-advanced-exercise:">Hint to the advanced exercise:<a class="anchor-link" href="#Hint-to-the-advanced-exercise:">&#182;</a></h3><ol>
+<li>To find the number of types, you will probably need the function <code>set</code>. Try entering the following to see how it works:</li>
+</ol>
+<p><code>sentence = 'The farmer killed the duckling'
+sentence = sentence.lower()
+sentence = sentence.split()
+print(sentence)
+print(set(sentence))</code></p>
+<h3 id="Hint-to-the-extra-advanced-exercise:">Hint to the extra-advanced exercise:<a class="anchor-link" href="#Hint-to-the-extra-advanced-exercise:">&#182;</a></h3><ol>
+<li>To solve this exercise you will need to make sure you are calculating types and tokens for the <em>same</em> people, so that your results will be meaningful.</li>
+</ol>
+<p>Good luck, and don't forget to ask for help if you get stuck!</p>
 
 </div>
 </div>
-
 </div>
     </div>
   </div>
