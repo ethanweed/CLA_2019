@@ -285,3 +285,7 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 [Lesson 3: Errors, strings and readable code](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson3.slides.html)  
 
 [Jupyter notebook for Lesson 3](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson3.ipynb)
+
+[Lesson 4: Lists](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson4.slides.html)  
+
+[Jupyter notebook for Lesson 4](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson4.ipynb)
