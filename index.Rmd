@@ -291,3 +291,7 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 [Lesson 4: Lists](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson4.slides.html)  
 
 [Jupyter notebook for Lesson 4](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson4.ipynb)
+
+[Lesson 5 & 6 (notebook from live coding session)](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/MLU_and_TTR.ipynb)
+
+[Pre-made notebook for classes 5 & 6 with extensive commments](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson5.ipynb)
