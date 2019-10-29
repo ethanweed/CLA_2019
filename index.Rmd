@@ -196,11 +196,14 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Goals for this week:
 
 1. Learn about bilingual language acquisition
-1. Learn about regular expressions (regexes)
+1. Learn about defining functions
+1. Learn about exceptions
+1. For the advanced: Learn about regular expressions (regexes) - complicated, but powerful
 
 #### Reading
 
-1. Heinold Ch. 21
+1. Heinold Ch. 13 & 25
+1. Heinold Ch. 21 (optional, advanced)
 1. Clark Chapter 14
 1. [Suppelementary articles](https://drive.google.com/drive/folders/0B4lOOWBOiL9jdlZRNUl4YXFhMms)
 
@@ -210,11 +213,11 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 #### Goals for this week:
 
 1. Learn about developmental language disorders
-1. Learn about defining functions
+1. Learn about objects and object-oriented programming
 
 #### Reading
 
-1. Heinold Ch. 13
+1. Heinold Ch. 14
 1. [Bishop (2008)](https://drive.google.com/file/d/1ugJLcmLnf4A5HrEoKkkWBU2mBpu5uuSi/view)
 1. TBA
 
@@ -228,6 +231,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 
 #### Reading
 
+1. Read the tutorial on the webpage for Wednesday
 1. [Lee et al., 2016](http://jacksonllee.com/papers/lee-etal-2016-pylangacq.pdf)
 
 
