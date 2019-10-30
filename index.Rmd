@@ -281,21 +281,18 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 
 ### Wednesday instruction
 [Lesson 1: Introduction, variables and for-loops](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson1.slides.html)  
-
 [Jupyter notebook for Lesson 1](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson1.ipynb)
 
 [Lesson 2: Arithmetic and flow control](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson2.slides.html)  
-
 [Jupyter notebook for Lesson 2](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson2.ipynb)
 
 [Lesson 3: Errors, strings and readable code](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson3.slides.html)  
-
 [Jupyter notebook for Lesson 3](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson3.ipynb)
 
 [Lesson 4: Lists](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson4.slides.html)  
-
 [Jupyter notebook for Lesson 4](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson4.ipynb)
 
 [Lesson 5 & 6 (notebook from live coding session)](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/MLU_and_TTR.ipynb)
-
 [Pre-made notebook for classes 5 & 6 with extensive commments](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson5.ipynb)
+
+[Jupyter Notebook for Lesson 7](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson7.ipynb)
