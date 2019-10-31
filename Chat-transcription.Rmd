@@ -1,0 +1,174 @@
+---
+title: CHAT Transcription Format
+output: 
+  revealjs::revealjs_presentation:
+    theme: black
+---
+
+Adapted from:  
+
+*Tools for Analyzing Talk Part 1:  *
+*The CHAT Transcription Format*
+
+Brian MacWhinney  
+(Carnegie Mellon University)
+
+and from slides by:
+
+Sonja Eisenbeiss  
+(University of Essex)
+
+
+
+
+##Transcription in CHAT / CLAN
+
+>- Written in a text editor
+>- Saved as UTF8 encoded
+>- Use the ``.cha`` file extension
+>- CLAN will take care of these steps for you.
+
+>- Every transcript must:
+    - begin with the line:\@BEGIN
+    - end with the line: \@End
+
+## Between \@BEGIN and \@End:
+
+>- Headers with information about the transcript
+>- Main tiers [basic transcription]  
+>- Dependent tiers [further annotations]  
+
+## CHAT-Format: File Structure
+
+>- \@BEGIN
+>- Headers
+>- *CHI:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[spoken material]&nbsp;&nbsp;&nbsp;&nbsp;.
+>- %mor:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[morpho-syntactic coding]
+>- *MOT:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[spoken material]&nbsp;&nbsp;&nbsp;&nbsp;?
+>- %mor:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[morpho-syntactic coding]
+>- \@End
+
+## CHAT-Format: Headers
+
+Provide meta-data about the transcript, used by e.g. CLAN, PyLangAcq, or some parser that you write yourself
+
+>- @Begin
+>- @Languages
+>- @Participants
+>- @Options (these are, well, optional)
+>- @ID
+>- @Media
+
+## Chat Format Headers: @ID lines
+
+> \@ID: language|corpus|code|age|sex|group
+> |SES|role|education|custom|
+
+> @ID:	eng|Brown|CHI|6;3.04|male|typical
+> |MC|Target_Child|||
+
+> @ID:	dan|Aarhus|CHI|6;5||||Target_Child|||
+
+## Chat Format Headers: @Languages
+
+|   Language    |     Code    | 
+| :----------- | :--------- |
+| Afrikaans      | afr          |
+| Arabic         | ara          |
+| Basque         | eus          |
+| Cantonese      | zho-yue      |
+| Catalan        | cat          |
+| Chinese        | zho          |
+| Cree           | crl          |
+| Croatian       | hrv          |
+| Czech          | ces          |
+| Danish         | dan          |
+| Dutch          | nld          |
+CHAT manual pg. 31
+## Chat Format Headers: @Participants
+
+> @Participants:	CHI Adam Target_Child , MOT Mother , URS Ursula_Bellugi Investigator 
+
+## CHAT-Format: Main Tiers
+
+>- what was actually said 
+>- one utterance per tier
+>- introduced by ``*``, the three-letter code for the
+participant e.g. ``MOT`` or ``CHI`` and a tab:
+
+>- >*MOT: &nbsp;&nbsp;&nbsp;&nbsp; let me put them together .
+
+
+## CHAT-Format: Main Tiers
+
+> 1. Every line must end with a carriage return.
+> 2. The first line in the file must be an @Begin header line.
+> 3. The second line in the file must be an @Languages header line. The languages
+entered here use a three-letter ISO code, such as “eng” for English.
+> 4. The third line must be an @Participants header line listing three-letter codes for
+each participant, the participant's name, and the participant's role.
+
+## CHAT-Format: Main Tiers
+
+> 5. After the @Participants header come a set of @ID headers providing further details for each speaker. These will be inserted automatically for you when you
+run CHECK using escape-L (in CLAN).
+> 6. The last line in the file must be an @End header line.
+
+## CHAT-Format: Main Tiers
+> 7. Lines beginning with * indicate what was actually said. These are called “main
+lines.” Each main line should code one and only one utterance. When a speaker
+produces several utterances in a row, code each with a new main line.
+8. After the asterisk on the main line comes a three-letter code in upper case letters for the participant who was the speaker of the utterance being coded. After the three-letter code comes a colon and then a tab.
+> 9. What was actually said is entered starting in the ninth column.
+
+## CHAT-Format: Dependent Tiers
+> 10. Lines beginning with the % symbol can contain codes and commentary regarding what was said. They are called “dependent tier” lines. The % symbol is followed by a three-letter code in lowercase letters for the dependent tier type, such as “pho” for phonology; a colon; and then a tab. The text of the dependent tier begins after the tab.
+> 11. Continuations of main lines and dependent tier lines begin with a tab which is inserted automatically by the CLAN editor.
+
+
+## Chat-Format: Main Tiers: Words and Utterances
+
+> 1. Utterances must end with an utterance terminator. The basic utterance terminators are the period, the exclamation mark, and the question mark. These can be preceded by a space, but the space is not required.
+> 2. Commas can be used as needed to mark phrasal junctions, but they are not used by the programs and have no sharp prosodic definition.
+> 3. Use upper case letters only for proper nouns and the word “I.” Do not use uppercase letters for the first words of sentences. This will facilitate the identification of proper nouns.
+
+## Chat-Format: Main Tiers: Words and Utterances
+> 4. To facilitate recognition of proper nouns and avoid misspellings, words should not contain capital letters except at their beginning. Words should not contain numbers, unless these mark tones.
+> 5. Unintelligible words with an unclear phonetic shape should be transcribed as ``xxx``.
+> 6. If you wish to note the phonological form of an incomplete or unintelligible phonological string, write it out with an ampersand, as in ``&guga``.
+> 7. Incomplete words can be written with the omitted material in parentheses, as in (be)cause and (a)bout.
+
+## Chat-Format: Main Tiers: Disfluency Markers
+
+|   Disfluencies    |     Code    |  Example   |   Notes   | 
+| :----------- | :--------- | :--------- | :--------- |
+|phrase repetition| <> [/]| <that is a> [/] that is a dog.| < > is used to mark repeated material |
+|word revision | [//] | a dog [//] beast | Revision counts once | 
+|phrase revision | <> [//] | <what did you> [//] | how can you see it ?| Revision counts once |
+|filled pause |&- | &-um &-you_know | Fillers with underscore count as one word |  
+CHAT manual pg. 92
+
+
+## CHAT: Dependent Tiers
+
+Further annotations:  
+
+- %mor &nbsp;&nbsp;&nbsp;&nbsp; [morphosyntactic coding]
+- %pho &nbsp;&nbsp;&nbsp;&nbsp; [phonological coding]
+- %syn &nbsp;&nbsp;&nbsp;&nbsp; [syntactic coding]
+- %err &nbsp;&nbsp;&nbsp;&nbsp; [errors]
+- %com &nbsp;&nbsp;&nbsp;&nbsp; [comments] 
+- %spa &nbsp;&nbsp;&nbsp;&nbsp;[speech acts]
+   
+
+## Resources
+
+[CHAT manual](https://talkbank.org/manuals/CHAT.pdf)  
+
+[CHAT screencast and tutorial](https://talkbank.org/screencasts/)  
+
+[Videos by Frida Splendido](https://docs.google.com/presentation/d/1Hhs6rTXqWaAyHgr8C-X6lvgaYLSaqXew4a20hVWtUGU/edit?usp=sharing)  
+
+
+
+
