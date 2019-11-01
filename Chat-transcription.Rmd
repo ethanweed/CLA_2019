@@ -29,10 +29,10 @@ Sonja Eisenbeiss
 >- CLAN will take care of these steps for you.
 
 >- Every transcript must:
-    - begin with the line:\@BEGIN
+    - begin with the line:\@Begin
     - end with the line: \@End
 
-## Between \@BEGIN and \@End:
+## Between \@Begin and \@End:
 
 >- Headers with information about the transcript
 >- Main tiers [basic transcription]  
@@ -40,7 +40,7 @@ Sonja Eisenbeiss
 
 ## CHAT-Format: File Structure
 
->- \@BEGIN
+>- \@Begin
 >- Headers
 >- *CHI:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[spoken material]&nbsp;&nbsp;&nbsp;&nbsp;.
 >- %mor:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[morpho-syntactic coding]
