@@ -296,3 +296,6 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 [Pre-made notebook for classes 5 & 6 with extensive commments](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson5.ipynb)
 
 [Jupyter Notebook for Lesson 7](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson7.ipynb)
+
+[Lesson 8: Functions](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson8.slides.html)  
+[Jupyter notebook for Lesson 8](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson8.ipynb)
