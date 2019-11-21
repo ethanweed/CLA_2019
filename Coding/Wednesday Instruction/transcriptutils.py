@@ -33,7 +33,7 @@ def clean_transcript(raw_transcript):
                                   # (and not metadata or grammar line)
             
             speaker = line[1:4]  
-            utterance = line.split('\t')[1]  # ()'\t' = tab character)
+            utterance = line.split('\t')[1]  # '\t' = tab character)
             
             # since the utterance lines also contains punctuation, clean it
             cleaned_utterance = ''  # prepare empty string for clean utterance
