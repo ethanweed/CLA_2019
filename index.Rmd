@@ -315,3 +315,6 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 ## Other Python links
 
 [Live-coding from 22.11.2019](https://ethanweed.github.io/CLA_2019/Coding/Friday%20Exercises/Notebooks/live-coding-2019-11-22.html)
+
+[Some home-made modules for CHAT transcripts](https://github.com/ethanweed/CLA_2019/tree/master/CLA_2018/Functions) Use at your own peril or, better yet, improve them and make a pull request ;-)
+
