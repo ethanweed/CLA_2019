@@ -1,0 +1,316 @@
+---
+title: "Child Language Acquisition"
+output: 
+  html_document:
+    df_print: default
+    number_sections: no
+    self_contained: no
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: no
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome 
+Welcome to **Child Language Acquisition**!
+
+In this course, we will use transcripts and corpora to help us understand child language acquisition. To do this we will be using the programming language Python and the program CLAN. Please install these before the first class (see details below).
+
+### Getting set up with Python.
+
+In this course, we will learn about the acquisition of language in early childhood. An important part of the course will be to learn to write scripts in the Python programming language to automate aspects of corpus analysis. To make this easier, I would like everybody to install a package called “Anaconda”. I have chosen Anaconda because:
+
+- It is widely respected in the data-science community
+- It includes the basic functions that we will need
+- It is cross-platform, so no matter whether you have a Mac, a Windows, or a Linux machine, you should be able to have the same programming environment as everyone else. If you have a Chromebook, it isn’t so easy. It is [apparently possible to install Anaconda on a Chromebook](https://wsvincent.com/install-python3-chromebook/). If you decide to do this, I salute you, but you are on your own. A simpler option for Chromebook users is to use [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb). Otherwise, you may just have to work with someone else, which isn’t so bad anyway.
+- It supports something called jupyter notebooks, which are a relatively user-friendly way to learn coding and to present your results
+
+So, please go [here](https://www.anaconda.com/distribution/) and download Anaconda. Choose the right version for your operating system (OSX, Windows, Linux). 
+
+- If you have Windows, figure out whether your computer has a 64-bit or a 32-bit processor. 
+- If you have a Mac, your only choice is 64-bit.  Choose the graphical installer, and not the command line installer. 
+- If you have Linux, you probably already know more than I do about computers, and I can’t help you (but I’ll try anyway, if you run into trouble)
+
+You will also need to choose between a version of Python 2 or Python 3 (currently version 3.7). You should choose Python 3.
+
+Please try to get Anaconda installed before the first class, so we can get started right away. If you have problems, let me know as soon as you can.
+
+### Getting set up with CLAN
+
+We will use the program CLAN to transcribe our own child data. Please [download and install CLAN](http://dali.talkbank.org/clan/). If you already have CLAN, make sure you have the most recent version - things may have changed since the version you downloaded.
+
+
+----------------------------------------
+
+## Textbooks
+1. Clark, Eve V. (2016). First Language Acquisition. Cambridge: Cambridge University Press NB: Any edition of this book should be fine.
+1. [Heinold, Brian. (2012). A Practical Introduction to Python Programming](https://www.brianheinold.net/python/A_Practical_Introduction_to_Python_Programming_Heinold.pdf)
+
+----------------------------------------
+
+### Week 36
+
+
+#### Goals for this week:
+
+1. Learn about the course: goals, structure, exam
+1. Learn about stages in child language development
+1. Dip toes into programming
+
+#### Reading
+
+1. [Video on creating a new Jupyter Notebook](https://www.youtube.com/watch?v=-MyjG00la2k)  
+1. [Brown, 1973: Excerpt from Introduction](https://drive.google.com/file/d/0B4lOOWBOiL9jeHBXV0NvMy1KeFk/view)   
+1. [Ingram, 1989, Chapter 3](https://drive.google.com/open?id=0B4lOOWBOiL9jVjUwSXpQamFCcGs)   
+
+----------------------------------------
+
+### Week 37
+#### Goals for this week:
+
+1. Learn about different theoretical approaches to child language learning
+1. Learn about reproducible science
+1. Learn about variables
+1. Learn about *for*-statements (Repetitive tasks on sentence-, text- and corpus level)
+
+#### Reading
+
+1. Heinold Ch. 1 & 2 (skip 1.1-2)
+1. Clark Chapter 1
+1. [Behrens (2008)](https://drive.google.com/open?id=0B4lOOWBOiL9jYmFtZi15V0JKSGs)
+
+
+----------------------------------------
+
+### Week 38
+#### Goals for this week:
+
+1. Learn about child-directed speech
+1. Learn about lexical diversity (TTR) and learn how to calculate it
+1. Learn about doing arithmetic with Python (Getting metrics out of linguistic data)
+1. Learn about flow control and *if*-statements (Test certain conditions in data)
+1. Learn about types of errors and how to handle these
+
+#### Reading
+
+1. Heinold Ch. 3 & 4
+1. Clark Chapter 2
+1. [Hoff (2003)](https://drive.google.com/open?id=0B4lOOWBOiL9jeUpQY3pjV29jMGc) Right-click to open
+
+----------------------------------------
+
+### Week 39
+#### Goals for this week:
+
+1. Learn about speech stream segmentation
+1. Learn about early words
+1. Learn about programming errors and how handle them
+1. Learn about strings (Strings are one of the backbones of computational linguistics)
+1. Learn about readable code (Write code that is human-readable)
+
+#### Reading
+
+1. Heinold Ch. 5 & 6
+1. Make exercise 1 in ch. 6
+1. Clark Chapters 3 & 4
+
+----------------------------------------
+
+### Week 40
+#### Goals for this week:
+
+1. Learn about acquisition of semantics
+1. Learn about lists (Store data in a structured way)
+1. Learn about reading and writing files (Process real data – text mining)
+
+#### Reading
+
+1. Heinold Ch. 7 & 12
+1. Make exercise 1 in ch. 7
+1. Clark Chapter 6
+1. [Hoff and Naigles (2002)](https://drive.google.com/file/d/0B4lOOWBOiL9jOXhtUlVNRmsxUVU/view) Right-click to open  
+1. [Huttenlocher (1998)](https://drive.google.com/file/d/0B4lOOWBOiL9jZHJXWnd2QklsODQ/view)  
+
+----------------------------------------
+
+### Week 41
+#### Goals for this week:
+
+1. Learn about acquisition of syntax
+1. Coding: Pick up the pieces and put it all together
+
+#### Reading
+
+1. Review Heinold Chs. 1-7 (skim through it; focus on gaps in your knowledge)
+1. Clark Chapter 7
+
+----------------------------------------
+
+### Week 42 (Autumn break)
+#### Goals for this week:
+
+1. Relax
+
+#### Reading
+
+1. Whatever you like
+1. Or nothing at all
+
+
+----------------------------------------
+
+### Week 43
+#### Goals for this week:
+
+1. Learn about Bayesian models of language acquisition
+1. Learn more about lists
+1. Learn about *while*-loops
+
+#### Reading
+
+1. Heinold Ch. 8 & 9
+1. [Perfors et al (2010)](https://drive.google.com/file/d/0B4lOOWBOiL9jb0hhQk5vLWpMTVE/view) Right-click to open
+
+----------------------------------------
+
+### Week 44
+#### Goals for this week:
+
+1. Learn about children’s conversation
+1. Learn about CHAT transcription in CLAN
+1. Learn about dictionaries in Python
+1. Learn about handy Python syntax
+
+
+#### Reading
+1. Heinold Ch. 10 & 11
+1. Clark Chapter 12  
+1. [Videos on CHAT transcription in CLAN](https://docs.google.com/presentation/d/1Hhs6rTXqWaAyHgr8C-X6lvgaYLSaqXew4a20hVWtUGU/edit?usp=sharing)
+1. [Yurovskey et al (2016)](https://drive.google.com/file/d/0B4lOOWBOiL9jVlQ5VVVYZEFadFU/view)  
+
+----------------------------------------
+
+### Week 45
+#### Goals for this week:
+
+1. Learn about bilingual language acquisition
+1. Learn about defining functions
+1. Learn about exceptions
+1. For the advanced: Learn about regular expressions (regexes) - complicated, but powerful
+
+#### Reading
+
+1. Heinold Ch. 13 & 25
+1. Heinold Ch. 21 (optional, advanced)
+1. Clark Chapter 14
+1. [Suppelementary articles](https://drive.google.com/drive/folders/0B4lOOWBOiL9jdlZRNUl4YXFhMms)
+
+----------------------------------------
+
+### Week 46
+#### Goals for this week:
+
+1. Learn about developmental language disorders
+1. Learn about objects and object-oriented programming
+
+#### Reading
+
+1. Heinold Ch. 14
+1. [Bishop (2008)](https://drive.google.com/file/d/1ugJLcmLnf4A5HrEoKkkWBU2mBpu5uuSi/view)
+1. [Supplementary articles](https://drive.google.com/open?id=13oLDX3dNFlJBLF2MI9Yu9kVtcEwUD2Xj)
+
+
+----------------------------------------
+
+### Week 47
+#### Goals for this week:
+
+1. Learn about using a CHILDES transcript parser ([PyLangAcq](http://pylangacq.org/toc.html))
+
+#### Reading
+
+1. Read the tutorial on the webpage for Wednesday
+1. [Lee et al., 2016](http://jacksonllee.com/papers/lee-etal-2016-pylangacq.pdf)
+
+
+----------------------------------------
+
+### Week 48
+#### Goals for this week:
+
+1. Share project ideas:
+- introduce the transcript(s) you will be working with
+- sketch the analysis pipeline you will (tentatively) use
+
+
+----------------------------------------
+
+### Week 49
+#### Goals for this week:
+
+1. Share project process:
+- how is your project going?
+- what problems have you run into?
+
+
+
+
+----------------------------------------
+
+## Exercises
+
+[Variables, strings, and lists](https://ethanweed.github.io/CLA_2019/CLA_2018/Notebooks/01_Getting started with Python.html)  
+[FOR-loops](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/for-loops_01.html)  
+[IF-statements](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/IF statements-for-counting-words.html)  
+
+[Data for IF-statements notebook](https://raw.githubusercontent.com/ethanweed/CLA_2019/master/Coding/Friday%20Exercises/Data/Adam_mot_words_list.txt) (Right-click and choose "Download linked..")
+
+[Hall SES Exercise](https://ethanweed.github.io/CLA_2019/Coding/Friday Exercises/Notebooks/Hall-SES-tokens-analysis.html)  
+[Hall data Types](https://ethanweed.github.io/CLA_2019/Coding/Hall-SES-types-analysis.html)  
+[Hall data TTR](https://ethanweed.github.io/CLA_2019/Coding/Hall-SES-TTR.html)
+
+## Lecture Slides
+
+### Friday lectures
+
+Slides from Friday lectures will appear [here](https://drive.google.com/open?id=1ykMPh9z4xeugF4VvfOXScyPoSralq225)  
+
+[Slides on CHAT transcription](https://ethanweed.github.io/CLA_2019/Chat-transcription.html)  
+
+[Slides on Mixed-Effects models and ASD data](https://ethanweed.github.io/CLA_2019/Coding/Friday%20Exercises/Notebooks/Hearing-me-exploration.slides-5.html)
+
+
+
+### Wednesday instruction
+[Lesson 1: Introduction, variables and for-loops](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson1.slides.html)  
+[Jupyter notebook for Lesson 1](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson1.ipynb)
+
+[Lesson 2: Arithmetic and flow control](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson2.slides.html)  
+[Jupyter notebook for Lesson 2](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson2.ipynb)
+
+[Lesson 3: Errors, strings and readable code](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson3.slides.html)  
+[Jupyter notebook for Lesson 3](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson3.ipynb)
+
+[Lesson 4: Lists](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson4.slides.html)  
+[Jupyter notebook for Lesson 4](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson4.ipynb)
+
+[Lesson 5 & 6 (notebook from live coding session)](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/MLU_and_TTR.ipynb);
+[Pre-made notebook for classes 5 & 6 with extensive comments](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson5.ipynb)
+
+[Jupyter Notebook for Lesson 7](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson7.ipynb)
+
+[Lesson 8: Functions](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson8.slides.html)  
+[Jupyter notebook for Lesson 8](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson8.ipynb)
+<<<<<<< HEAD
+=======
+
+[Lesson 9: Objects](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson9.slides.html)  
+[Jupyter notebook for Lesson 9](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson9.ipynb)
+
+[Lesson 10: Modules](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson10.slides.html)  
+[Jupyter notebook for Lesson 10](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson10.ipynb)
+>>>>>>> 0982cc9c79c50283b801cff0fc10ebfeac28d2c8
