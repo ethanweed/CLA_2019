@@ -305,12 +305,10 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 
 [Lesson 8: Functions](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson8.slides.html)  
 [Jupyter notebook for Lesson 8](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson8.ipynb)
-<<<<<<< HEAD
-=======
 
 [Lesson 9: Objects](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson9.slides.html)  
 [Jupyter notebook for Lesson 9](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson9.ipynb)
 
 [Lesson 10: Modules](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson10.slides.html)  
 [Jupyter notebook for Lesson 10](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson10.ipynb)
->>>>>>> 0982cc9c79c50283b801cff0fc10ebfeac28d2c8
+
