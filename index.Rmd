@@ -318,3 +318,5 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 
 [Some home-made modules for CHAT transcripts](https://github.com/ethanweed/CLA_2019/tree/master/CLA_2018/Functions) Use at your own peril or, better yet, improve them and make a pull request ;-)
 
+[Some old Python exercises](https://github.com/ethanweed/CLA_2019/tree/master/CLA_2018/Notebooks) Please alert me if you see any errors :-)
+
