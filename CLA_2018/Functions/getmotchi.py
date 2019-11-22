@@ -8,8 +8,10 @@ def getmotchi (file):
         clean_list = [s.replace('\r', '') for s in clean_list]
         #clean_list = [s.replace('*FAT', '*MOT') for s in clean_list] #NB FAT 2 MOT!
         #clean_list = [s.replace('*AUN', '*MOT') for s in clean_list] #NB AUN 2 MOT!
+        clean_list = [s.replace('.', '') for s in clean_list]
         clean_list = [s.replace('!', '') for s in clean_list]
         clean_list = [s.replace('?', '') for s in clean_list]
+
         
         # make a list with only the MOT and CHI lines from the transcript
         utt_motchi = []
@@ -35,6 +37,7 @@ def getchi (file):
         clean_list = [s.replace('\r', '') for s in clean_list]
         #clean_list = [s.replace('*FAT', '*MOT') for s in clean_list] #NB FAT 2 MOT!
         #clean_list = [s.replace('*AUN', '*MOT') for s in clean_list] #NB AUN 2 MOT!
+        clean_list = [s.replace('.', '') for s in clean_list]
         clean_list = [s.replace('!', '') for s in clean_list]
         clean_list = [s.replace('?', '') for s in clean_list]
         
@@ -62,6 +65,7 @@ def getmot (file):
         clean_list = [s.replace('\r', '') for s in clean_list]
         #clean_list = [s.replace('*FAT', '*MOT') for s in clean_list] #NB FAT 2 MOT!
         #clean_list = [s.replace('*AUN', '*MOT') for s in clean_list] #NB AUN 2 MOT!
+        clean_list = [s.replace('.', '') for s in clean_list]
         clean_list = [s.replace('!', '') for s in clean_list]
         clean_list = [s.replace('?', '') for s in clean_list]
         
