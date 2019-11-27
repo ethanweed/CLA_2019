@@ -311,3 +311,12 @@ Slides from Friday lectures will appear [here](https://drive.google.com/open?id=
 
 [Lesson 10: Modules](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson10.slides.html)  
 [Jupyter notebook for Lesson 10](https://ethanweed.github.io/CLA_2019/Coding/Wednesday%20Instruction/Lesson10.ipynb)
+
+## Other Python links
+
+[Live-coding from 22.11.2019](https://ethanweed.github.io/CLA_2019/Coding/Friday%20Exercises/Notebooks/live-coding-2019-11-22.html)
+
+[Some home-made modules for CHAT transcripts](https://github.com/ethanweed/CLA_2019/tree/master/CLA_2018/Functions) Use at your own peril or, better yet, improve them and make a pull request ;-)
+
+[Some old Python exercises](https://github.com/ethanweed/CLA_2019/tree/master/CLA_2018/Notebooks) Please alert me if you see any errors :-)
+
