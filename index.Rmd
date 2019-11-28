@@ -245,6 +245,7 @@ We will use the program CLAN to transcribe our own child data. Please [download 
 1. Share project ideas:
 - introduce the transcript(s) you will be working with
 - sketch the analysis pipeline you will (tentatively) use
+2. Work together to write pseudocode for your analyses
 
 
 ----------------------------------------
